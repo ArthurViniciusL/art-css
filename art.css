@@ -1,0 +1,58 @@
+:root {
+    --bg-white-01: 255, 255, 255;
+    --bg-white-02: 246, 245, 244;
+    --bg-white-03: 235, 235, 235;
+
+    --bg-black-01: 0, 0, 0;
+    --bg-black-02: 19, 20, 22;
+    --bg-black-03: 74, 75, 77;
+
+    --txt-black-01: 0, 0, 0;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-white-01: 0, 0, 0;
+        --bg-white-02: 19, 20, 22;
+        --bg-white-03: 74, 75, 77;
+
+        --bg-black-01: 255, 255, 255;
+        --bg-black-02: 246, 245, 244;
+        --bg-black-03: 235, 235, 235;
+
+        --txt-black-01: 255, 255, 255;
+    }
+}
+
+.art-bg-white-01 {
+    background-color: rgba(var(--bg-white-01));
+}
+
+.art-bg-white\:10\% {
+    /* art-bg-white:10% */
+    background-color: rgba(var(--bg-white-01), 0.1);
+}
+
+.art-bg-white\:20\% {
+    /* art-bg-white:20% */
+    background-color: rgba(var(--bg-white-01), 0.2);
+}
+
+.art-bg-white\:30\% {
+    /* art-bg-white:30% */
+    background-color: rgba(var(--bg-white-01), 0.3);
+}
+
+.art-bg-white\:40\% {
+    /* art-bg-white:40% */
+    background-color: rgba(var(--bg-white-01), 0.4);
+}
+
+.art-bg-white\:50\% {
+    /* art-bg-white:50% */
+    background-color: rgba(var(--bg-white-01), 0.5);
+}
+
+.art-bg-white-02 {
+    background-color: rgba(var(--bg-white-02));
+}
