@@ -35,9 +35,9 @@
     background-color: var(--bg-white-02);
 }
 
-/* 
-As cores com opacidade são baseadas em cores fixas, não em cores armazenadas nas variáveis para não sofrerem com a mudança de themas.
-*/
+.art-bg-white-03 {
+    background-color: var(--bg-white-03);
+}
 
 .art-bg-white\:10\% {
     /* art-bg-white:10% */
@@ -67,3 +67,37 @@ As cores com opacidade são baseadas em cores fixas, não em cores armazenadas n
 .art-bg-black-01 {
     background-color: var(--bg-black-01);
 }
+
+.art-bg-black-02 {
+    background-color: var(--bg-black-02);
+}
+
+.art-bg-black-03 {
+    background-color: var(--bg-black-03);
+}
+
+.art-bg-black\:10\% {
+    /* art-bg-white:10% */
+    background-color: rgba(var(--black-rgba) 0.1);
+}
+
+.art-bg-black\:20\% {
+    /* art-bg-white:10% */
+    background-color: rgba(var(--black-rgba) 0.2);
+}
+
+.art-bg-black\:30\% {
+    /* art-bg-white:10% */
+    background-color: rgba(var(--black-rgba) 0.3);
+}
+
+.art-bg-black\:40\% {
+    /* art-bg-white:10% */
+    background-color: rgba(var(--black-rgba) 0.4);
+}
+
+.art-bg-black\:50\% {
+    /* art-bg-white:10% */
+    background-color: rgba(var(--black-rgba) 0.5);
+}
+
