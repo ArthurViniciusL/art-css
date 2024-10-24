@@ -10,12 +10,17 @@
     --yellow-01: #FFDE83;
     --yellow-02: #FFBD08;
     --yellow-03: #C08E06;
-    
+
+    --green-01: #8FF0A4;
+    --green-02: #33D17A;
+    --green-03: #26A269;
+
     --txt-black-01: 0, 0, 0;
 
     --white-rgba: 255, 255, 255;
     --black-rgba: 0, 0, 0;
     --yellow-rgba: 255, 222, 131;
+    --green-rgba: 38, 162, 105;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -136,4 +141,36 @@
 
 .art-bg-yellow\:50\% {
     background-color: rgba(var(--yellow-rgba), 0.5);
+}
+
+.art-bg-green-01 {
+    background-color: var(--green-01);
+}
+
+.art-bg-green-02 {
+    background-color: var(--green-02);
+}
+
+.art-bg-green-03 {
+    background-color: var(--green-02);
+}
+
+.art-bg-green\:10\% {
+    background-color: rgba(var(--green-rgba), 0.1);
+}
+
+.art-bg-green\:20\% {
+    background-color: rgba(var(--green-rgba), 0.2);
+}
+
+.art-bg-green\:30\% {
+    background-color: rgba(var(--green-rgba), 0.3);
+}
+
+.art-bg-green\:40\% {
+    background-color: rgba(var(--green-rgba), 0.4);
+}
+
+.art-bg-green\:50\% {
+    background-color: rgba(var(--green-rgba), 0.5);
 }
