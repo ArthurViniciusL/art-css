@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantarell:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 :root {
     --white-01: #FFFFFF;
     --white-02: #F6F5F4;
@@ -23,6 +25,11 @@
     --blue-02: #376FE6;
     --blue-03: #1C71D8;
     --blue-rgba: 28, 113, 216;
+
+    --red-01: #ED333B;
+    --red-02: #F60000;
+    --red-03: #DB1111;
+    --red-rgba: 219, 17, 17;
 
     --txt-black-01: #000000;
 
@@ -210,4 +217,36 @@
 
 .art-bg-blue\:50\% {
     background-color: rgba(var(--blue-rgba), 0.5);
+}
+
+.art-bg-red-01 {
+    background-color: var(--red-01);
+}
+
+.art-bg-red-02 {
+    background-color: var(--red-02);
+}
+
+.art-bg-red-03 {
+    background-color: var(--red-03);
+}
+
+.art-bg-red\:10\% {
+    background-color: rgba(var(--red-rgba) 0.1);
+}
+
+.art-bg-red\:20\% {
+    background-color: rgba(var(--red-rgba) 0.2);
+}
+
+.art-bg-red\:30\% {
+    background-color: rgba(var(--red-rgba) 0.3);
+}
+
+.art-bg-red\:40\% {
+    background-color: rgba(var(--red-rgba) 0.4);
+}
+
+.art-bg-red\:50\% {
+    background-color: rgba(var(--red-rgba) 0.5);
 }
