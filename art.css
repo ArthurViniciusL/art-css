@@ -5,7 +5,7 @@
     --white-02: #F6F5F4;
     --white-03: #EBEBEB;
     --white-rgba: 255, 255, 255;
-    
+
     --black-01: #4A4B4D;
     --black-02: #131416;
     --black-03: #000000;
@@ -15,7 +15,7 @@
     --yellow-02: #FFBD08;
     --yellow-03: #C08E06;
     --yellow-rgba: 255, 222, 131;
-    
+
     --green-01: #8FF0A4;
     --green-02: #33D17A;
     --green-03: #26A269;
@@ -249,4 +249,48 @@
 
 .art-bg-red\:50\% {
     background-color: rgba(var(--red-rgba) 0.5);
+}
+
+/*Font colors:*/
+
+.art-ft-black-01 {
+    color: var(--black-01);
+}
+
+.art-ft-black-02 {
+    color: var(--black-02);
+}
+
+.art-ft-black-03 {
+    color: var(--black-03);
+}
+
+.art-ft-white-01 {
+    color: var(--white-01);
+}
+
+.art-ft-white-02 {
+    color: var(--white-02);
+}
+
+.art-ft-white-03 {
+    color: var(--white-03);
+}
+
+/* hovers:*/
+
+.art-bg-black-01\:hover:hover {
+    background-color: var(--black-01);
+}
+
+.art-bg-black-02\:hover:hover {
+    background-color: var(--black-02);
+}
+
+.art-bg-black-03\:hover:hover {
+    background-color: var(--black-03);
+}
+
+.art-ft-white-03\:hover:hover {
+    color: var(--white-03);
 }
