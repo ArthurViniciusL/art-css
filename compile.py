@@ -1,10 +1,7 @@
 import os
 
-if (os.path.exists('bin/art.css')):
-    os.remove('bin/art.css');
-
-else:
-    os.mkdir('bin')
+# if not (os.path.exists('bin')):
+    # os.mkdir('bin');
 
 dir = [
     'src/main.css',
@@ -20,6 +17,8 @@ for file in dir:
 
     print(file)
 
-with open('bin/art.css', 'w', encoding='utf-8') as file:
+#ou bin/art.css
+
+with open('art.css', 'w', encoding='utf-8') as file:
     content_as_string = ''.join(content);
     file.write(''.join(content_as_string));
