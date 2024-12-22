@@ -1,0 +1,15 @@
+/* Borders */
+
+/* .art-b-radius-04 {
+    border-radius: 0.9rem;
+} */
+
+.art-b-solid-white-01\:0\.5\:full {
+    /* art-b-solid-white-01:0.5:full */
+    border: solid var(--white-01) 0.5px;
+}
+
+.art-b-solid-black-01\:0\.5\:full {
+    /* art-b-solid-black-01:0.5:full */
+    border: solid var(--black-01) 0.5px;
+}

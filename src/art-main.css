@@ -58,7 +58,3 @@
         --txt-black-01: #FFFFFF;
     }
 }
-
-.art-border-solid-black-01\:0\.5\:full {
-    border: solid 0.5px var(--black-01);
-}
