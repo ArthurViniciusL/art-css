@@ -16,9 +16,9 @@
     --white-03: #EBEBEB;
     --white-rgba: 255, 255, 255;
 
-    --black-01: #4A4B4D;
+    --black-01: #000000;
     --black-02: #131416;
-    --black-03: #000000;
+    --black-03: #4A4B4D;
     --black-rgba: 0, 0, 0;
 
     --yellow-01: #FFDE83;
@@ -47,9 +47,9 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --white-01: #4A4B4D;
+        --white-01: #000000;
         --white-02: #131416;
-        --white-03: #000000;
+        --white-03: #4A4B4D;
 
         --black-01: #FFFFFF;
         --black-02: #F6F5F4;
