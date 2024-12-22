@@ -8,7 +8,9 @@ dir = [
     'src/modules/background/bg-color.css',
     'src/modules/font/ft-color.css',
     'src/modules/hovers/bg-hover.css',
-    'src/modules/hovers/ft-hover.css'
+    'src/modules/hovers/ft-hover.css',
+    'src/modules/opacity/bg-opacity',
+    'src/modules/opacity/ft-opacity'
     ]
     
 file_content = [];
