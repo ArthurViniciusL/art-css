@@ -1,4 +1,4 @@
 index.html
 compile.py
-src/
-bin/
+/src/
+/bin/
