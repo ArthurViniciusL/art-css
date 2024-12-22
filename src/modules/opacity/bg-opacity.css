@@ -23,7 +23,6 @@
     background-color: rgba(var(--white-rgba), 0.5);
 }
 
-
 .art-bg-black\:10\% {
     /* art-bg-white:10% */
     background-color: rgba(var(--black-rgba) 0.1);
