@@ -10,7 +10,8 @@ dir = [
     'src/modules/hovers/bg-hover.css',
     'src/modules/hovers/ft-hover.css',
     'src/modules/opacity/bg-opacity.css',
-    'src/modules/opacity/ft-opacity.css'
+    'src/modules/opacity/ft-opacity.css',
+    'src/modules/border/border.css'
     ]
     
 file_content = [];
