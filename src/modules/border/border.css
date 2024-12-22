@@ -4,12 +4,16 @@
     border-radius: 0.9rem;
 } */
 
-.art-b-solid-white-01\:0\.5\:full {
-    /* art-b-solid-white-01:0.5:full */
-    border: solid var(--white-01) 0.5px;
+.art-b-white-01 {
+    border-color: var(--white-01);
 }
 
-.art-b-solid-black-01\:0\.5\:full {
-    /* art-b-solid-black-01:0.5:full */
-    border: solid var(--black-01) 0.5px;
+
+.art-b-black-01 {
+    border-color: var(--black-01);
+}
+
+.art-b-solid\:0\.5\:full {
+    /* art-b-solid:0.5:full */
+    border: 0.5px solid;
 }
