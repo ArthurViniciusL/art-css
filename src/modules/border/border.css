@@ -1,19 +1,24 @@
 /* Borders */
 
-/* .art-b-radius-04 {
+/* .border\:art-radius-04 {
     border-radius: 0.9rem;
 } */
 
-.art-b-white-01 {
+.border-c\:art-white-01 {
+    /* border:art-white-01 */
     border-color: var(--white-01);
 }
 
-
-.art-b-black-01 {
+.border-color\:art-black-01 {
+    /* border:art-black-01 */
     border-color: var(--black-01);
 }
 
-.art-b-solid\:0\.5\:full {
+.border-width\:art-0\.5 {
     /* art-b-solid:0.5:full */
-    border: 0.5px solid;
+    border-width: 0.5px;
+}
+
+.border-style\:art-solid\:full {
+    border-style: solid;
 }

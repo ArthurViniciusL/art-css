@@ -1,73 +1,74 @@
 /* Fonts hover: */
 
-.art-ft-white-01\:hover:hover {
+.hover\:art-ft-white-01:hover {
     color: var(--white-01);
 }
 
-.art-ft-white-02\:hover:hover {
+.hover\:art-ft-white-02:hover {
     color: var(--white-02);
 }
 
-.art-ft-white-03\:hover:hover {
+.hover\:art-ft-white-03:hover {
     color: var(--white-03);
 }
 
-.art-ft-black-01\:hover:hover {
+.hover\:art-ft-black-01:hover {
     color: var(--black-01);
 }
 
-.art-ft-black-02\:hover:hover {
+.hover\:art-ft-black-02:hover {
     color: var(--black-02);
 }
 
-.art-ft-black-03\:hover:hover {
+.hover\:art-ft-black-03:hover {
     color: var(--black-03);
 }
 
-.art-ft-yellow-01\:hover:hover {
+.hover\:art-ft-yellow-01:hover {
     color: var(--yellow-01);
 }
 
-.art-ft-yellow-02\:hover:hover {
+.hover\:art-ft-yellow-02:hover {
     color: var(--yellow-02);
 }
 
-.art-ft-yellow-03\:hover:hover {
+.hover\:art-ft-yellow-03:hover {
     color: var(--yellow-03);
 }
 
-.art-ft-green-01\:hover:hover {
+.hover\:art-ft-green-01:hover {
     color: var(--green-01);
 }
 
-.art-ft-green-02\:hover:hover {
+.hover\:art-ft-green-02:hover {
     color: var(--green-02);
 }
 
-.art-ft-green-03\:hover:hover {
+.hover\:art-ft-green-03:hover {
     color: var(--green-03);
 }
 
-.art-ft-blue-01\:hover:hover {
+.hover\:art-ft-blue-01:hover {
     color: var(--blue-01);
 }
 
-.art-ft-blue-02\:hover:hover {
+.hover\:art-ft-blue-02:hover {
     color: var(--blue-02);
 }
 
-.art-ft-blue-03\:hover:hover {
+.hover\:art-ft-blue-03:hover {
     color: var(--blue-03);
 }
 
-.art-ft-red-01\:hover:hover {
+.hover\:art-ft-red-01:hover {
     color: var(--red-01);
 }
 
-.art-ft-red-02\:hover:hover {
+.hover\:art-ft-red-02:hover {
     color: var(--red-02);
 }
 
-.art-ft-red-03\:hover:hover {
+.hover\:art-ft-red-03:hover {
     color: var(--red-03);
 }
+
