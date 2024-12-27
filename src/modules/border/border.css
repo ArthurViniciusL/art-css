@@ -9,6 +9,11 @@
     border-radius: 1rem;
 }
 
+.art-border-radius\:full\:radius-02 {
+    /* art-border-radius:full:radius-02 */
+    border-radius: 1.2rem;
+}
+
 .art-border-full\:solid-0\.5\:white-01 {
     /* border:solid-0.5:full:white-01 */
     border: solid 0.5px var(--white-01);
