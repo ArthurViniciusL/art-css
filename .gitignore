@@ -4,11 +4,7 @@ compile.py
 art-css.css
 
 # Ignorar todo o conteúdo da pasta src
-/src
-
-# Ignorar arquivos temporários do sistema operacional
-.DS_Store
-Thumbs.db
+/src/
 
 # Ignorar pastas e arquivos criados pelo VS Code
 .vscode/
