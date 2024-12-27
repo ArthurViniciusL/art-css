@@ -1,51 +1,34 @@
-/* Borders */
+/* ------------------------------------- border styles: ------------------------------------- */
+.art\:border-style\:solid {
+    /* art:border-style:solid */
+    border-style: solid;
+}
 
-/* .border\:radius-04 {
-    border-radius: 0.9rem;
-} */
+/* ------------------------------------- border colors: ------------------------------------- */
 
-.art-border-radius\:full\:radius-01 {
-    /* art-border-radius:full:radius-01 */
+.art\:border-color\:black-01 {
+    /* art:border-color:black-01  */
+    border-color: var(--black-01);
+}
+
+
+/* ------------------------------------- border sizes: ------------------------------------- */
+
+.art\:border-size\:s-01 {
+    /* art:border-size:s-01 */
+    border-width: 0.5px;
+}
+
+/* ------------------------------------- border radius: ------------------------------------- */
+
+.art\:border-radius\:r-01 {
+    /* art:border-radius:r-01  */
     border-radius: 1rem;
 }
 
-.art-border-radius\:full\:radius-02 {
-    /* art-border-radius:full:radius-02 */
-    border-radius: 1.2rem;
-}
+/* ------------------------------------- border full solid: ------------------------------------ */
 
-.art-border-solid\:full\:0\.5\:white-01 {
-    /* art-border-solid:full:0.5:white-01 */
-    border: solid 0.5px var(--white-01);
+.art\:border-full\:solid\:black-01\:s-01 {
+    /* .art:border-full:solid:black-01:s-01 */
+    border: solid var(--black-01) 0.5px;
 }
-
-.art-border-solid\:full\:0\.5\:white-02 {
-    /* art-border-solid:full:0.5:white-02 */
-    border: solid 0.5px var(--white-02);
-}
-
-.art-border-solid\:full\:0\.5\:white-03 {
-    /* art-border-solid:full:0.5:white-03 */
-    border: solid 0.5px var(--white-03);
-}
-
-.art-border-solid\:full\:0\.5\:black-01 {
-    /* art-border-solid:full:0.5:black-01 */
-    border: solid 0.5px var(--black-01);
-}
-
-.art-border-solid\:full\:0\.5\:black-02 {
-    /* art-border-solid:full:0.5:black-02 */
-    border: solid 0.5px var(--black-02);
-}
-
-.art-border-solid\:full\:0\.5\:black-03 {
-    /* art-border-solid:full:0.5:black-03 */
-    border: solid 0.5px var(--black-03);
-}
-
-/* 
-border-style:solid:full
-border-color:black-01
-border-width:0.5
-*/
