@@ -1,1 +1,32 @@
+# Ignorar arquivos e diretórios específicos
 index.html
+compile.py
+art-css.css
+
+# Ignorar todo o conteúdo da pasta src
+/src/
+
+# Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas e arquivos criados pelo VS Code
+.vscode/
+
+# Ignorar arquivos de compilação e dependências
+node_modules/
+dist/
+build/
+
+# Ignorar logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+*.lock
+
+# Ignorar arquivos de configuração pessoal
+*.env
+*.local
+
+# Ignorar cache e histórico de Git
+.git/
