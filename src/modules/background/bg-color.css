@@ -15,6 +15,31 @@
     background-color: var(--white-03);
 }
 
+.art\:bg\:white\:10\% {
+    /* art:bg:white:10% */
+    background-color: rgba(var(--white-rgba), 0.1);
+}
+
+.art\:bg\:white\:20\% {
+    /* art:bg:white:20% */
+    background-color: rgba(var(--white-rgba), 0.2);
+}
+
+.art\:bg\:white\:30\% {
+    /* art:bg:white:30% */
+    background-color: rgba(var(--white-rgba), 0.3);
+}
+
+.art\:bg\:white\:40\% {
+    /* art:bg:white:40% */
+    background-color: rgba(var(--white-rgba), 0.4);
+}
+
+.art\:bg\:white\:50\% {
+    /* art:bg:white:50% */
+    background-color: rgba(var(--white-rgba), 0.5);
+}
+
 .art\:bg\:black-01 {
     /* art:bg:black-01 */
     background-color: var(--black-01);
@@ -28,6 +53,31 @@
 .art\:bg\:black-03 {
     /* art:bg:black-03 */
     background-color: var(--black-03);
+}
+
+.art\:bg\:black\:10\% {
+    /* art:bg:black:10% */
+    background-color: rgba(var(--black-rgba), 0.1);
+}
+
+.art\:bg\:black\:20\% {
+    /* art:bg:black:20% */
+    background-color: rgba(var(--black-rgba), 0.2);
+}
+
+.art\:bg\:black\:30\% {
+    /* art:bg:black:30% */
+    background-color: rgba(var(--black-rgba), 0.3);
+}
+
+.art\:bg\:black\:40\% {
+    /* art:bg:black:40% */
+    background-color: rgba(var(--black-rgba), 0.4);
+}
+
+.art\:bg\:black\:50\% {
+    /* art:bg:black:50% */
+    background-color: rgba(var(--black-rgba), 0.5);
 }
 
 .art\:bg\:yellow-01 {
@@ -45,6 +95,31 @@
     background-color: var(--yellow-03);
 }
 
+.art\:bg\:yellow\:10\% {
+    /* art:bg:yellow:10% */
+    background-color: rgba(var(--yellow-rgba), 0.1);
+}
+
+.art\:bg\:yellow\:20\% {
+    /* art:bg:yellow:20% */
+    background-color: rgba(var(--yellow-rgba), 0.2);
+}
+
+.art\:bg\:yellow\:30\% {
+    /* art:bg:yellow:30% */
+    background-color: rgba(var(--yellow-rgba), 0.3);
+}
+
+.art\:bg\:yellow\:40\% {
+    /* art:bg:yellow:40% */
+    background-color: rgba(var(--yellow-rgba), 0.4);
+}
+
+.art\:bg\:yellow\:50\% {
+    /* art:bg:yellow:50% */
+    background-color: rgba(var(--yellow-rgba), 0.5);
+}
+
 .art\:bg\:green-01 {
     /* art:bg:green-01 */
     background-color: var(--green-01);
@@ -58,6 +133,31 @@
 .art\:bg\:green-03 {
     /* art:bg:green-03 */
     background-color: var(--green-02);
+}
+
+.art\:bg\:green\:10\% {
+    /* art:bg:green:10% */
+    background-color: rgba(var(--green-rgba), 0.1);
+}
+
+.art\:bg\:green\:20\% {
+    /* art:bg:green:20% */
+    background-color: rgba(var(--green-rgba), 0.2);
+}
+
+.art\:bg\:green\:30\% {
+    /* art:bg:green:30% */
+    background-color: rgba(var(--green-rgba), 0.3);
+}
+
+.art\:bg\:green\:40\% {
+    /* art:bg:green:40% */
+    background-color: rgba(var(--green-rgba), 0.4);
+}
+
+.art\:bg\:green\:50\% {
+    /* art:bg:green:50% */
+    background-color: rgba(var(--green-rgba), 0.5);
 }
 
 .art\:bg\:blue-01 {
@@ -75,6 +175,31 @@
     background-color: var(--blue-03);
 }
 
+.art\:bg\:blue\:10\% {
+    /* art:bg:blue:10% */
+    background-color: rgba(var(--blue-rgba), 0.1);
+}
+
+.art\:bg\:blue\:20\% {
+    /* art:bg:blue:20% */
+    background-color: rgba(var(--blue-rgba), 0.2);
+}
+
+.art\:bg\:blue\:30\% {
+    /* art:bg:blue:30% */
+    background-color: rgba(var(--blue-rgba), 0.3);
+}
+
+.art\:bg\:blue\:40\% {
+    /* art:bg:blue:40% */
+    background-color: rgba(var(--blue-rgba), 0.4);
+}
+
+.art\:bg\:blue\:50\% {
+    /* art:bg:blue:50% */
+    background-color: rgba(var(--blue-rgba), 0.5);
+}
+
 .art\:bg\:red-01 {
     /* art:bg:red-01 */
     background-color: var(--red-01);
@@ -88,4 +213,29 @@
 .art\:bg\:red-03 {
     /* art:bg:red-03 */
     background-color: var(--red-03);
+}
+
+.art\:bg\:red\:10\% {
+    /* art:bg:red:10% */
+    background-color: rgba(var(--red-rgba), 0.1);
+}
+
+.art\:bg\:red\:20\% {
+    /* art:bg:red:20% */
+    background-color: rgba(var(--red-rgba), 0.2);
+}
+
+.art\:bg\:red\:30\% {
+    /* art:bg:red:30% */
+    background-color: rgba(var(--red-rgba), 0.3);
+}
+
+.art\:bg\:red\:40\% {
+    /* art:bg:red:40% */
+    background-color: rgba(var(--red-rgba), 0.4);
+}
+
+.art\:bg\:red\:50\% {
+    /* art:bg:red:50% */
+    background-color: rgba(var(--red-rgba), 0.5);
 }
