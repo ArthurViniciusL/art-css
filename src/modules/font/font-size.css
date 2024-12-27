@@ -1,0 +1,14 @@
+.art-font-size\:title {
+    /* .art-font-size:title */
+    font-size: 2.5rem;
+}
+
+.art-font-size\:subtitle {
+    /* .art-font-size:subtitle */
+    font-size: 1.5rem;
+}
+
+.art-font-size\:normal {
+    /* .art-font-size:subtitle */
+    font-size: 1.2rem;
+}
