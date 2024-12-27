@@ -3,6 +3,7 @@ button {
     padding: 10px;
     border: none;
     cursor: pointer;
+    background-color: transparent;
 }
 
 .art-btn\:small {
