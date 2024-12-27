@@ -28,6 +28,6 @@ for file in dir:
 
 #ou bin/art.css
 
-with open('index.css', 'w', encoding='utf-8') as file:
+with open('art.css', 'w', encoding='utf-8') as file:
     file_content_as_string = ''.join(file_content);
     file.write(''.join(file_content_as_string));
