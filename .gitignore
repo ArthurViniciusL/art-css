@@ -4,7 +4,7 @@ compile.py
 art-css.css
 
 # Ignorar todo o conteúdo da pasta src
-/src/
+src/
 
 # Ignorar arquivos temporários do sistema operacional
 .DS_Store
