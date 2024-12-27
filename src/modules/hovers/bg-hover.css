@@ -1,0 +1,91 @@
+/* ------------------------------------- background color hovers: ------------------------------------- */
+
+.art\:hover\:bg\:white-01:hover {
+    /* art:hover:bg:white-01 */
+    background: var(--white-01);
+}
+
+.art\:hover\:bg\:white-02:hover {
+    /* art:hover:bg:white-02 */
+    background: var(--white-02);
+}
+
+.art\:hover\:bg\:white-03:hover {
+    /* art:hover:bg:white-03 */
+    background: var(--white-03);
+}
+
+.art\:hover\:bg\:black-01:hover {
+    /* art:hover:bg:black-01 */
+    background: var(--black-01);
+}
+
+.art\:hover\:bg\:black-02:hover {
+    /* art:hover:bg:black-02 */
+    background: var(--black-02);
+}
+
+.art\:hover\:bg\:black-03:hover {
+    /* art:hover:bg:black-03 */
+    background: var(--black-03);
+}
+
+.art\:hover\:bg\:yellow-01:hover {
+    /* art:hover:bg:yellow-01 */
+    background: var(--yellow-01);
+}
+
+.art\:hover\:bg\:yellow-02:hover {
+    /* art:hover:bg:yellow-02 */
+    background: var(--yellow-02);
+}
+
+.art\:hover\:bg\:yellow-03:hover {
+    /* art:hover:bg:yellow-03 */
+    background: var(--yellow-03);
+}
+
+.art\:hover\:bg\:green-01:hover {
+    /* art:hover:bg:green-01 */
+    background: var(--green-01);
+}
+
+.art\:hover\:bg\:green-02:hover {
+    /* art:hover:bg:green-02 */
+    background: var(--green-02);
+}
+
+.art\:hover\:bg\:green-03:hover {
+    /* art:hover:bg:green-03 */
+    background: var(--green-02);
+}
+
+.art\:hover\:bg\:blue-01:hover {
+    /* art:hover:bg:blue-01 */
+    background: var(--blue-01);
+}
+
+.art\:hover\:bg\:blue-02:hover {
+    /* art:hover:bg:blue-02 */
+    background: var(--blue-02);
+}
+
+.art\:hover\:bg\:blue-03:hover {
+    /* art:hover:bg:blue-03 */
+    background: var(--blue-03);
+}
+
+.art\:hover\:bg\:red-01:hover {
+    /* art:hover:bg:red-01 */
+    background: var(--red-01);
+}
+
+.art\:hover\:bg\:red-02:hover {
+    /* art:hover:bg:red-02 */
+    background: var(--red-02);
+}
+
+.art\:hover\:bg\:red-03:hover {
+    /* art:hover:bg:red-03 */
+    background: var(--red-03);
+}
