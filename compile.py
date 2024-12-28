@@ -3,11 +3,6 @@ import os
 # if not (os.path.exists('bin')):
     # os.mkdir('bin');
 
-""" 
-'src/modules/opacity/bg-opacity.css',
-'src/modules/opacity/font-opacity.css',
-"""
-
 dir = [
     'src/art-main.css',
     'src/modules/background/bg-color.css',
