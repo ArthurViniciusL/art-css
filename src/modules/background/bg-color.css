@@ -239,3 +239,11 @@
     /* art:bg:red:50% */
     background: rgba(var(--red-rgba), 0.5);
 }
+
+.art\:bg\:blur-01 {
+    /* art:bg:blur-01 */
+    background: hsla(0, 0%, 94%, .16);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, .1);
+    backdrop-filter: blur(12.3px);
+    -webkit-backdrop-filter: blur(12.3px);
+}
