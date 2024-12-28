@@ -89,3 +89,11 @@
     /* art:hover:bg:red-03 */
     background: var(--red-03);
 }
+
+.art\:hover\:bg\:blur-01 {
+    /* art:hover:bg:blur-01 */
+    background: hsla(0, 0%, 94%, .16);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, .1);
+    backdrop-filter: blur(12.3px);
+    -webkit-backdrop-filter: blur(12.3px);
+}
