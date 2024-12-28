@@ -6,11 +6,13 @@ import os
 dir = [
     'src/art-main.css',
     'src/modules/background/bg-color.css',
+    'src/modules/border/border.css',
+    'src/modules/button/button.css',
+    'src/modules/cursor/cursor.css',
     'src/modules/font/font-color.css',
     'src/modules/font/font-size.css',
     'src/modules/hovers/bg-hover.css',
     'src/modules/hovers/font-hover.css',
-    'src/modules/border/border.css'
     ]
     
 file_content = [];

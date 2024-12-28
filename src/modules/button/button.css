@@ -1,26 +1,19 @@
-button {
-    border-radius: 10px;
-    padding: 10px;
-    border: none;
-    cursor: pointer;
-    background-color: transparent;
-}
-
+/* ------------------------------------- buttons: ------------------------------------- */
 .art\:btn\:no-style {
     /* art:btn:no-style */
     width: fit-content;
     height: fit-content;
     padding: 0;
-    background-color: transparent;
+    background: transparent;
     cursor: pointer;
 }
 
 .art-btn\:small {
-
+    /*  */
     cursor: pointer;
 }
 
 .art-btn\:medium {
-
+    /*  */
     cursor: pointer;
 }
