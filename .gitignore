@@ -1,4 +1,4 @@
-# Ignorar arquivos e diretórios específicos
+# Ignorar arquivos e diretórios específicos // git rm --cached src/styles/art-css
 index.html
 #compile.py
 #art-css.css
