@@ -13,9 +13,12 @@ dir = [
     'src/modules/button/button.css',
     'src/modules/cursor/cursor.css',
     'src/modules/font/font-color.css',
+    'src/modules/font/font-decoration.css',
     'src/modules/font/font-size.css',
     'src/modules/hovers/bg-hover.css',
     'src/modules/hovers/font-hover.css',
+    'src/modules/lines/lines.css',
+    'src/modules/padding/padding.css'
     ]
     
 file_content = [];
