@@ -1,0 +1,9 @@
+/* ------------------------------------- text decoration: ------------------------------------- */
+
+.art\:underline {
+    text-decoration: underline;
+}
+
+.art\:hover\:underline:hover {
+    text-decoration: underline;
+}
