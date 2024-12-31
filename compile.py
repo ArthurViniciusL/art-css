@@ -6,7 +6,10 @@ import os
 dir = [
     'src/art-main.css',
     'src/modules/background/bg-color.css',
-    'src/modules/border/border.css',
+    'src/modules/border/boder-size.css',
+    'src/modules/border/border-color.css',
+    'src/modules/border/border-radius.css',
+    'src/modules/border/border-styles.css',
     'src/modules/button/button.css',
     'src/modules/cursor/cursor.css',
     'src/modules/font/font-color.css',

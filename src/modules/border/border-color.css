@@ -1,10 +1,3 @@
-/* ------------------------------------- border styles: ------------------------------------- */
-
-.art\:border-style\:solid {
-    /* art:border-style:solid */
-    border-style: solid;
-}
-
 /* ------------------------------------- border colors: ------------------------------------- */
 
 .art\:border-color\:white-01 {
@@ -95,20 +88,6 @@
 .art\:border-color\:red-03 {
     /* art:border-color:red-03  */
     border-color: var(--red-03);
-}
-
-/* ------------------------------------- border sizes: ------------------------------------- */
-
-.art\:border-size\:s-01 {
-    /* art:border-size:s-01 */
-    border-width: 0.5px;
-}
-
-/* ------------------------------------- border radius: ------------------------------------- */
-
-.art\:border-radius\:r-01 {
-    /* art:border-radius:r-01  */
-    border-radius: 1rem;
 }
 
 /* ------------------------------------- border full solid: ------------------------------------ */

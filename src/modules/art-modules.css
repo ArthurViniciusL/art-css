@@ -3,5 +3,7 @@
 @import url('font/font-size.css');
 @import url('hovers/bg-hover.css');
 @import url('hovers/font-hover.css');
-@import url('border/border.css');
+@import url('border/border-color.css');
+@import url('border/border-radius.css');
+@import url('border/border-style.css');
 @import url('button/button.css');

@@ -300,13 +300,12 @@
     box-shadow: 0 4px 30px rgba(0, 0, 0, .1);
     backdrop-filter: blur(12.3px);
     -webkit-backdrop-filter: blur(12.3px);
-}/* ------------------------------------- border styles: ------------------------------------- */
+}/* ------------------------------------- border sizes: ------------------------------------- */
 
-.art\:border-style\:solid {
-    /* art:border-style:solid */
-    border-style: solid;
+.art\:border-size\:s-01 {
+    /* art:border-size:s-01 */
+    border-width: 0.5px;
 }
-
 /* ------------------------------------- border colors: ------------------------------------- */
 
 .art\:border-color\:white-01 {
@@ -399,26 +398,25 @@
     border-color: var(--red-03);
 }
 
-/* ------------------------------------- border sizes: ------------------------------------- */
+/* ------------------------------------- border full solid: ------------------------------------ */
 
-.art\:border-size\:s-01 {
-    /* art:border-size:s-01 */
-    border-width: 0.5px;
+.art\:border-full\:solid\:black-01\:s-01 {
+    /* .art:border-full:solid:black-01:s-01 */
+    border: solid var(--black-01) 0.5px;
 }
-
 /* ------------------------------------- border radius: ------------------------------------- */
 
 .art\:border-radius\:r-01 {
     /* art:border-radius:r-01  */
     border-radius: 1rem;
 }
+/* ------------------------------------- border styles: ------------------------------------- */
 
-/* ------------------------------------- border full solid: ------------------------------------ */
-
-.art\:border-full\:solid\:black-01\:s-01 {
-    /* .art:border-full:solid:black-01:s-01 */
-    border: solid var(--black-01) 0.5px;
-}/* ------------------------------------- buttons: ------------------------------------- */
+.art\:border-style\:solid {
+    /* art:border-style:solid */
+    border-style: solid;
+}
+/* ------------------------------------- buttons: ------------------------------------- */
 .art\:btn\:no-style {
     /* art:btn:no-style */
     width: fit-content;
