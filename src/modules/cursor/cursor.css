@@ -4,3 +4,7 @@
     /* art:cursor:pointer */
     cursor: pointer;
 }
+
+.art\:cursor\:link {
+    cursor: alias;
+}
