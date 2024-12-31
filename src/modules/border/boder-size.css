@@ -4,3 +4,18 @@
     /* art:border-size:s-01 */
     border-width: 0.5px;
 }
+
+.art\:border-size\:b-01 {
+    /* art:border-size:b-01 */
+    border-width: 0px 0px 0.5px 0px;
+}
+
+.art\:border-size\:b-02 {
+    /* art:border-size:b-02 */
+    border-width: 0px 0px 1px 0px;
+}
+
+.art\:border-size\:b-03 {
+    /* art:border-size:b-02 */
+    border-width: 0px 0px 2px 0px;
+}
