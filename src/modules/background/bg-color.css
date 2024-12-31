@@ -251,3 +251,8 @@
     backdrop-filter: blur(12.3px);
     -webkit-backdrop-filter: blur(12.3px);
 }
+
+.art\:shadow\:center {
+    /* .art:shadow:center */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, .1);
+}
