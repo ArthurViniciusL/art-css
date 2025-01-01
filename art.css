@@ -14,10 +14,18 @@
     --white-03: #EBEBEB;
     --white-rgba: 255, 255, 255;
 
+    --fix-white-01: #FFFFFF;
+    --fix-white-02: #F6F5F4;
+    --fix-white-03: #EBEBEB;
+
     --black-01: #000000;
     --black-02: #131416;
     --black-03: #4A4B4D;
     --black-rgba: 0, 0, 0;
+
+    --fix-black-01: #000000;
+    --fix-black-02: #131416;
+    --fix-black-03: #4A4B4D;
 
     --yellow-01: #FFDE83;
     --yellow-02: #FFBD08;
@@ -572,7 +580,21 @@
     /* art:font-color:red-01 */
     color: var(--red-03);
 }
-/* ------------------------------------- text decoration: ------------------------------------- */
+
+.art\:no-dark\:\(font-color\:white-01\) {
+    /* art:no-dark:(font-color:white-01) */
+    color: var(--fix-white-01);
+}
+
+.art\:no-dark\:\(font-color\:white-02\) {
+    /* art:no-dark:(font-color:white-02) */
+    color: var(--fix-white-02);
+}
+
+.art\:no-dark\:\(font-color\:white-03\) {
+    /* art:no-dark:(font-color:white-03) */
+    color: var(--fix-white-03);
+}/* ------------------------------------- text decoration: ------------------------------------- */
 
 .art\:underline {
     text-decoration: underline;
@@ -709,7 +731,8 @@
 
 .art\:hover\:border\:remove:hover {
     /* art:hover:border:remove */
-    border-width: 0px 0px 0px 0px;
+    /* border-width: 0px 0px 0px 0px; */
+    border-color: transparent;
 }
 /* ------------------------------------- fonts color hovers: ------------------------------------- */
 
