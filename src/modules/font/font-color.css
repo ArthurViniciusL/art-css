@@ -90,17 +90,17 @@
     color: var(--red-03);
 }
 
-.art\:no-dark\:\font-color\:white-01 {
+.art\:no-dark\:font-color\:white-01 {
     /* art:no-dark:font-color:white-01 */
     color: var(--fix-white-01);
 }
 
-.art\:no-dark\:\font-color\:white-02 {
+.art\:no-dark\:font-color\:white-02 {
     /* art:no-dark:font-color:white-02 */
     color: var(--fix-white-02);
 }
 
-.art\:no-dark\:\font-color\:white-03 {
+.art\:no-dark\:font-color\:white-03 {
     /* art:no-dark:font-color:white-03 */
     color: var(--fix-white-03);
 }
