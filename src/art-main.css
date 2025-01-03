@@ -27,20 +27,20 @@
     --fix-black-02: #131416;
     --fix-black-03: #4A4B4D;
 
-    --yellow-01: #FFDE83;
-    --yellow-02: #FFBD08;
-    --yellow-03: #C08E06;
-    --yellow-rgba: 255, 222, 131;
+    --blue-01: #62A0EA;
+    --blue-02: #376FE6;
+    --blue-03: #1C71D8;
+    --blue-rgba: 28, 113, 216;
 
     --green-01: #8FF0A4;
     --green-02: #33D17A;
     --green-03: #26A269;
     --green-rgba: 38, 162, 105;
 
-    --blue-01: #62A0EA;
-    --blue-02: #376FE6;
-    --blue-03: #1C71D8;
-    --blue-rgba: 28, 113, 216;
+    --yellow-01: #FFDE83;
+    --yellow-02: #FFBD08;
+    --yellow-03: #C08E06;
+    --yellow-rgba: 255, 222, 131;
 
     --orange-01: #FFDCBE;
     --orange-02: #FFBB7F;
