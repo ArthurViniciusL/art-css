@@ -1,0 +1,32 @@
+/* ------------------------------------- border sizes: ------------------------------------- */
+
+.art\:border\:s-01 {
+    /* art:border:s-01 */
+    border-width: 0.5px;
+}
+
+.art\:border\:s-02 {
+    /* art:border:s-02 */
+    border-width: 1px;
+}
+
+.art\:border\:s-03 {
+    /* art:border:s-03 */
+    border-width: 1.5px;
+}
+
+
+.art\:border-b\:s-01 {
+    /* art:border-b:s-01 */
+    border-width: 0px 0px 0.5px 0px;
+}
+
+.art\:border-b\:s-02 {
+    /* art:border-b:s-02 */
+    border-width: 0px 0px 1px 0px;
+}
+
+.art\:border-b\:s-03 {
+    /* art:border-b:s-03 */
+    border-width: 0px 0px 2px 0px;
+}

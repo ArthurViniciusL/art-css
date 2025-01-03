@@ -1,6 +1,21 @@
 /* ------------------------------------- border radius: ------------------------------------- */
 
-.art\:border-radius\:r-01 {
-    /* art:border-radius:r-01  */
+.art\:border\:r-01 {
+    /* art:border:r-01  */
+    border-radius: 0.5rem;
+}
+
+.art\:border\:r-02 {
+    /* art:border:r-02  */
     border-radius: 1rem;
+}
+
+.art\:border\:r-03 {
+    /* art:border:r-02  */
+    border-radius: 1.5rem;
+}
+
+.art\:border\:r-04 {
+    /* art:border:r-04  */
+    border-radius: 2rem;
 }

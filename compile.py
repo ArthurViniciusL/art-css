@@ -3,29 +3,48 @@ import os
 # if not (os.path.exists('bin')):
     # os.mkdir('bin');
 
-dir = [
-    'src/art-main.css',
+background = [
     'src/modules/background/bg-color.css',
-    'src/modules/border/boder-size.css',
-    'src/modules/border/border-color.css',
-    'src/modules/border/border-radius.css',
-    'src/modules/border/border-styles.css',
-    'src/modules/button/button.css',
-    'src/modules/cursor/cursor.css',
+    'src/modules/background/bg-hover.css'
+]
+
+font = [
     'src/modules/font/font-color.css',
-    'src/modules/font/font-decoration.css',
+    'src/modules/font/font-hover.css',
     'src/modules/font/font-size.css',
-    'src/modules/font/font-style.css',
-    'src/modules/hovers/bg-hover.css',
-    'src/modules/hovers/border-hover.css',
-    'src/modules/hovers/font-hover.css',
-    'src/modules/lines/lines.css',
+    'src/modules/font/font-style.css'
+]
+
+border = [
+    'src/modules/border/border-size.css',
+    'src/modules/border/border-color.css',
+    'src/modules/border/border-hover.css',
+    'src/modules/border/border-radius.css',
+    'src/modules/border/border-style.css'
+]
+
+buttons = [
+    'src/modules/button/button.css'
+]
+
+lines = [
+    'src/modules/lines/lines.css'
+]
+
+no_dark = [
+    'src/modules/no-dark/bg.css',
+    'src/modules/no-dark/font.css'
+]
+
+padding = [
     'src/modules/padding/padding.css'
-    ]
+]
+
+directories = ['src/art-main.css'] + background + font + border + buttons + lines + no_dark + padding
     
 file_content = [];
 
-for file in dir: 
+for file in directories: 
     with open(file, 'r') as css_file:
         file_content.append( css_file.read() );
 
