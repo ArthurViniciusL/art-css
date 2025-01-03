@@ -558,10 +558,10 @@
 
 .art\:font-color\:blue-02 {
     /* art:font-color:blue-02 */
-    color: var(--blue-03);
+    color: var(--blue-02);
 }
 
-.art\:font-color\:blue-3 {
+.art\:font-color\:blue-03 {
     /* art:font-color:blue-03 */
     color: var(--blue-03);
 }
@@ -629,6 +629,22 @@
 .art\:font-size\:subtitle-02 {
     /* art:font-size:subtitle-02 */
     font-size: 1.5rem;
+}
+/* ------------------------------------- font weight: ------------------------------------- */
+
+.art\:font-style\:bold-01 {
+    /* art:font-style:bold-01 */
+    font-weight: 500;
+}
+
+.art\:font-style\:bold-02 {
+    /* art:font-style:bold-02 */
+    font-weight: 600;
+}
+
+.art\:font-style\:bold-03 {
+    /* art:font-style:bold-03 */
+    font-weight: 700;
 }
 /* ------------------------------------- background color hovers: ------------------------------------- */
 
