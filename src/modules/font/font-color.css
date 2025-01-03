@@ -104,3 +104,18 @@
     /* art:font-color:red-01 */
     color: var(--red-03);
 }
+
+.art\:font-color\:purple-01 {
+    /* art:font-color:purple-01 */
+    color: var(--purple-01);
+}
+
+.art\:font-color\:purple-02 {
+    /* art:font-color:purple-02 */
+    color: var(--purple-02);
+}
+
+.art\:font-color\:purple-03 {
+    /* art:font-color:purple-03 */
+    color: var(--purple-03);
+}
