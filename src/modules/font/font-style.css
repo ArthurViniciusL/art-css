@@ -1,0 +1,16 @@
+/* ------------------------------------- font weight: ------------------------------------- */
+
+.art\:font-style\:bold-01 {
+    /* art:font-style:bold-01 */
+    font-weight: 500;
+}
+
+.art\:font-style\:bold-02 {
+    /* art:font-style:bold-02 */
+    font-weight: 600;
+}
+
+.art\:font-style\:bold-03 {
+    /* art:font-style:bold-03 */
+    font-weight: 700;
+}

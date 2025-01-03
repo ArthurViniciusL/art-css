@@ -15,6 +15,7 @@ dir = [
     'src/modules/font/font-color.css',
     'src/modules/font/font-decoration.css',
     'src/modules/font/font-size.css',
+    'src/modules/font/font-style.css',
     'src/modules/hovers/bg-hover.css',
     'src/modules/hovers/border-hover.css',
     'src/modules/hovers/font-hover.css',
