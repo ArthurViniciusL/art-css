@@ -42,10 +42,20 @@
     --blue-03: #1C71D8;
     --blue-rgba: 28, 113, 216;
 
+    --orange-01: #FFDCBE;
+    --orange-02: #FFBB7F;
+    --orange-03: #FF993F;
+    --orange-rgba: 255, 153, 63;
+
     --red-01: #ED333B;
     --red-02: #F60000;
     --red-03: #DB1111;
     --red-rgba: 219, 17, 17;
+
+    --purple-01: #E9C6FF;
+    --purple-02: #D48FFF;
+    --purple-03: #BF57FF;
+    --purple-rgba: 191, 87, 255;
 
 }
 

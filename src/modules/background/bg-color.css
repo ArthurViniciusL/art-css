@@ -205,6 +205,46 @@
     background: rgba(var(--blue-rgba), 0.5);
 }
 
+.art\:bg\:orange-01 {
+    /* art:bg:orange-01 */
+    background: var(--orange-01);
+}
+
+.art\:bg\:orange-02 {
+    /* art:bg:orange-02 */
+    background: var(--orange-02);
+}
+
+.art\:bg\:orange-03 {
+    /* art:bg:orange-03 */
+    background: var(--orange-03);
+}
+
+.art\:bg\:orange\:10\% {
+    /* art:bg:orange:10% */
+    background: rgba(var(--orange-rgba), 0.1);
+}
+
+.art\:bg\:orange\:20\% {
+    /* art:bg:orange:20% */
+    background: rgba(var(--orange-rgba), 0.2);
+}
+
+.art\:bg\:orange\:30\% {
+    /* art:bg:orange:30% */
+    background: rgba(var(--orange-rgba), 0.3);
+}
+
+.art\:bg\:orange\:40\% {
+    /* art:bg:orange:40% */
+    background: rgba(var(--orange-rgba), 0.4);
+}
+
+.art\:bg\:orange\:50\% {
+    /* art:bg:orange:50% */
+    background: rgba(var(--orange-rgba), 0.5);
+}
+
 .art\:bg\:red-01 {
     /* art:bg:red-01 */
     background: var(--red-01);

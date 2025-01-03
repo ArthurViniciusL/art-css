@@ -45,6 +45,11 @@
     background: var(--yellow-03);
 }
 
+.art\:hover\:bg\:yellow\:40\%:hover {
+    /* art:hover:bg:yellow:40% */
+    background: rgba(var(--yellow-rgba), 0.4);
+}
+
 .art\:hover\:bg\:green-01:hover {
     /* art:hover:bg:green-01 */
     background: var(--green-01);
