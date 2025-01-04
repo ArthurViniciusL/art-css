@@ -632,7 +632,16 @@
 .art\:ft\:purple-03 {
     /* art:ft:purple-03 */
     color: var(--purple-03);
-}/* ------------------------------------- fonts color hovers: ------------------------------------- */
+}/* ------------------------------------- text decoration: ------------------------------------- */
+
+.art\:underline {
+    text-decoration: underline;
+}
+
+.art\:hover\:underline:hover {
+    text-decoration: underline;
+}
+/* ------------------------------------- fonts color hovers: ------------------------------------- */
 
 .art\:hover\:ft\:white-01:hover {
     /* .art:hover:ft:white-01 */

@@ -10,6 +10,7 @@ background = [
 
 font = [
     'src/modules/font/font-color.css',
+    'src/modules/font/font-decoration.css',
     'src/modules/font/font-hover.css',
     'src/modules/font/font-size.css',
     'src/modules/font/font-style.css'
