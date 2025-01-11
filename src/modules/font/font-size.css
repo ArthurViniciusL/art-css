@@ -1,26 +1,26 @@
 /* ------------------------------------- font size: ------------------------------------- */
 
-.art\:ft\:normal-01 {
-    /* .art:ft:normal-01 */
+.art\:font\:normal-01 {
+    /* .art:font:normal-01 */
     font-size: 1rem;
 }
 
-.art\:ft\:normal-02 {
-    /* .art:ft:normal-02 */
+.art\:font\:normal-02 {
+    /* .art:font:normal-02 */
     font-size: 1.2rem;
 }
 
-.art\:ft\:title {
-    /* art:ft:title */
+.art\:font\:title {
+    /* art:font:title */
     font-size: 2.7rem;
 }
 
-.art\:ft\:subtitle-01 {
-    /* art:ft:subtitle-02 */
+.art\:font\:subtitle-01 {
+    /* art:font:subtitle-02 */
     font-size: 2rem;
 }
 
-.art\:ft\:subtitle-02 {
-    /* art:ft:subtitle-02 */
+.art\:font\:subtitle-02 {
+    /* art:font:subtitle-02 */
     font-size: 1.5rem;
 }
