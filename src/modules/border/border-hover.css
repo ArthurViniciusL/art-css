@@ -1,7 +1,0 @@
-/* ------------------------------------- border hovers: ------------------------------------- */
-
-.art\:hover\:border\:remove:hover {
-    /* art:hover:border:remove */
-    /* border-width: 0px 0px 0px 0px; */
-    border-color: transparent;
-}

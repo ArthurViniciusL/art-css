@@ -1,5 +1,10 @@
 /* ------------------------------------- background colors: ------------------------------------- */
 
+.art\:bg\:none {
+    /* art:bg:none */
+    background: transparent;
+}
+
 /* Black */
 .art\:bg\:black-01 {
     /* art:bg:black-01 */
