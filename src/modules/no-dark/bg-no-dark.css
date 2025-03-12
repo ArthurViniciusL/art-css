@@ -1,0 +1,81 @@
+/* ------------------------------------- background colors no dark mode: ------------------------------------- */
+
+.art\:no-dark\:bg\:black-01 {
+    /* art:no-dark:bg:black-01 */
+    background: var(--fix-black-01);
+}
+
+.art\:no-dark\:bg\:black-02 {
+    /* art:no-dark:bg:black-02 */
+    background: var(--fix-black-02);
+}
+
+.art\:no-dark\:bg\:black-03 {
+    /* art:no-dark:bg:black-03 */
+    background: var(--fix-black-03);
+}
+
+.art\:no-dark\:bg\:black-04 {
+    /* art:no-dark:bg:black-04 */
+    background: var(--fix-black-04);
+}
+
+.art\:no-dark\:bg\:white-01 {
+    /* art:no-dark:bg:white-01 */
+    background: var(--fix-white-01);
+}
+
+.art\:no-dark\:bg\:white-02 {
+    /* art:no-dark:bg:white-02 */
+    background: var(--fix-white-02);
+}
+
+.art\:no-dark\:bg\:white-03 {
+    /* art:no-dark:bg:white-03 */
+    background: var(--fix-white-03);
+}
+
+.art\:no-dark\:bg\:white-04 {
+    /* art:no-dark:bg:white-04 */
+    background: var(--fix-white-04);
+}
+
+.art\:hover\:no-black\:bg\:black-01:hover {
+    /* art:hover:no-black:bg:black-01 */
+    background: var(--fix-black-01);
+}
+
+.art\:hover\:no-dark\:bg\:black-02:hover {
+    /* art:hover:no-dark:bg:black-02 */
+    background: var(--fix-black-02);
+}
+
+.art\:hover\:no-dark\:bg\:black-03:hover {
+    /* art:hover:no-dark:bg:black-03 */
+    background: var(--fix-black-03);
+}
+
+.art\:hover\:no-dark\:bg\:black-04:hover {
+    /* art:hover:no-dark:bg:black-04 */
+    background: var(--fix-black-04);
+}
+
+.art\:hover\:no-dark\:bg\:white-01:hover {
+    /* art:hover:no-dark:bg:white-01 */
+    background: var(--fix-white-01);
+}
+
+.art\:hover\:no-dark\:bg\:white-02:hover {
+    /* art:hover:no-dark:bg:white-02 */
+    background: var(--fix-white-02);
+}
+
+.art\:hover\:no-dark\:bg\:white-03:hover {
+    /* art:hover:no-dark:bg:white-03 */
+    background: var(--fix-white-03);
+}
+
+.art\:hover\:no-dark\:bg\:white-04:hover {
+    /* art:hover:no-dark:bg:white-04 */
+    background: var(--fix-white-04);
+}
