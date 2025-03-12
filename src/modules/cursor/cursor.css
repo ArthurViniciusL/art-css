@@ -5,6 +5,7 @@
     cursor: pointer;
 }
 
-.art\:cursor\:link {
+.art\:cursor\:alias {
+    /* art:cursor:alias */
     cursor: alias;
 }
