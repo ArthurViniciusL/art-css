@@ -1,0 +1,67 @@
+/* ------------------------------------- hover background colors no dark mode: ------------------------------------- */
+
+.art\:hover\:no-dark\:bg\:black-01:hover {
+    background: var(--fix-black-01);
+}
+
+.art\:hover\:no-dark\:bg\:black-02:hover {
+    background: var(--fix-black-02);
+}
+
+.art\:hover\:no-dark\:bg\:black-03:hover {
+    background: var(--fix-black-03);
+}
+
+.art\:hover\:no-dark\:bg\:black-04:hover {
+    background: var(--fix-black-04);
+}
+
+.art\:hover\:no-dark\:bg\:white-01:hover {
+    background: var(--fix-white-01);
+}
+
+.art\:hover\:no-dark\:bg\:white-02:hover {
+    background: var(--fix-white-02);
+}
+
+.art\:hover\:no-dark\:bg\:white-03:hover {
+    background: var(--fix-white-03);
+}
+
+.art\:hover\:no-dark\:bg\:white-04:hover {
+    background: var(--fix-white-04);
+}
+
+/* ------------------------------------- hover font colors no dark mode: ------------------------------------- */
+
+.art\:hover\:no-dark\:font\:black-01:hover {
+    color: var(--fix-black-01);
+}
+
+.art\:hover\:no-dark\:font\:black-02:hover {
+    color: var(--fix-black-02);
+}
+
+.art\:hover\:no-dark\:font\:black-03:hover {
+    color: var(--fix-black-03);
+}
+
+.art\:hover\:no-dark\:font\:black-04:hover {
+    color: var(--fix-black-04);
+}
+
+.art\:hover\:no-dark\:font\:white-01:hover {
+    color: var(--fix-white-01);
+}
+
+.art\:hover\:no-dark\:font\:white-02:hover {
+    color: var(--fix-white-02);
+}
+
+.art\:hover\:no-dark\:font\:white-03:hover {
+    color: var(--fix-white-03);
+}
+
+.art\:hover\:no-dark\:font\:white-04:hover {
+    color: var(--fix-white-04);
+}
