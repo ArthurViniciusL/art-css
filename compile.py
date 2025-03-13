@@ -24,17 +24,9 @@ border = [
     'src/modules/border/border-style.css'
 ]
 
-buttons = [
-    'src/modules/button/button.css'
-]
-
-lines = [
-    'src/modules/lines/lines.css'
-]
-
 no_dark = [
-    'src/modules/no-dark/bg.css',
-    'src/modules/no-dark/font.css'
+    'src/modules/no-dark/bg-no-dark.css',
+    'src/modules/no-dark/font-no-dark.css'
 ]
 
 padding = [
