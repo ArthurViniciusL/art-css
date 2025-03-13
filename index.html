@@ -9,8 +9,25 @@
 </head>
 
 <style>
-    p {
-        font-size: 4rem;
+    .art\:border\:rd-left-top\:sm {
+        /* art:border:rd-left-top:sm */
+        border-top-left-radius: var(--sm);
+    }
+
+    .art\:border\:rd-left-bottom\:sm {
+        /* art:border:rd-left-bottom:sm */
+        border-bottom-left-radius: var(--sm);
+    }
+
+    button {
+        width: fit-content;
+        height: fit-content;
+        padding: 1rem;
+        font-size: 1rem;
+
+        /* border-radius: var(--sm) 0 0 0; */
+
+        background: red;
 
         /* 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4*/
     }
@@ -26,7 +43,7 @@
         ipsam odit excepturi culpa laudantium autem! Animi deleniti quia recusandae, ad nihil eius ipsum sint facilis.
     </p>
 
-    <button class="art:p-01">
+    <button class="art:border:rd-left-top:sm art:border:rd-left-bottom:sm">
         Olá
     </button>
 </body>
