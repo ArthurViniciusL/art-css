@@ -4,7 +4,7 @@
     /* art:hover:bg:none */
     background: transparent;
 }
-/* Black */
+
 .art\:hover\:bg\:black-01:hover {
     /* art:hover:bg:black-01 */
     background: var(--black-01);
@@ -50,7 +50,6 @@
     background: rgb(var(--black-rgb), 0.5);
 }
 
-/* White */
 .art\:hover\:bg\:white-01:hover {
     /* art:hover:bg:white-01 */
     background: var(--white-01);
@@ -96,7 +95,6 @@
     background: rgb(var(--white-rgb), 0.5);
 }
 
-/* Yellow */
 .art\:hover\:bg\:yellow-01:hover {
     /* art:hover:bg:yellow-01 */
     background: var(--yellow-01);
@@ -188,7 +186,6 @@
     background: rgb(var(--orange-rgb), 0.5);
 }
 
-/* Red */
 .art\:hover\:bg\:red-01:hover {
     /* art:hover:bg:red-01 */
     background: var(--red-01);
@@ -234,7 +231,6 @@
     background: rgb(var(--red-rgb), 0.5);
 }
 
-/* Blue */
 .art\:hover\:bg\:blue-01:hover {
     /* art:hover:bg:blue-01 */
     background: var(--blue-01);
@@ -280,7 +276,6 @@
     background: rgb(var(--blue-rgb), 0.5);
 }
 
-/* Green */
 .art\:hover\:bg\:green-01:hover {
     /* art:hover:bg:green-01 */
     background: var(--green-01);
@@ -326,7 +321,6 @@
     background: rgb(var(--green-rgb), 0.5);
 }
 
-/* Purple */
 .art\:hover\:bg\:purple-01:hover {
     /* art:hover:bg:purple-01 */
     background: var(--purple-01);
