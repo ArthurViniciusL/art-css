@@ -2,25 +2,25 @@
 
 .art\:border\:solid {
     /* art:border:solid */
-    border: solid;
+    border-style: solid;
 }
 
 .art\:border\:solid-t {
     /* art:border:solid-t */
-    border-top: solid;
+    border-top-style: solid;
 }
 
 .art\:border\:solid-b {
     /* art:border:solid-b */
-    border-bottom: solid;
+    border-bottom-style: solid;
 }
 
 .art\:border\:solid-l {
     /* art:border:solid-l */
-    border-left: solid;
+    border-left-style: solid;
 }
 
 .art\:border\:solid-r {
     /* art:border:solid-r */
-    border-right: solid;
+    border-right-style: solid;
 }
