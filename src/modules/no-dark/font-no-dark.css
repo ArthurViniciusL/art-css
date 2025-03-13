@@ -1,6 +1,5 @@
 /* ------------------------------------- font colors no dark mode: ------------------------------------- */
 
-/* Classes para cores de fonte (texto) */
 .art\:no-dark\:font\:black-01 {
     /* art:no-dark:font:black-01 */
     color: var(--fix-black-01);
@@ -41,7 +40,6 @@
     color: var(--fix-white-04);
 }
 
-/* Classes para hover em cores de fonte */
 .art\:hover\:no-dark\:font\:black-01:hover {
     /* art:hover:no-dark:font:black-01 */
     color: var(--fix-black-01);
