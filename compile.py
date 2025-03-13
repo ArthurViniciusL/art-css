@@ -16,24 +16,34 @@ font = [
     'src/modules/font/font-style.css'
 ]
 
+cursor = [
+    'src/modules/cursor/cursor.css'
+]
+
 border = [
-    'src/modules/border/border-size.css',
-    'src/modules/border/border-color.css',
-    'src/modules/border/border-hover.css',
-    'src/modules/border/border-radius.css',
-    'src/modules/border/border-style.css'
+    'src/modules/border/b-size.css',
+    'src/modules/border/b-color.css',
+    'src/modules/border/b-hover.css',
+    'src/modules/border/b-radius.css',
+    'src/modules/border/b-style.css'
 ]
 
 no_dark = [
     'src/modules/no-dark/bg-no-dark.css',
-    'src/modules/no-dark/font-no-dark.css'
+    'src/modules/no-dark/font-no-dark.css',
+    'src/modules/no-dark/hover-no-dark.css'
 ]
 
 padding = [
     'src/modules/padding/padding.css'
 ]
 
-directories = ['src/art-main.css'] + background + font + border + buttons + lines + no_dark + padding
+margin = [
+    'src/modules/margin/margin.css'
+]
+
+
+directories = ['src/art-main.css'] + background + font + cursor + border + no_dark + padding + margin
     
 file_content = [];
 
