@@ -4,7 +4,7 @@ compile.py
 art-css.css
 
 # Ignorar todo o conteúdo da pasta src
-/src/
+src/
 
 # Ignorar pastas e arquivos criados pelo VS Code
 .vscode/
