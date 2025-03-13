@@ -1,0 +1,41 @@
+/* ------------------------------------- border size: ------------------------------------- */
+
+.art\:border\:sm {
+    /* art:border:sm */
+    border-width: var(--sm);
+}
+
+.art\:border\:base {
+    /* art:border:base */
+    border-width: var(--base);
+}
+
+.art\:border\:lg {
+    /* art:border:lg */
+    border-width: var(--lg);
+}
+
+.art\:border\:xl {
+    /* art:border:xl */
+    border-width: var(--xl);
+}
+
+.art\:border\:2xl {
+    /* art:border:2xl */
+    border-width: var(--_2xl);
+}
+
+.art\:border\:3xl {
+    /* art:border:3xl */
+    border-width: var(--_3xl);
+}
+
+.art\:border\:4xl {
+    /* art:border:4xl */
+    border-width: var(--_4xl);
+}
+
+.art\:border\:5xl {
+    /* art:border:5xl */
+    border-width: var(--_5xl);
+}
