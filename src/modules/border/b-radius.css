@@ -1,6 +1,5 @@
 /* ------------------------------------- border radius: ------------------------------------- */
 
-/* border-radius complete */
 .art\:border\:rd\:sm {
     border-radius: var(--sm) var(--sm) var(--sm) var(--sm);
 }
