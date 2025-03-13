@@ -1,0 +1,26 @@
+/* ------------------------------------- border style: ------------------------------------- */
+
+.art\:border\:solid {
+    /* art:border:solid */
+    border: solid;
+}
+
+.art\:border\:solid-t {
+    /* art:border:solid-t */
+    border-top: solid;
+}
+
+.art\:border\:solid-b {
+    /* art:border:solid-b */
+    border-bottom: solid;
+}
+
+.art\:border\:solid-l {
+    /* art:border:solid-l */
+    border-left: solid;
+}
+
+.art\:border\:solid-r {
+    /* art:border:solid-r */
+    border-right: solid;
+}
