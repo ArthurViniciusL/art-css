@@ -36,9 +36,16 @@
         border-top-style: solid;
     }
 
-    .art\:border\:rd\:sm {
-        border-radius: var(--sm) var(--sm) var(--sm) var(--sm);
+    .art\:border\:solid-b {
+        /* art:border:solid-t */
+        border-bottom-style: solid;
     }
+
+    .art\:border\:5xl {
+        /* art:border:5xl */
+        border-width: var(--_5xl);
+    }
+
 </style>
 
 <body class="art:bg:white-01 art:font:black-01">
@@ -53,7 +60,9 @@
 
     <button class="
     art:border:solid-t
+    art:border:solid-b
     art:border:blue-01
+    art:border:5xl
     ">
         Olá
     </button>
