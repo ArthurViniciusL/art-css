@@ -1,0 +1,33 @@
+/* ------------------------------------- gap ------------------------------------- */
+
+.art\:gap\:sm {
+    gap: var(--sm);
+}
+
+.art\:gap\:base {
+    gap: var(--base);
+}
+
+.art\:gap\:lg {
+    gap: var(--lg);
+}
+
+.art\:gap\:xl {
+    gap: var(--xl);
+}
+
+.art\:gap\:2xl {
+    gap: var(--_2xl);
+}
+
+.art\:gap\:3xl {
+    gap: var(--_3xl);
+}
+
+.art\:gap\:4xl {
+    gap: var(--_4xl);
+}
+
+.art\:gap\:5xl {
+    gap: var(--_5xl);
+}
