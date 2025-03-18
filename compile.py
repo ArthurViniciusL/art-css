@@ -21,7 +21,7 @@ cursor = [
 ]
 
 elements_html = [
-    'src/modules/buttons/buttons.css'
+    'src/modules/elements-html/button/button.css'
 ]
 
 flex_box = [
