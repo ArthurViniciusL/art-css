@@ -20,6 +20,10 @@ cursor = [
     'src/modules/cursor/cursor.css'
 ]
 
+elements_html = [
+    'src/modules/buttons/buttons.css'
+]
+
 flex_box = [
     'src/modules/flex-box/align.css',
     'src/modules/flex-box/display.css',
@@ -51,7 +55,7 @@ padding = [
 ]
 
 
-directories = ['src/art-main.css'] + background + border + cursor + flex_box + font + margin + no_dark + padding
+directories = ['src/art-main.css'] + background + border + cursor + elements_html + flex_box + font + margin + no_dark + padding
     
 file_content = [];
 
