@@ -1,0 +1,71 @@
+/* ------------------------------------- justify ------------------------------------- */
+
+.art\:justify-content\:start {
+    /* art:justify-content:start */
+    justify-content: flex-start;
+}
+
+.art\:justify-content\:end {
+    /* art:justify-content:end */
+    justify-content: flex-end;
+}
+
+.art\:justify-content\:center {
+    /* art:justify-content:center */
+    justify-content: center;
+}
+
+.art\:justify-content\:left {
+    /* art:justify-content:left */
+    justify-content: left;
+}
+
+.art\:justify-content\:right {
+    /* art:justify-content:right */
+    justify-content: right;
+}
+
+.art\:justify-content\:space-between {
+    /* art:justify-content:space-between */
+    justify-content: space-between;
+}
+
+.art\:justify-content\:space-around {
+    /* art:justify-content:space-around */
+    justify-content: space-around;
+}
+
+.art\:justify-content\:space-evenly {
+    /* art:justify-content:space-evenly */
+    justify-content: space-evenly;
+}
+
+.art\:justify-items\:start {
+    /* art:justify-items:start */
+    justify-items: start;
+}
+
+.art\:justify-items\:end {
+    /* art:justify-items:end */
+    justify-items: end;
+}
+
+.art\:justify-items\:center {
+    /* art:justify-items:center */
+    justify-items: center;
+}
+
+.art\:justify-items\:stretch {
+    /* art:justify-items:stretch */
+    justify-items: stretch;
+}
+
+.art\:justify-items\:left {
+    /* art:justify-items:left */
+    justify-items: left;
+}
+
+.art\:justify-items\:right {
+    /* art:justify-items:right */
+    justify-items: right;
+}

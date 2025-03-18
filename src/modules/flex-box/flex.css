@@ -1,0 +1,36 @@
+/* ------------------------------------- flex ------------------------------------- */
+
+.art\:flex\:wrap {
+    /* art\:flex:wrap */
+    flex-wrap: wrap;
+}
+
+.art\:flex\:nowrap {
+    /* art\:flex:row */
+    flex-wrap: nowrap;
+}
+
+.art\:flex\:row {
+    /* art\:flex:row */
+    flex-direction: row;
+}
+
+.art\:flex\:col {
+    /* art\:flex:col */
+    flex-direction: column;
+}
+
+.art\:flex\:row-r {
+    /* art\:flex:row-r */
+    flex-direction: row-r;
+}
+
+.art\:flex\:col-r {
+    /* art\:flex:col-r */
+    flex-direction: column-reverse;
+}
+
+.art\:flow\:col {
+    /* art\:flw:col */
+    flex-flow: column;
+}

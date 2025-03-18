@@ -1,0 +1,21 @@
+/* ------------------------------------- display ------------------------------------- */
+
+.art\:flex {
+    /* art\:flex */
+    display: flex;
+}
+
+.art\:grid {
+    /* art\:grid */
+    display: grid;
+}
+
+.art\:none {
+    /* art\:none */
+    display: none;
+}
+
+.art\:block {
+    /* art\:block */
+    display: block;
+}

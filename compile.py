@@ -8,6 +8,26 @@ background = [
     'src/modules/background/bg-hover.css'
 ]
 
+border = [
+    'src/modules/border/b-size.css',
+    'src/modules/border/b-color.css',
+    'src/modules/border/b-hover.css',
+    'src/modules/border/b-radius.css',
+    'src/modules/border/b-style.css'
+]
+
+cursor = [
+    'src/modules/cursor/cursor.css'
+]
+
+flex_box = [
+    'src/modules/flex-box/align.css',
+    'src/modules/flex-box/display.css',
+    'src/modules/flex-box/flex.css',
+    'src/modules/flex-box/gap.css',
+    'src/modules/flex-box/justify.css'
+]
+
 font = [
     'src/modules/font/font-color.css',
     'src/modules/font/font-decoration.css',
@@ -16,16 +36,8 @@ font = [
     'src/modules/font/font-style.css'
 ]
 
-cursor = [
-    'src/modules/cursor/cursor.css'
-]
-
-border = [
-    'src/modules/border/b-size.css',
-    'src/modules/border/b-color.css',
-    'src/modules/border/b-hover.css',
-    'src/modules/border/b-radius.css',
-    'src/modules/border/b-style.css'
+margin = [
+    'src/modules/margin/margin.css'
 ]
 
 no_dark = [
@@ -38,12 +50,8 @@ padding = [
     'src/modules/padding/padding.css'
 ]
 
-margin = [
-    'src/modules/margin/margin.css'
-]
 
-
-directories = ['src/art-main.css'] + background + font + cursor + border + no_dark + padding + margin
+directories = ['src/art-main.css'] + background + border + cursor + flex_box + font + margin + no_dark + padding
     
 file_content = [];
 
