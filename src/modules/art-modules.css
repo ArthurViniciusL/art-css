@@ -8,6 +8,10 @@
 @import url('border/b-style.css');
 
 @import url('cursor/cursor.css');
+
+@import url('dimensions/height.css');
+@import url('dimensions/width.css');
+
 @import url('elements-html/button/button.css');
 
 @import url('elements-html/button/button.css');

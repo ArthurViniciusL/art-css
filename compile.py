@@ -20,6 +20,11 @@ cursor = [
     'src/modules/cursor/cursor.css'
 ]
 
+dimensions = [
+    'src/modules/dimensions/height.css',
+    'src/modules/dimensions/width.css',    
+]
+
 elements_html = [
     'src/modules/elements-html/button/button.css'
 ]
@@ -55,7 +60,7 @@ padding = [
 ]
 
 
-directories = ['src/art-main.css'] + background + border + cursor + elements_html + flex_box + font + margin + no_dark + padding
+directories = ['src/art-main.css'] + background + border + cursor + dimensions + elements_html + flex_box + font + margin + no_dark + padding
     
 file_content = [];
 
