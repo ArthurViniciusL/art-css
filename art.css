@@ -1504,35 +1504,35 @@
 
 /* ------------------------------------- hover border radius: ------------------------------------- */
 
-.art\:hover\:border\:rd\:sm:hover {
+.art\:hover\:border-rd\:sm:hover {
     border-radius: var(--sm) var(--sm) var(--sm) var(--sm);
 }
 
-.art\:hover\:border\:rd\:base:hover {
+.art\:hover\:border-rd\:base:hover {
     border-radius: var(--base) var(--base) var(--base) var(--base);
 }
 
-.art\:hover\:border\:rd\:lg:hover {
+.art\:hover\:border-rd\:lg:hover {
     border-radius: var(--lg) var(--lg) var(--lg) var(--lg);
 }
 
-.art\:hover\:border\:rd\:xl:hover {
+.art\:hover\:border-rd\:xl:hover {
     border-radius: var(--xl) var(--xl) var(--xl) var(--xl);
 }
 
-.art\:hover\:border\:rd\:2xl:hover {
+.art\:hover\:border-rd\:2xl:hover {
     border-radius: var(--_2xl) var(--_2xl) var(--_2xl) var(--_2xl);
 }
 
-.art\:hover\:border\:rd\:3xl:hover {
+.art\:hover\:border-rd\:3xl:hover {
     border-radius: var(--_3xl) var(--_3xl) var(--_3xl) var(--_3xl);
 }
 
-.art\:hover\:border\:rd\:4xl:hover {
+.art\:hover\:border-rd\:4xl:hover {
     border-radius: var(--_4xl) var(--_4xl) var(--_4xl) var(--_4xl);
 }
 
-.art\:hover\:border\:rd\:5xl:hover {
+.art\:hover\:border-rd\:5xl:hover {
     border-radius: var(--_5xl) var(--_5xl) var(--_5xl) var(--_5xl);
 }
 
