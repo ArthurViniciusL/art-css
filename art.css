@@ -4,7 +4,8 @@
     margin: 0;
     padding: 0;
     border: none;
-
+    box-sizing: border-box;
+    scroll-behavior: smooth;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -1923,6 +1924,24 @@
 .art\:cursor\:alias {
     /* art:cursor:alias */
     cursor: alias;
+}
+/* ------------------------------------- height ------------------------------------- */
+
+.art\:h\:device {
+    height: 100dvh;
+}
+
+.art\:h\:full {
+    height: 100%;
+  }
+/* ------------------------------------- width ------------------------------------- */
+
+.art\:w\:device {
+  width: 100dvw;
+}
+
+.art\:w\:full {
+  width: 100%;
 }
 button {
     width: fit-content;
