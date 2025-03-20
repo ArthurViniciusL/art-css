@@ -498,18 +498,18 @@
     border-style: solid;
 }
 
-.art\:hover\:border\:solid-t:hover {
+.art\:hover\:border-t\:solid:hover {
     border-top-style: solid;
 }
 
-.art\:hover\:border\:solid-b:hover {
+.art\:hover\:border-b\:solid:hover {
     border-bottom-style: solid;
 }
 
-.art\:hover\:border\:solid-l:hover {
+.art\:hover\:border-l\:solid:hover {
     border-left-style: solid;
 }
 
-.art\:hover\:border\:solid-r:hover {
+.art\:hover\:border-r\:solid:hover {
     border-right-style: solid;
 }
