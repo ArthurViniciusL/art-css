@@ -1,4 +1,4 @@
-/* ------------------------------------- font weight: ------------------------------------- */
+/* ------------------------------------- font style: ------------------------------------- */
 
 .art\:font\:medium {
     /* art:font:medium */
@@ -13,4 +13,9 @@
 .art\:font\:bold {
     /* art:font:bold */
     font-weight: 700;
+}
+
+.art\:font\:capitalize {
+    /* art:font:capitalize  */
+    text-transform: capitalize;
 }

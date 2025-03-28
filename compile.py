@@ -20,9 +20,9 @@ cursor = [
     'src/modules/cursor/cursor.css'
 ]
 
-dimensions = [
-    'src/modules/dimensions/height.css',
-    'src/modules/dimensions/width.css',    
+views = [
+    'src/modules/views/height.css',
+    'src/modules/views/width.css',    
 ]
 
 elements_html = [
@@ -55,12 +55,16 @@ no_dark = [
     'src/modules/no-dark/hover-no-dark.css'
 ]
 
+overflow = [
+    'src/modules/overflow/overflow.css'
+]
+
 padding = [
     'src/modules/padding/padding.css'
 ]
 
 
-directories = ['src/art-main.css'] + background + border + cursor + dimensions + elements_html + flex_box + font + margin + no_dark + padding
+directories = ['src/art-main.css'] + background + border + cursor + views + elements_html + flex_box + font + margin + no_dark + overflow + padding
     
 file_content = [];
 
