@@ -1,9 +1,16 @@
 /* ------------------------------------- height ------------------------------------- */
 
 .art\:h\:device {
+    /* art:h:device  */
     height: 100dvh;
 }
 
 .art\:h\:full {
+    /* art:h:full  */
     height: 100%;
-  }
+}
+
+.art\:h\:fit {
+    /* art:h:fit  */
+    height: fit-content;
+}
