@@ -1,4 +1,4 @@
-button {
+.art\:btn {
     width: fit-content;
     height: fit-content;
     padding: var(--base);
@@ -6,7 +6,7 @@ button {
     background: var(--white-02);
 }
 
-button:hover {
+.art\:btn:hover {
     color: var(--white-01);
     background: var(--black-01);
     text-decoration: underline;
