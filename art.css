@@ -1928,22 +1928,36 @@
 /* ------------------------------------- height ------------------------------------- */
 
 .art\:h\:device {
+    /* art:h:device  */
     height: 100dvh;
 }
 
 .art\:h\:full {
+    /* art:h:full  */
     height: 100%;
-  }
+}
+
+.art\:h\:fit {
+    /* art:h:fit  */
+    height: fit-content;
+}
 /* ------------------------------------- width ------------------------------------- */
 
 .art\:w\:device {
+  /* art:w:device  */
   width: 100dvw;
 }
 
 .art\:w\:full {
+  /* art:w:full  */
   width: 100%;
 }
-button {
+
+.art\:w\:fit {
+  /* art:w:fit  */
+  width: fit-content;
+}
+.art\:btn {
     width: fit-content;
     height: fit-content;
     padding: var(--base);
@@ -1951,7 +1965,7 @@ button {
     background: var(--white-02);
 }
 
-button:hover {
+.art\:btn:hover {
     color: var(--white-01);
     background: var(--black-01);
     text-decoration: underline;
@@ -3007,7 +3021,7 @@ button:hover {
     /* art:font:5xl */
     font-size: var(--_5xl);
 }
-/* ------------------------------------- font weight: ------------------------------------- */
+/* ------------------------------------- font style: ------------------------------------- */
 
 .art\:font\:medium {
     /* art:font:medium */
@@ -3022,6 +3036,11 @@ button:hover {
 .art\:font\:bold {
     /* art:font:bold */
     font-weight: 700;
+}
+
+.art\:font\:capitalize {
+    /* art:font:capitalize  */
+    text-transform: capitalize;
 }
 /* ------------------------------------- margin ------------------------------------- */
 
@@ -3453,7 +3472,17 @@ button:hover {
 .art\:hover\:no-dark\:font\:white-04:hover {
     color: var(--fix-white-04);
 }
-/* ------------------------------------- padding ------------------------------------- */
+/* ------------------------------------- overflow ------------------------------------- */
+
+.art\:overflow\:hidden {
+    /* art:overflow:hidden */
+    overflow: hidden;
+}
+
+.art\:overflow\:scroll {
+    /* art:overflow:scroll */
+    overflow: scroll;
+}/* ------------------------------------- padding ------------------------------------- */
 
 .art\:p\:sm {
     /* art:p:sm */
