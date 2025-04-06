@@ -1,12 +1,11 @@
-.art\:btn {
+button {
     width: fit-content;
     height: fit-content;
-    padding: var(--base);
     border-radius: var(--base);
     background: var(--white-02);
+    cursor: pointer;
 }
-
-.art\:btn:hover {
+button:hover {
     color: var(--white-01);
     background: var(--black-01);
     text-decoration: underline;
