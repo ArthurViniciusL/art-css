@@ -10,8 +10,7 @@
 @import url('cursor/cursor.css');
 
 @import url('elements-html/button/button.css');
-
-@import url('elements-html/button/button.css');
+@import url('elements-html/button/link.css');
 
 @import url('flex-box/align.css');
 @import url('flex-box/display.css');
