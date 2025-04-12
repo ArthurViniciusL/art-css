@@ -6,21 +6,21 @@
 }
 
 .art\:border-t\:solid {
-    /* art:border:solid-t */
+    /* art:border-t:solid */
     border-top-style: solid;
 }
 
 .art\:border-b\:solid {
-    /* art:border:solid-b */
+    /* art:border-b:solid */
     border-bottom-style: solid;
 }
 
 .art\:border-l\:solid {
-    /* art:border:solid-l */
+    /* art:border-l:solid */
     border-left-style: solid;
 }
 
 .art\:border-r\:solid {
-    /* art:border:solid-r */
+    /* art:border-r:solid */
     border-right-style: solid;
 }

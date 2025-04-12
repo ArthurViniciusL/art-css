@@ -1,12 +1,17 @@
 /* ------------------------------------- font size: ------------------------------------- */
 
+.art\:font\:thin {
+    /* art:font:thin */
+    font-size: var(--thin);
+}
+
 .art\:font\:sm {
     /* art:font:sm */
     font-size: var(--sm);
 }
 
-.art\:font\:base {
-    /* art:font:base */
+.art\:font\:borderase {
+    /* art:font:borderase */
     font-size: var(--base);
 }
 

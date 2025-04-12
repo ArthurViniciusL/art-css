@@ -1,36 +1,41 @@
 /* ------------------------------------- flex ------------------------------------- */
 
-.art\:flex\:wrap {
-    /* art\:flex:wrap */
+.art\:wrap {
+    /* art:wrap */
     flex-wrap: wrap;
 }
 
-.art\:flex\:nowrap {
-    /* art\:flex:row */
+.art\:nowrap {
+    /* art:nowrap */
     flex-wrap: nowrap;
 }
 
-.art\:flex\:row {
-    /* art\:flex:row */
+.art\:row {
+    /* art:row */
     flex-direction: row;
 }
 
-.art\:flex\:col {
-    /* art\:flex:col */
+.art\:col {
+    /* art:col */
     flex-direction: column;
 }
 
-.art\:flex\:row-r {
-    /* art\:flex:row-r */
-    flex-direction: row-r;
+.art\:row-r {
+    /* art:row-r */
+    flex-direction: row-reverse;
 }
 
-.art\:flex\:col-r {
-    /* art\:flex:col-r */
+.art\:col-r {
+    /* art:col-r */
     flex-direction: column-reverse;
 }
 
+.art\:flow\:row {
+    /* art:flw:row */
+    flex-flow: row;
+}
+
 .art\:flow\:col {
-    /* art\:flw:col */
+    /* art:flw:col */
     flex-flow: column;
 }

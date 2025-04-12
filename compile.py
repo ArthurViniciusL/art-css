@@ -16,6 +16,10 @@ border = [
     'src/modules/border/b-style.css'
 ]
 
+position = [
+    'src/modules/position/position.css'
+]
+
 cursor = [
     'src/modules/cursor/cursor.css'
 ]
@@ -26,7 +30,8 @@ views = [
 ]
 
 elements_html = [
-    'src/modules/elements-html/button/button.css'
+    'src/modules/elements-html/button/button.css',
+    'src/modules/elements-html/button/link.css'
 ]
 
 flex_box = [
@@ -64,7 +69,7 @@ padding = [
 ]
 
 
-directories = ['src/art-main.css'] + background + border + cursor + views + elements_html + flex_box + font + margin + no_dark + overflow + padding
+directories = ['src/art-main.css'] + background + border + cursor + position + views + elements_html + flex_box + font + margin + no_dark + overflow + padding
     
 file_content = [];
 

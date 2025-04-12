@@ -1,0 +1,29 @@
+/* ------------------------------------- position: ------------------------------------- */
+
+.art\:fixed {
+    /* art:fixed */
+    position: fixed;
+}
+
+.art\:absolute {
+    /* art:absolute */
+    position: absolute;
+}
+
+.art\:relative {
+    /* art:relative */
+    position: relative;
+    position: static;
+    position: sticky;
+}
+
+.art\:static {
+    /* art:static */
+    position: static;
+    position: sticky;
+}
+
+.art\:sticky {
+    /* art:sticky */
+    position: sticky;
+}

@@ -9,3 +9,8 @@
     /* art:overflow:scroll */
     overflow: scroll;
 }
+
+.art\:overflow\:auto {
+    /* art:overflow:auto */
+    overflow: auto;
+}

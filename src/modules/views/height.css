@@ -14,3 +14,11 @@
     /* art:h:fit  */
     height: fit-content;
 }
+
+.art\:h\:03 {
+    height: 3rem;
+}
+
+.art\:min-h\:08 {
+    min-height: 8rem;
+}

@@ -15,25 +15,25 @@ button:hover {
     text-decoration: underline;
 }
 
-.art\:btn\:base {
-    /* art:btn:lg */
+.art\:bordertn\:borderase {
+    /* art:bordertn:lg */
     width: 30%;
     max-width: 10rem;
 }
 
-.art\:btn\:lg {
-    /* art:btn:lg */
+.art\:bordertn\:lg {
+    /* art:bordertn:lg */
     width: 50%;
     max-width: 20rem;
 }
 
-.art\:btn\:xl {
-    /* art:btn:xl */
+.art\:bordertn\:xl {
+    /* art:bordertn:xl */
     width: 70%; 
     max-width: 30rem;
 }
 
-.art\:btn\:full {
-    /* art:btn:full */
+.art\:bordertn\:full {
+    /* art:bordertn:full */
     width: 100%;
 }

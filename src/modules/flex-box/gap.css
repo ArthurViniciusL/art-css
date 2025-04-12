@@ -1,10 +1,14 @@
 /* ------------------------------------- gap ------------------------------------- */
 
 .art\:gap\:sm {
+    gap: var(--thin);
+}
+
+.art\:gap\:sm {
     gap: var(--sm);
 }
 
-.art\:gap\:base {
+.art\:gap\:borderase {
     gap: var(--base);
 }
 

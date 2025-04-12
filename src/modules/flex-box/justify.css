@@ -25,18 +25,18 @@
     justify-content: right;
 }
 
-.art\:justify-content\:space-between {
-    /* art:justify-content:space-between */
+.art\:justify-content\:borderetween {
+    /* art:justify-content:borderetween */
     justify-content: space-between;
 }
 
-.art\:justify-content\:space-around {
-    /* art:justify-content:space-around */
+.art\:justify-content\:around {
+    /* art:justify-content:around */
     justify-content: space-around;
 }
 
-.art\:justify-content\:space-evenly {
-    /* art:justify-content:space-evenly */
+.art\:justify-content\:evenly {
+    /* art:justify-content:evenly */
     justify-content: space-evenly;
 }
 

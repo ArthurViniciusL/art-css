@@ -4,39 +4,39 @@
     border-color: transparent;
 }
 
-.art\:hover\:border\:black-01:hover {
+.art\:hover\:border\:borderlack-01:hover {
     border-color: var(--black-01);
 }
 
-.art\:hover\:border\:black-02:hover {
+.art\:hover\:border\:borderlack-02:hover {
     border-color: var(--black-02);
 }
 
-.art\:hover\:border\:black-03:hover {
+.art\:hover\:border\:borderlack-03:hover {
     border-color: var(--black-03);
 }
 
-.art\:hover\:border\:black-04:hover {
+.art\:hover\:border\:borderlack-04:hover {
     border-color: var(--black-04);
 }
 
-.art\:hover\:border\:black-01\:10\%:hover {
+.art\:hover\:border\:borderlack-01\:10\%:hover {
     border-color: rgba(var(--black-rgb), 0.1);
 }
 
-.art\:hover\:border\:black-01\:20\%:hover {
+.art\:hover\:border\:borderlack-01\:20\%:hover {
     border-color: rgba(var(--black-rgb), 0.2);
 }
 
-.art\:hover\:border\:black-01\:30\%:hover {
+.art\:hover\:border\:borderlack-01\:30\%:hover {
     border-color: rgba(var(--black-rgb), 0.3);
 }
 
-.art\:hover\:border\:black-01\:40\%:hover {
+.art\:hover\:border\:borderlack-01\:40\%:hover {
     border-color: rgba(var(--black-rgb), 0.4);
 }
 
-.art\:hover\:border\:black-01\:50\%:hover {
+.art\:hover\:border\:borderlack-01\:50\%:hover {
     border-color: rgba(var(--black-rgb), 0.5);
 }
 
@@ -184,39 +184,39 @@
     border-color: rgba(var(--red-rgb), 0.5);
 }
 
-.art\:hover\:border\:blue-01:hover {
+.art\:hover\:border\:borderlue-01:hover {
     border-color: var(--blue-01);
 }
 
-.art\:hover\:border\:blue-02:hover {
+.art\:hover\:border\:borderlue-02:hover {
     border-color: var(--blue-02);
 }
 
-.art\:hover\:border\:blue-03:hover {
+.art\:hover\:border\:borderlue-03:hover {
     border-color: var(--blue-03);
 }
 
-.art\:hover\:border\:blue-04:hover {
+.art\:hover\:border\:borderlue-04:hover {
     border-color: var(--blue-04);
 }
 
-.art\:hover\:border\:blue-01\:10\%:hover {
+.art\:hover\:border\:borderlue-01\:10\%:hover {
     border-color: rgba(var(--blue-rgb), 0.1);
 }
 
-.art\:hover\:border\:blue-01\:20\%:hover {
+.art\:hover\:border\:borderlue-01\:20\%:hover {
     border-color: rgba(var(--blue-rgb), 0.2);
 }
 
-.art\:hover\:border\:blue-01\:30\%:hover {
+.art\:hover\:border\:borderlue-01\:30\%:hover {
     border-color: rgba(var(--blue-rgb), 0.3);
 }
 
-.art\:hover\:border\:blue-01\:40\%:hover {
+.art\:hover\:border\:borderlue-01\:40\%:hover {
     border-color: rgba(var(--blue-rgb), 0.4);
 }
 
-.art\:hover\:border\:blue-01\:50\%:hover {
+.art\:hover\:border\:borderlue-01\:50\%:hover {
     border-color: rgba(var(--blue-rgb), 0.5);
 }
 
@@ -294,11 +294,16 @@
 
 /* ------------------------------------- hover border size: ------------------------------------- */
 
+.art\:hover\:border\:thin:hover {
+    /* art:hover:border:thin */
+    border-width: var(--thin);
+}
+
 .art\:hover\:border\:sm:hover {
     border-width: var(--sm);
 }
 
-.art\:hover\:border\:base:hover {
+.art\:hover\:border\:borderase:hover {
     border-width: var(--base);
 }
 
@@ -328,11 +333,16 @@
 
 /* ------------------------------------- hover border radius: ------------------------------------- */
 
+.art\:hover\:border-rd\:thin:hover {
+    /* art:hover:border-rd:thin */
+    border-radius: var(--thin) var(--thin) var(--thin) var(--thin);
+}
+
 .art\:hover\:border-rd\:sm:hover {
     border-radius: var(--sm) var(--sm) var(--sm) var(--sm);
 }
 
-.art\:hover\:border-rd\:base:hover {
+.art\:hover\:border-rd\:borderase:hover {
     border-radius: var(--base) var(--base) var(--base) var(--base);
 }
 
@@ -358,138 +368,6 @@
 
 .art\:hover\:border-rd\:5xl:hover {
     border-radius: var(--_5xl) var(--_5xl) var(--_5xl) var(--_5xl);
-}
-
-/* Border Radius - Top Left */
-.art\:hover\:border\:rd-lt\:sm:hover {
-    border-top-left-radius: var(--sm);
-}
-
-.art\:hover\:border\:rd-lt\:base:hover {
-    border-top-left-radius: var(--base);
-}
-
-.art\:hover\:border\:rd-lt\:lg:hover {
-    border-top-left-radius: var(--lg);
-}
-
-.art\:hover\:border\:rd-lt\:xl:hover {
-    border-top-left-radius: var(--xl);
-}
-
-.art\:hover\:border\:rd-lt\:2xl:hover {
-    border-top-left-radius: var(--_2xl);
-}
-
-.art\:hover\:border\:rd-lt\:3xl:hover {
-    border-top-left-radius: var(--_3xl);
-}
-
-.art\:hover\:border\:rd-lt\:4xl:hover {
-    border-top-left-radius: var(--_4xl);
-}
-
-.art\:hover\:border\:rd-lt\:5xl:hover {
-    border-top-left-radius: var(--_5xl);
-}
-
-/* Border Radius - Top Right */
-.art\:hover\:border\:rd-rt\:sm:hover {
-    border-top-right-radius: var(--sm);
-}
-
-.art\:hover\:border\:rd-rt\:base:hover {
-    border-top-right-radius: var(--base);
-}
-
-.art\:hover\:border\:rd-rt\:lg:hover {
-    border-top-right-radius: var(--lg);
-}
-
-.art\:hover\:border\:rd-rt\:xl:hover {
-    border-top-right-radius: var(--xl);
-}
-
-.art\:hover\:border\:rd-rt\:2xl:hover {
-    border-top-right-radius: var(--_2xl);
-}
-
-.art\:hover\:border\:rd-rt\:3xl:hover {
-    border-top-right-radius: var(--_3xl);
-}
-
-.art\:hover\:border\:rd-rt\:4xl:hover {
-    border-top-right-radius: var(--_4xl);
-}
-
-.art\:hover\:border\:rd-rt\:5xl:hover {
-    border-top-right-radius: var(--_5xl);
-}
-
-/* Border Radius - Bottom Left */
-.art\:hover\:border\:rd-lb\:sm:hover {
-    border-bottom-left-radius: var(--sm);
-}
-
-.art\:hover\:border\:rd-lb\:base:hover {
-    border-bottom-left-radius: var(--base);
-}
-
-.art\:hover\:border\:rd-lb\:lg:hover {
-    border-bottom-left-radius: var(--lg);
-}
-
-.art\:hover\:border\:rd-lb\:xl:hover {
-    border-bottom-left-radius: var(--xl);
-}
-
-.art\:hover\:border\:rd-lb\:2xl:hover {
-    border-bottom-left-radius: var(--_2xl);
-}
-
-.art\:hover\:border\:rd-lb\:3xl:hover {
-    border-bottom-left-radius: var(--_3xl);
-}
-
-.art\:hover\:border\:rd-lb\:4xl:hover {
-    border-bottom-left-radius: var(--_4xl);
-}
-
-.art\:hover\:border\:rd-lb\:5xl:hover {
-    border-bottom-left-radius: var(--_5xl);
-}
-
-/* Border Radius - Bottom Right */
-.art\:hover\:border\:rd-rb\:sm:hover {
-    border-bottom-right-radius: var(--sm);
-}
-
-.art\:hover\:border\:rd-rb\:base:hover {
-    border-bottom-right-radius: var(--base);
-}
-
-.art\:hover\:border\:rd-rb\:lg:hover {
-    border-bottom-right-radius: var(--lg);
-}
-
-.art\:hover\:border\:rd-rb\:xl:hover {
-    border-bottom-right-radius: var(--xl);
-}
-
-.art\:hover\:border\:rd-rb\:2xl:hover {
-    border-bottom-right-radius: var(--_2xl);
-}
-
-.art\:hover\:border\:rd-rb\:3xl:hover {
-    border-bottom-right-radius: var(--_3xl);
-}
-
-.art\:hover\:border\:rd-rb\:4xl:hover {
-    border-bottom-right-radius: var(--_4xl);
-}
-
-.art\:hover\:border\:rd-rb\:5xl:hover {
-    border-bottom-right-radius: var(--_5xl);
 }
 
 /* ------------------------------------- hover border style: ------------------------------------- */

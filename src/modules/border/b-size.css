@@ -2,7 +2,7 @@
 
 .art\:border\:thin {
      /* art:border:thin */
-    border-width: 0.1rem;
+    border-width: var(--thin);
   }
 
 .art\:border\:sm {
@@ -10,8 +10,8 @@
     border-width: var(--sm);
 }
 
-.art\:border\:base {
-    /* art:border:base */
+.art\:border\:borderase {
+    /* art:border:borderase */
     border-width: var(--base);
 }
 
