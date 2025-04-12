@@ -1,5 +1,10 @@
 /* ------------------------------------- border size: ------------------------------------- */
 
+.art\:border\:thin {
+     /* art:border:thin */
+    border-width: 0.1rem;
+  }
+
 .art\:border\:sm {
     /* art:border:sm */
     border-width: var(--sm);
