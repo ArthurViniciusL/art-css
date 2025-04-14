@@ -13,14 +13,11 @@
 .art\:relative {
     /* art:relative */
     position: relative;
-    position: static;
-    position: sticky;
 }
 
 .art\:static {
     /* art:static */
     position: static;
-    position: sticky;
 }
 
 .art\:sticky {

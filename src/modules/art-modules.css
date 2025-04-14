@@ -9,6 +9,11 @@
 
 @import url('cursor/cursor.css');
 
+@import url('direction/bottom.css');
+@import url('direction/left.css');
+@import url('direction/right.css');
+@import url('direction/top.css');
+
 @import url('elements-html/button/button.css');
 @import url('elements-html/button/link.css');
 
@@ -35,6 +40,11 @@
 @import url('padding/padding.css');
 
 @import url('position/position.css');
+
+@import url('transition/ease-in-out.css');
+@import url('transition/ease-in.css');
+@import url('transition/ease-out.css');
+@import url('transition/ease.css');
 
 @import url('views/height.css');
 @import url('views/width.css');

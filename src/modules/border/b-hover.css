@@ -4,39 +4,39 @@
     border-color: transparent;
 }
 
-.art\:hover\:border\:borderlack-01:hover {
+.art\:hover\:border\:black-01:hover {
     border-color: var(--black-01);
 }
 
-.art\:hover\:border\:borderlack-02:hover {
+.art\:hover\:border\:black-02:hover {
     border-color: var(--black-02);
 }
 
-.art\:hover\:border\:borderlack-03:hover {
+.art\:hover\:border\:black-03:hover {
     border-color: var(--black-03);
 }
 
-.art\:hover\:border\:borderlack-04:hover {
+.art\:hover\:border\:black-04:hover {
     border-color: var(--black-04);
 }
 
-.art\:hover\:border\:borderlack-01\:10\%:hover {
+.art\:hover\:border\:black-01\:10\%:hover {
     border-color: rgba(var(--black-rgb), 0.1);
 }
 
-.art\:hover\:border\:borderlack-01\:20\%:hover {
+.art\:hover\:border\:black-01\:20\%:hover {
     border-color: rgba(var(--black-rgb), 0.2);
 }
 
-.art\:hover\:border\:borderlack-01\:30\%:hover {
+.art\:hover\:border\:black-01\:30\%:hover {
     border-color: rgba(var(--black-rgb), 0.3);
 }
 
-.art\:hover\:border\:borderlack-01\:40\%:hover {
+.art\:hover\:border\:black-01\:40\%:hover {
     border-color: rgba(var(--black-rgb), 0.4);
 }
 
-.art\:hover\:border\:borderlack-01\:50\%:hover {
+.art\:hover\:border\:black-01\:50\%:hover {
     border-color: rgba(var(--black-rgb), 0.5);
 }
 
@@ -303,7 +303,7 @@
     border-width: var(--sm);
 }
 
-.art\:hover\:border\:borderase:hover {
+.art\:hover\:border\:base:hover {
     border-width: var(--base);
 }
 
@@ -342,7 +342,7 @@
     border-radius: var(--sm) var(--sm) var(--sm) var(--sm);
 }
 
-.art\:hover\:border-rd\:borderase:hover {
+.art\:hover\:border-rd\:base:hover {
     border-radius: var(--base) var(--base) var(--base) var(--base);
 }
 

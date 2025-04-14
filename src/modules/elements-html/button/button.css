@@ -3,37 +3,43 @@
 button {
     width: fit-content;
     height: fit-content;
-    border-radius: var(--base);
-    background: var(--white-02);
     cursor: pointer;
 }
 
 button:hover {
-    cursor:pointer;
-    color: var(--white-01);
-    background: var(--black-01);
     text-decoration: underline;
 }
 
-.art\:bordertn\:borderase {
-    /* art:bordertn:lg */
+.art\:btn {
+    padding: var(--base);
+    border-radius: var(--base);
+    background: var(--white-02);
+}
+
+.art\:btn:hover {
+    color: var(--white-01);
+    background: var(--black-01);
+}
+
+.art\:btn\:base {
+    /* art::btn:lg */
     width: 30%;
     max-width: 10rem;
 }
 
-.art\:bordertn\:lg {
-    /* art:bordertn:lg */
+.art\:btn\:lg {
+    /* art::btn:lg */
     width: 50%;
     max-width: 20rem;
 }
 
-.art\:bordertn\:xl {
-    /* art:bordertn:xl */
-    width: 70%; 
+.art\:btn\:xl {
+    /* art::btn:xl */
+    width: 70%;
     max-width: 30rem;
 }
 
-.art\:bordertn\:full {
-    /* art:bordertn:full */
+.art\:btn\:full {
+    /* art::btn:full */
     width: 100%;
 }

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300.800;1,300.800&display=swap');
 
 * {
     margin: 0;
@@ -112,48 +112,48 @@
 }
 
 /* Black */
-.art\:borderg\:borderlack-01 {
-    /* art:borderg:borderlack-01 */
+.art\:borderg\:black-01 {
+    /* art:borderg:black-01 */
     background: var(--black-01);
 }
 
-.art\:borderg\:borderlack-02 {
-    /* art:borderg:borderlack-02 */
+.art\:borderg\:black-02 {
+    /* art:borderg:black-02 */
     background: var(--black-02);
 }
 
-.art\:borderg\:borderlack-03 {
-    /* art:borderg:borderlack-03 */
+.art\:borderg\:black-03 {
+    /* art:borderg:black-03 */
     background: var(--black-03);
 }
 
-.art\:borderg\:borderlack-04 {
-    /* art:borderg:borderlack-04 */
+.art\:borderg\:black-04 {
+    /* art:borderg:black-04 */
     background: var(--black-04);
 }
 
-.art\:borderg\:borderlack\:10\% {
-    /* art:borderg:borderlack:10% */
+.art\:borderg\:black\:10\% {
+    /* art:borderg:black:10% */
     background: rgb(var(--black-rgb), 0.1);
 }
 
-.art\:borderg\:borderlack\:20\% {
-    /* art:borderg:borderlack:20% */
+.art\:borderg\:black\:20\% {
+    /* art:borderg:black:20% */
     background: rgb(var(--black-rgb), 0.2);
 }
 
-.art\:borderg\:borderlack\:30\% {
-    /* art:borderg:borderlack:30% */
+.art\:borderg\:black\:30\% {
+    /* art:borderg:black:30% */
     background: rgb(var(--black-rgb), 0.3);
 }
 
-.art\:borderg\:borderlack\:40\% {
-    /* art:borderg:borderlack:40% */
+.art\:borderg\:black\:40\% {
+    /* art:borderg:black:40% */
     background: rgb(var(--black-rgb), 0.4);
 }
 
-.art\:borderg\:borderlack\:50\% {
-    /* art:borderg:borderlack:50% */
+.art\:borderg\:black\:50\% {
+    /* art:borderg:black:50% */
     background: rgb(var(--black-rgb), 0.5);
 }
 
@@ -484,48 +484,48 @@
     background: transparent;
 }
 
-.art\:hover\:borderg\:borderlack-01:hover {
-    /* art:hover:borderg:borderlack-01 */
+.art\:hover\:borderg\:black-01:hover {
+    /* art:hover:borderg:black-01 */
     background: var(--black-01);
 }
 
-.art\:hover\:borderg\:borderlack-02:hover {
-    /* art:hover:borderg:borderlack-02 */
+.art\:hover\:borderg\:black-02:hover {
+    /* art:hover:borderg:black-02 */
     background: var(--black-02);
 }
 
-.art\:hover\:borderg\:borderlack-03:hover {
-    /* art:hover:borderg:borderlack-03 */
+.art\:hover\:borderg\:black-03:hover {
+    /* art:hover:borderg:black-03 */
     background: var(--black-03);
 }
 
-.art\:hover\:borderg\:borderlack-04:hover {
-    /* art:hover:borderg:borderlack-04 */
+.art\:hover\:borderg\:black-04:hover {
+    /* art:hover:borderg:black-04 */
     background: var(--black-04);
 }
 
-.art\:hover\:borderg\:borderlack\:10\%:hover {
-    /* art:hover:borderg:borderlack:10% */
+.art\:hover\:borderg\:black\:10\%:hover {
+    /* art:hover:borderg:black:10% */
     background: rgb(var(--black-rgb), 0.1);
 }
 
-.art\:hover\:borderg\:borderlack\:20\%:hover {
-    /* art:hover:borderg:borderlack:20% */
+.art\:hover\:borderg\:black\:20\%:hover {
+    /* art:hover:borderg:black:20% */
     background: rgb(var(--black-rgb), 0.2);
 }
 
-.art\:hover\:borderg\:borderlack\:30\%:hover {
-    /* art:hover:borderg:borderlack:30% */
+.art\:hover\:borderg\:black\:30\%:hover {
+    /* art:hover:borderg:black:30% */
     background: rgb(var(--black-rgb), 0.3);
 }
 
-.art\:hover\:borderg\:borderlack\:40\%:hover {
-    /* art:hover:borderg:borderlack:40% */
+.art\:hover\:borderg\:black\:40\%:hover {
+    /* art:hover:borderg:black:40% */
     background: rgb(var(--black-rgb), 0.4);
 }
 
-.art\:hover\:borderg\:borderlack\:50\%:hover {
-    /* art:hover:borderg:borderlack:50% */
+.art\:hover\:borderg\:black\:50\%:hover {
+    /* art:hover:borderg:black:50% */
     background: rgb(var(--black-rgb), 0.5);
 }
 
@@ -851,8 +851,8 @@
     border-width: var(--sm);
 }
 
-.art\:border\:borderase {
-    /* art:border:borderase */
+.art\:border\:base {
+    /* art:border:base */
     border-width: var(--base);
 }
 
@@ -887,39 +887,39 @@
 }
 /* ------------------------------------- border color: ------------------------------------- */
 
-.art\:border\:borderlack-01 {
+.art\:border\:black-01 {
     border-color: var(--black-01);
 }
 
-.art\:border\:borderlack-02 {
+.art\:border\:black-02 {
     border-color: var(--black-02);
 }
 
-.art\:border\:borderlack-03 {
+.art\:border\:black-03 {
     border-color: var(--black-03);
 }
 
-.art\:border\:borderlack-04 {
+.art\:border\:black-04 {
     border-color: var(--black-04);
 }
 
-.art\:border\:borderlack-01\:10\% {
+.art\:border\:black-01\:10\% {
     border-color: rgba(var(--black-rgb), 0.1);
 }
 
-.art\:border\:borderlack-01\:20\% {
+.art\:border\:black-01\:20\% {
     border-color: rgba(var(--black-rgb), 0.2);
 }
 
-.art\:border\:borderlack-01\:30\% {
+.art\:border\:black-01\:30\% {
     border-color: rgba(var(--black-rgb), 0.3);
 }
 
-.art\:border\:borderlack-01\:40\% {
+.art\:border\:black-01\:40\% {
     border-color: rgba(var(--black-rgb), 0.4);
 }
 
-.art\:border\:borderlack-01\:50\% {
+.art\:border\:black-01\:50\% {
     border-color: rgba(var(--black-rgb), 0.5);
 }
 
@@ -1180,39 +1180,39 @@
     border-color: transparent;
 }
 
-.art\:hover\:border\:borderlack-01:hover {
+.art\:hover\:border\:black-01:hover {
     border-color: var(--black-01);
 }
 
-.art\:hover\:border\:borderlack-02:hover {
+.art\:hover\:border\:black-02:hover {
     border-color: var(--black-02);
 }
 
-.art\:hover\:border\:borderlack-03:hover {
+.art\:hover\:border\:black-03:hover {
     border-color: var(--black-03);
 }
 
-.art\:hover\:border\:borderlack-04:hover {
+.art\:hover\:border\:black-04:hover {
     border-color: var(--black-04);
 }
 
-.art\:hover\:border\:borderlack-01\:10\%:hover {
+.art\:hover\:border\:black-01\:10\%:hover {
     border-color: rgba(var(--black-rgb), 0.1);
 }
 
-.art\:hover\:border\:borderlack-01\:20\%:hover {
+.art\:hover\:border\:black-01\:20\%:hover {
     border-color: rgba(var(--black-rgb), 0.2);
 }
 
-.art\:hover\:border\:borderlack-01\:30\%:hover {
+.art\:hover\:border\:black-01\:30\%:hover {
     border-color: rgba(var(--black-rgb), 0.3);
 }
 
-.art\:hover\:border\:borderlack-01\:40\%:hover {
+.art\:hover\:border\:black-01\:40\%:hover {
     border-color: rgba(var(--black-rgb), 0.4);
 }
 
-.art\:hover\:border\:borderlack-01\:50\%:hover {
+.art\:hover\:border\:black-01\:50\%:hover {
     border-color: rgba(var(--black-rgb), 0.5);
 }
 
@@ -1474,7 +1474,7 @@
     border-width: var(--sm);
 }
 
-.art\:hover\:border\:borderase:hover {
+.art\:hover\:border\:base:hover {
     border-width: var(--base);
 }
 
@@ -1508,7 +1508,7 @@
     border-radius: var(--sm) var(--sm) var(--sm) var(--sm);
 }
 
-.art\:hover\:border-rd\:borderase:hover {
+.art\:hover\:border-rd\:base:hover {
     border-radius: var(--base) var(--base) var(--base) var(--base);
 }
 
@@ -1541,7 +1541,7 @@
     border-top-left-radius: var(--sm);
 }
 
-.art\:hover\:border\:rd-lt\:borderase:hover {
+.art\:hover\:border\:rd-lt\:base:hover {
     border-top-left-radius: var(--base);
 }
 
@@ -1574,7 +1574,7 @@
     border-top-right-radius: var(--sm);
 }
 
-.art\:hover\:border\:rd-rt\:borderase:hover {
+.art\:hover\:border\:rd-rt\:base:hover {
     border-top-right-radius: var(--base);
 }
 
@@ -1607,7 +1607,7 @@
     border-bottom-left-radius: var(--sm);
 }
 
-.art\:hover\:border\:rd-lb\:borderase:hover {
+.art\:hover\:border\:rd-lb\:base:hover {
     border-bottom-left-radius: var(--base);
 }
 
@@ -1640,7 +1640,7 @@
     border-bottom-right-radius: var(--sm);
 }
 
-.art\:hover\:border\:rd-rb\:borderase:hover {
+.art\:hover\:border\:rd-rb\:base:hover {
     border-bottom-right-radius: var(--base);
 }
 
@@ -1695,7 +1695,7 @@
     border-radius: var(--sm) var(--sm) var(--sm) var(--sm);
 }
 
-.art\:border-rd\:borderase {
+.art\:border-rd\:base {
     border-radius: var(--base) var(--base) var(--base) var(--base);
 }
 
@@ -1731,8 +1731,8 @@
     border-top-left-radius: var(--sm);
 }
 
-.art\:border-rd-lt\:borderase {
-    /* art:border:rd-lt:borderase */
+.art\:border-rd-lt\:base {
+    /* art:border:rd-lt:base */
     border-top-left-radius: var(--base);
 }
 
@@ -1772,8 +1772,8 @@
     border-top-right-radius: var(--sm);
 }
 
-.art\:border-rd-rt\:borderase {
-    /* art:border:rd-rt:borderase */
+.art\:border-rd-rt\:base {
+    /* art:border:rd-rt:base */
     border-top-right-radius: var(--base);
 }
 
@@ -1813,8 +1813,8 @@
     border-bottom-left-radius: var(--sm);
 }
 
-.art\:border-rd-lb\:borderase {
-    /* art:border:rd-lb:borderase */
+.art\:border-rd-lb\:base {
+    /* art:border:rd-lb:base */
     border-bottom-left-radius: var(--base);
 }
 
@@ -1854,8 +1854,8 @@
     border-bottom-right-radius: var(--sm);
 }
 
-.art\:border-rd-rb\:borderase {
-    /* art:border:rd-rb:borderase */
+.art\:border-rd-rb\:base {
+    /* art:border:rd-rb:base */
     border-bottom-right-radius: var(--base);
 }
 
@@ -1970,26 +1970,26 @@ button:hover {
     text-decoration: underline;
 }
 
-.art\:bordertn\:borderase {
-    /* art:bordertn:lg */
+.art\:btn\:base {
+    /* art::btn:lg */
     width: 30%;
     max-width: 10rem;
 }
 
-.art\:bordertn\:lg {
-    /* art:bordertn:lg */
+.art\:btn\:lg {
+    /* art::btn:lg */
     width: 50%;
     max-width: 20rem;
 }
 
-.art\:bordertn\:xl {
-    /* art:bordertn:xl */
+.art\:btn\:xl {
+    /* art::btn:xl */
     width: 70%; 
     max-width: 30rem;
 }
 
-.art\:bordertn\:full {
-    /* art:bordertn:full */
+.art\:btn\:full {
+    /* art::btn:full */
     width: 100%;
 }/* ------------------------------------- align ------------------------------------- */
 
@@ -2058,8 +2058,8 @@ button:hover {
     align-items: stretch;
 }
 
-.art\:align-items\:borderaseline {
-    /* art:align-items:borderaseline */
+.art\:align-items\:baseline {
+    /* art:align-items:baseline */
     align-items: baseline;
 }
 
@@ -2134,7 +2134,7 @@ button:hover {
     gap: var(--sm);
 }
 
-.art\:gap\:borderase {
+.art\:gap\:base {
     gap: var(--base);
 }
 
@@ -2235,48 +2235,48 @@ button:hover {
 /* ------------------------------------- font colors: ------------------------------------- */
 
 /* Black */
-.art\:font\:borderlack-01 {
-    /* art:font:borderlack-01 */
+.art\:font\:black-01 {
+    /* art:font:black-01 */
     color: var(--black-01);
 }
 
-.art\:font\:borderlack-02 {
-    /* art:font:borderlack-02 */
+.art\:font\:black-02 {
+    /* art:font:black-02 */
     color: var(--black-02);
 }
 
-.art\:font\:borderlack-03 {
-    /* art:font:borderlack-03 */
+.art\:font\:black-03 {
+    /* art:font:black-03 */
     color: var(--black-03);
 }
 
-.art\:font\:borderlack-04 {
-    /* art:font:borderlack-04 */
+.art\:font\:black-04 {
+    /* art:font:black-04 */
     color: var(--black-04);
 }
 
-.art\:font\:borderlack\:10\% {
-    /* art:font:borderlack:10% */
+.art\:font\:black\:10\% {
+    /* art:font:black:10% */
     color: rgb(var(--black-rgb), 0.1);
 }
 
-.art\:font\:borderlack\:20\% {
-    /* art:font:borderlack:20% */
+.art\:font\:black\:20\% {
+    /* art:font:black:20% */
     color: rgb(var(--black-rgb), 0.2);
 }
 
-.art\:font\:borderlack\:30\% {
-    /* art:font:borderlack:30% */
+.art\:font\:black\:30\% {
+    /* art:font:black:30% */
     color: rgb(var(--black-rgb), 0.3);
 }
 
-.art\:font\:borderlack\:40\% {
-    /* art:font:borderlack:40% */
+.art\:font\:black\:40\% {
+    /* art:font:black:40% */
     color: rgb(var(--black-rgb), 0.4);
 }
 
-.art\:font\:borderlack\:50\% {
-    /* art:font:borderlack:50% */
+.art\:font\:black\:50\% {
+    /* art:font:black:50% */
     color: rgb(var(--black-rgb), 0.5);
 }
 
@@ -2613,48 +2613,48 @@ button:hover {
 /* ------------------------------------- fonts color hovers: ------------------------------------- */
 
 /* Black */
-.art\:hover\:font\:borderlack-01:hover {
-    /* .art:hover:font:borderlack-01 */
+.art\:hover\:font\:black-01:hover {
+    /* .art:hover:font:black-01 */
     color: var(--black-01);
 }
 
-.art\:hover\:font\:borderlack-02:hover {
-    /* .art:hover:font:borderlack-02 */
+.art\:hover\:font\:black-02:hover {
+    /* .art:hover:font:black-02 */
     color: var(--black-02);
 }
 
-.art\:hover\:font\:borderlack-03:hover {
-    /* .art:hover:font:borderlack-03 */
+.art\:hover\:font\:black-03:hover {
+    /* .art:hover:font:black-03 */
     color: var(--black-03);
 }
 
-.art\:hover\:font\:borderlack-04:hover {
-    /* .art:hover:font:borderlack-04 */
+.art\:hover\:font\:black-04:hover {
+    /* .art:hover:font:black-04 */
     color: var(--black-04);
 }
 
-.art\:hover\:font\:borderlack\:10\%:hover {
-    /* .art:hover:font:borderlack:10% */
+.art\:hover\:font\:black\:10\%:hover {
+    /* .art:hover:font:black:10% */
     color: rgb(var(--black-rgb), 0.1);
 }
 
-.art\:hover\:font\:borderlack\:20\%:hover {
-    /* .art:hover:font:borderlack:20% */
+.art\:hover\:font\:black\:20\%:hover {
+    /* .art:hover:font:black:20% */
     color: rgb(var(--black-rgb), 0.2);
 }
 
-.art\:hover\:font\:borderlack\:30\%:hover {
-    /* .art:hover:font:borderlack:30% */
+.art\:hover\:font\:black\:30\%:hover {
+    /* .art:hover:font:black:30% */
     color: rgb(var(--black-rgb), 0.3);
 }
 
-.art\:hover\:font\:borderlack\:40\%:hover {
-    /* .art:hover:font:borderlack:40% */
+.art\:hover\:font\:black\:40\%:hover {
+    /* .art:hover:font:black:40% */
     color: rgb(var(--black-rgb), 0.4);
 }
 
-.art\:hover\:font\:borderlack\:50\%:hover {
-    /* .art:hover:font:borderlack:50% */
+.art\:hover\:font\:black\:50\%:hover {
+    /* .art:hover:font:black:50% */
     color: rgb(var(--black-rgb), 0.5);
 }
 
@@ -2986,8 +2986,8 @@ button:hover {
     font-size: var(--sm);
 }
 
-.art\:font\:borderase {
-    /* art:font:borderase */
+.art\:font\:base {
+    /* art:font:base */
     font-size: var(--base);
 }
 
@@ -3048,8 +3048,8 @@ button:hover {
     margin: var(--sm);
 }
 
-.art\:m\:borderase {
-    /* art:m:borderase */
+.art\:m\:base {
+    /* art:m:base */
     margin: var(--base);
 }
 
@@ -3088,8 +3088,8 @@ button:hover {
     margin-top: var(--sm);
 }
 
-.art\:m-t\:borderase {
-    /* art:m-t:borderase */
+.art\:m-t\:base {
+    /* art:m-t:base */
     margin-top: var(--base);
 }
 
@@ -3128,8 +3128,8 @@ button:hover {
     margin-right: var(--sm);
 }
 
-.art\:m-r\:borderase {
-    /* art:m-r:borderase */
+.art\:m-r\:base {
+    /* art:m-r:base */
     margin-right: var(--base);
 }
 
@@ -3168,8 +3168,8 @@ button:hover {
     margin-bottom: var(--sm);
 }
 
-.art\:m-b\:borderase {
-    /* art:m-b:borderase */
+.art\:m-b\:base {
+    /* art:m-b:base */
     margin-bottom: var(--base);
 }
 
@@ -3208,8 +3208,8 @@ button:hover {
     margin-left: var(--sm);
 }
 
-.art\:m-l\:borderase {
-    /* art:m-l:borderase */
+.art\:m-l\:base {
+    /* art:m-l:base */
     margin-left: var(--base);
 }
 
@@ -3244,23 +3244,23 @@ button:hover {
 }
 /* ------------------------------------- background colors no dark mode: ------------------------------------- */
 
-.art\:no-dark\:borderg\:borderlack-01 {
-    /* art:no-dark:borderg:borderlack-01 */
+.art\:no-dark\:borderg\:black-01 {
+    /* art:no-dark:borderg:black-01 */
     background: var(--fix-black-01);
 }
 
-.art\:no-dark\:borderg\:borderlack-02 {
-    /* art:no-dark:borderg:borderlack-02 */
+.art\:no-dark\:borderg\:black-02 {
+    /* art:no-dark:borderg:black-02 */
     background: var(--fix-black-02);
 }
 
-.art\:no-dark\:borderg\:borderlack-03 {
-    /* art:no-dark:borderg:borderlack-03 */
+.art\:no-dark\:borderg\:black-03 {
+    /* art:no-dark:borderg:black-03 */
     background: var(--fix-black-03);
 }
 
-.art\:no-dark\:borderg\:borderlack-04 {
-    /* art:no-dark:borderg:borderlack-04 */
+.art\:no-dark\:borderg\:black-04 {
+    /* art:no-dark:borderg:black-04 */
     background: var(--fix-black-04);
 }
 
@@ -3284,23 +3284,23 @@ button:hover {
     background: var(--fix-white-04);
 }
 
-.art\:hover\:no-black\:borderg\:borderlack-01:hover {
-    /* art:hover:no-black:borderg:borderlack-01 */
+.art\:hover\:no-black\:borderg\:black-01:hover {
+    /* art:hover:no-black:borderg:black-01 */
     background: var(--fix-black-01);
 }
 
-.art\:hover\:no-dark\:borderg\:borderlack-02:hover {
-    /* art:hover:no-dark:borderg:borderlack-02 */
+.art\:hover\:no-dark\:borderg\:black-02:hover {
+    /* art:hover:no-dark:borderg:black-02 */
     background: var(--fix-black-02);
 }
 
-.art\:hover\:no-dark\:borderg\:borderlack-03:hover {
-    /* art:hover:no-dark:borderg:borderlack-03 */
+.art\:hover\:no-dark\:borderg\:black-03:hover {
+    /* art:hover:no-dark:borderg:black-03 */
     background: var(--fix-black-03);
 }
 
-.art\:hover\:no-dark\:borderg\:borderlack-04:hover {
-    /* art:hover:no-dark:borderg:borderlack-04 */
+.art\:hover\:no-dark\:borderg\:black-04:hover {
+    /* art:hover:no-dark:borderg:black-04 */
     background: var(--fix-black-04);
 }
 
@@ -3325,23 +3325,23 @@ button:hover {
 }
 /* ------------------------------------- font colors no dark mode: ------------------------------------- */
 
-.art\:no-dark\:font\:borderlack-01 {
-    /* art:no-dark:font:borderlack-01 */
+.art\:no-dark\:font\:black-01 {
+    /* art:no-dark:font:black-01 */
     color: var(--fix-black-01);
 }
 
-.art\:no-dark\:font\:borderlack-02 {
-    /* art:no-dark:font:borderlack-02 */
+.art\:no-dark\:font\:black-02 {
+    /* art:no-dark:font:black-02 */
     color: var(--fix-black-02);
 }
 
-.art\:no-dark\:font\:borderlack-03 {
-    /* art:no-dark:font:borderlack-03 */
+.art\:no-dark\:font\:black-03 {
+    /* art:no-dark:font:black-03 */
     color: var(--fix-black-03);
 }
 
-.art\:no-dark\:font\:borderlack-04 {
-    /* art:no-dark:font:borderlack-04 */
+.art\:no-dark\:font\:black-04 {
+    /* art:no-dark:font:black-04 */
     color: var(--fix-black-04);
 }
 
@@ -3365,23 +3365,23 @@ button:hover {
     color: var(--fix-white-04);
 }
 
-.art\:hover\:no-dark\:font\:borderlack-01:hover {
-    /* art:hover:no-dark:font:borderlack-01 */
+.art\:hover\:no-dark\:font\:black-01:hover {
+    /* art:hover:no-dark:font:black-01 */
     color: var(--fix-black-01);
 }
 
-.art\:hover\:no-dark\:font\:borderlack-02:hover {
-    /* art:hover:no-dark:font:borderlack-02 */
+.art\:hover\:no-dark\:font\:black-02:hover {
+    /* art:hover:no-dark:font:black-02 */
     color: var(--fix-black-02);
 }
 
-.art\:hover\:no-dark\:font\:borderlack-03:hover {
-    /* art:hover:no-dark:font:borderlack-03 */
+.art\:hover\:no-dark\:font\:black-03:hover {
+    /* art:hover:no-dark:font:black-03 */
     color: var(--fix-black-03);
 }
 
-.art\:hover\:no-dark\:font\:borderlack-04:hover {
-    /* art:hover:no-dark:font:borderlack-04 */
+.art\:hover\:no-dark\:font\:black-04:hover {
+    /* art:hover:no-dark:font:black-04 */
     color: var(--fix-black-04);
 }
 
@@ -3406,19 +3406,19 @@ button:hover {
 }
 /* ------------------------------------- hover background colors no dark mode: ------------------------------------- */
 
-.art\:hover\:no-dark\:borderg\:borderlack-01:hover {
+.art\:hover\:no-dark\:borderg\:black-01:hover {
     background: var(--fix-black-01);
 }
 
-.art\:hover\:no-dark\:borderg\:borderlack-02:hover {
+.art\:hover\:no-dark\:borderg\:black-02:hover {
     background: var(--fix-black-02);
 }
 
-.art\:hover\:no-dark\:borderg\:borderlack-03:hover {
+.art\:hover\:no-dark\:borderg\:black-03:hover {
     background: var(--fix-black-03);
 }
 
-.art\:hover\:no-dark\:borderg\:borderlack-04:hover {
+.art\:hover\:no-dark\:borderg\:black-04:hover {
     background: var(--fix-black-04);
 }
 
@@ -3440,19 +3440,19 @@ button:hover {
 
 /* ------------------------------------- hover font colors no dark mode: ------------------------------------- */
 
-.art\:hover\:no-dark\:font\:borderlack-01:hover {
+.art\:hover\:no-dark\:font\:black-01:hover {
     color: var(--fix-black-01);
 }
 
-.art\:hover\:no-dark\:font\:borderlack-02:hover {
+.art\:hover\:no-dark\:font\:black-02:hover {
     color: var(--fix-black-02);
 }
 
-.art\:hover\:no-dark\:font\:borderlack-03:hover {
+.art\:hover\:no-dark\:font\:black-03:hover {
     color: var(--fix-black-03);
 }
 
-.art\:hover\:no-dark\:font\:borderlack-04:hover {
+.art\:hover\:no-dark\:font\:black-04:hover {
     color: var(--fix-black-04);
 }
 
@@ -3488,8 +3488,8 @@ button:hover {
     padding: var(--sm);
 }
 
-.art\:p\:borderase {
-    /* art:p:borderase */
+.art\:p\:base {
+    /* art:p:base */
     padding: var(--base);
 }
 
@@ -3528,8 +3528,8 @@ button:hover {
     padding-top: var(--sm);
 }
 
-.art\:p-t\:borderase {
-    /* art:p-t:borderase */
+.art\:p-t\:base {
+    /* art:p-t:base */
     padding-top: var(--base);
 }
 
@@ -3568,8 +3568,8 @@ button:hover {
     padding-right: var(--sm);
 }
 
-.art\:p-r\:borderase {
-    /* art:p-r:borderase */
+.art\:p-r\:base {
+    /* art:p-r:base */
     padding-right: var(--base);
 }
 
@@ -3608,8 +3608,8 @@ button:hover {
     padding-bottom: var(--sm);
 }
 
-.art\:p-b\:borderase {
-    /* art:p-b:borderase */
+.art\:p-b\:base {
+    /* art:p-b:base */
     padding-bottom: var(--base);
 }
 
@@ -3648,8 +3648,8 @@ button:hover {
     padding-left: var(--sm);
 }
 
-.art\:p-l\:borderase {
-    /* art:p-l:borderase */
+.art\:p-l\:base {
+    /* art:p-l:base */
     padding-left: var(--base);
 }
 

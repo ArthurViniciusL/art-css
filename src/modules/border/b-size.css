@@ -10,8 +10,8 @@
     border-width: var(--sm);
 }
 
-.art\:border\:borderase {
-    /* art:border:borderase */
+.art\:border\:base {
+    /* art:border:base */
     border-width: var(--base);
 }
 

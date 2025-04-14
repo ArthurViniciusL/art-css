@@ -1,48 +1,48 @@
 /* ------------------------------------- fonts color hovers: ------------------------------------- */
 
 /* Black */
-.art\:hover\:font\:borderlack-01:hover {
-    /* .art:hover:font:borderlack-01 */
+.art\:hover\:font\:black-01:hover {
+    /* .art:hover:font:black-01 */
     color: var(--black-01);
 }
 
-.art\:hover\:font\:borderlack-02:hover {
-    /* .art:hover:font:borderlack-02 */
+.art\:hover\:font\:black-02:hover {
+    /* .art:hover:font:black-02 */
     color: var(--black-02);
 }
 
-.art\:hover\:font\:borderlack-03:hover {
-    /* .art:hover:font:borderlack-03 */
+.art\:hover\:font\:black-03:hover {
+    /* .art:hover:font:black-03 */
     color: var(--black-03);
 }
 
-.art\:hover\:font\:borderlack-04:hover {
-    /* .art:hover:font:borderlack-04 */
+.art\:hover\:font\:black-04:hover {
+    /* .art:hover:font:black-04 */
     color: var(--black-04);
 }
 
-.art\:hover\:font\:borderlack\:10\%:hover {
-    /* .art:hover:font:borderlack:10% */
+.art\:hover\:font\:black\:10\%:hover {
+    /* .art:hover:font:black:10% */
     color: rgb(var(--black-rgb), 0.1);
 }
 
-.art\:hover\:font\:borderlack\:20\%:hover {
-    /* .art:hover:font:borderlack:20% */
+.art\:hover\:font\:black\:20\%:hover {
+    /* .art:hover:font:black:20% */
     color: rgb(var(--black-rgb), 0.2);
 }
 
-.art\:hover\:font\:borderlack\:30\%:hover {
-    /* .art:hover:font:borderlack:30% */
+.art\:hover\:font\:black\:30\%:hover {
+    /* .art:hover:font:black:30% */
     color: rgb(var(--black-rgb), 0.3);
 }
 
-.art\:hover\:font\:borderlack\:40\%:hover {
-    /* .art:hover:font:borderlack:40% */
+.art\:hover\:font\:black\:40\%:hover {
+    /* .art:hover:font:black:40% */
     color: rgb(var(--black-rgb), 0.4);
 }
 
-.art\:hover\:font\:borderlack\:50\%:hover {
-    /* .art:hover:font:borderlack:50% */
+.art\:hover\:font\:black\:50\%:hover {
+    /* .art:hover:font:black:50% */
     color: rgb(var(--black-rgb), 0.5);
 }
 

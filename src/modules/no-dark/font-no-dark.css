@@ -1,22 +1,22 @@
 /* ------------------------------------- font colors no dark mode: ------------------------------------- */
 
-.art\:no-dark\:font\:borderlack-01 {
-    /* art:no-dark:font:borderlack-01 */
+.art\:no-dark\:font\:black-01 {
+    /* art:no-dark:font:black-01 */
     color: var(--fix-black-01);
 }
 
-.art\:no-dark\:font\:borderlack-02 {
-    /* art:no-dark:font:borderlack-02 */
+.art\:no-dark\:font\:black-02 {
+    /* art:no-dark:font:black-02 */
     color: var(--fix-black-02);
 }
 
-.art\:no-dark\:font\:borderlack-03 {
-    /* art:no-dark:font:borderlack-03 */
+.art\:no-dark\:font\:black-03 {
+    /* art:no-dark:font:black-03 */
     color: var(--fix-black-03);
 }
 
-.art\:no-dark\:font\:borderlack-04 {
-    /* art:no-dark:font:borderlack-04 */
+.art\:no-dark\:font\:black-04 {
+    /* art:no-dark:font:black-04 */
     color: var(--fix-black-04);
 }
 
@@ -40,23 +40,23 @@
     color: var(--fix-white-04);
 }
 
-.art\:hover\:no-dark\:font\:borderlack-01:hover {
-    /* art:hover:no-dark:font:borderlack-01 */
+.art\:hover\:no-dark\:font\:black-01:hover {
+    /* art:hover:no-dark:font:black-01 */
     color: var(--fix-black-01);
 }
 
-.art\:hover\:no-dark\:font\:borderlack-02:hover {
-    /* art:hover:no-dark:font:borderlack-02 */
+.art\:hover\:no-dark\:font\:black-02:hover {
+    /* art:hover:no-dark:font:black-02 */
     color: var(--fix-black-02);
 }
 
-.art\:hover\:no-dark\:font\:borderlack-03:hover {
-    /* art:hover:no-dark:font:borderlack-03 */
+.art\:hover\:no-dark\:font\:black-03:hover {
+    /* art:hover:no-dark:font:black-03 */
     color: var(--fix-black-03);
 }
 
-.art\:hover\:no-dark\:font\:borderlack-04:hover {
-    /* art:hover:no-dark:font:borderlack-04 */
+.art\:hover\:no-dark\:font\:black-04:hover {
+    /* art:hover:no-dark:font:black-04 */
     color: var(--fix-black-04);
 }
 

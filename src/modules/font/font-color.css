@@ -1,48 +1,48 @@
 /* ------------------------------------- font colors: ------------------------------------- */
 
 /* Black */
-.art\:font\:borderlack-01 {
-    /* art:font:borderlack-01 */
+.art\:font\:black-01 {
+    /* art:font:black-01 */
     color: var(--black-01);
 }
 
-.art\:font\:borderlack-02 {
-    /* art:font:borderlack-02 */
+.art\:font\:black-02 {
+    /* art:font:black-02 */
     color: var(--black-02);
 }
 
-.art\:font\:borderlack-03 {
-    /* art:font:borderlack-03 */
+.art\:font\:black-03 {
+    /* art:font:black-03 */
     color: var(--black-03);
 }
 
-.art\:font\:borderlack-04 {
-    /* art:font:borderlack-04 */
+.art\:font\:black-04 {
+    /* art:font:black-04 */
     color: var(--black-04);
 }
 
-.art\:font\:borderlack\:10\% {
-    /* art:font:borderlack:10% */
+.art\:font\:black\:10\% {
+    /* art:font:black:10% */
     color: rgb(var(--black-rgb), 0.1);
 }
 
-.art\:font\:borderlack\:20\% {
-    /* art:font:borderlack:20% */
+.art\:font\:black\:20\% {
+    /* art:font:black:20% */
     color: rgb(var(--black-rgb), 0.2);
 }
 
-.art\:font\:borderlack\:30\% {
-    /* art:font:borderlack:30% */
+.art\:font\:black\:30\% {
+    /* art:font:black:30% */
     color: rgb(var(--black-rgb), 0.3);
 }
 
-.art\:font\:borderlack\:40\% {
-    /* art:font:borderlack:40% */
+.art\:font\:black\:40\% {
+    /* art:font:black:40% */
     color: rgb(var(--black-rgb), 0.4);
 }
 
-.art\:font\:borderlack\:50\% {
-    /* art:font:borderlack:50% */
+.art\:font\:black\:50\% {
+    /* art:font:black:50% */
     color: rgb(var(--black-rgb), 0.5);
 }
 

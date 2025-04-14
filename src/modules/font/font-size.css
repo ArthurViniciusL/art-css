@@ -10,8 +10,8 @@
     font-size: var(--sm);
 }
 
-.art\:font\:borderase {
-    /* art:font:borderase */
+.art\:font\:base {
+    /* art:font:base */
     font-size: var(--base);
 }
 

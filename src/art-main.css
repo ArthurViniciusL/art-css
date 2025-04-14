@@ -87,6 +87,12 @@
     --_4xl: 3.5rem;
     --_5xl: 4rem;
 
+
+    --instant: 0.1s;
+    --quick: 0.25s;
+    --smooth: 0.4s;
+    --relaxed: 0.6s;
+    --slow:1s;
 }
 
 @media (prefers-color-scheme: dark) {

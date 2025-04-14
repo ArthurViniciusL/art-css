@@ -8,7 +8,7 @@
     gap: var(--sm);
 }
 
-.art\:gap\:borderase {
+.art\:gap\:base {
     gap: var(--base);
 }
 
