@@ -184,39 +184,39 @@
     border-color: rgba(var(--red-rgb), 0.5);
 }
 
-.art\:hover\:border\:borderlue-01:hover {
+.art\:hover\:border\:blue-01:hover {
     border-color: var(--blue-01);
 }
 
-.art\:hover\:border\:borderlue-02:hover {
+.art\:hover\:border\:blue-02:hover {
     border-color: var(--blue-02);
 }
 
-.art\:hover\:border\:borderlue-03:hover {
+.art\:hover\:border\:blue-03:hover {
     border-color: var(--blue-03);
 }
 
-.art\:hover\:border\:borderlue-04:hover {
+.art\:hover\:border\:blue-04:hover {
     border-color: var(--blue-04);
 }
 
-.art\:hover\:border\:borderlue-01\:10\%:hover {
+.art\:hover\:border\:blue-01\:10\%:hover {
     border-color: rgba(var(--blue-rgb), 0.1);
 }
 
-.art\:hover\:border\:borderlue-01\:20\%:hover {
+.art\:hover\:border\:blue-01\:20\%:hover {
     border-color: rgba(var(--blue-rgb), 0.2);
 }
 
-.art\:hover\:border\:borderlue-01\:30\%:hover {
+.art\:hover\:border\:blue-01\:30\%:hover {
     border-color: rgba(var(--blue-rgb), 0.3);
 }
 
-.art\:hover\:border\:borderlue-01\:40\%:hover {
+.art\:hover\:border\:blue-01\:40\%:hover {
     border-color: rgba(var(--blue-rgb), 0.4);
 }
 
-.art\:hover\:border\:borderlue-01\:50\%:hover {
+.art\:hover\:border\:blue-01\:50\%:hover {
     border-color: rgba(var(--blue-rgb), 0.5);
 }
 

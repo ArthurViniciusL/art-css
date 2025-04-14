@@ -231,48 +231,48 @@
     background: rgb(var(--red-rgb), 0.5);
 }
 
-.art\:hover\:bg\:borderlue-01:hover {
-    /* art:hover:bg:borderlue-01 */
+.art\:hover\:bg\:blue-01:hover {
+    /* art:hover:bg:blue-01 */
     background: var(--blue-01);
 }
 
-.art\:hover\:bg\:borderlue-02:hover {
-    /* art:hover:bg:borderlue-02 */
+.art\:hover\:bg\:blue-02:hover {
+    /* art:hover:bg:blue-02 */
     background: var(--blue-02);
 }
 
-.art\:hover\:bg\:borderlue-03:hover {
-    /* art:hover:bg:borderlue-03 */
+.art\:hover\:bg\:blue-03:hover {
+    /* art:hover:bg:blue-03 */
     background: var(--blue-03);
 }
 
-.art\:hover\:bg\:borderlue-04:hover {
-    /* art:hover:bg:borderlue-04 */
+.art\:hover\:bg\:blue-04:hover {
+    /* art:hover:bg:blue-04 */
     background: var(--blue-04);
 }
 
-.art\:hover\:bg\:borderlue\:10\%:hover {
-    /* art:hover:bg:borderlue:10% */
+.art\:hover\:bg\:blue\:10\%:hover {
+    /* art:hover:bg:blue:10% */
     background: rgb(var(--blue-rgb), 0.1);
 }
 
-.art\:hover\:bg\:borderlue\:20\%:hover {
-    /* art:hover:bg:borderlue:20% */
+.art\:hover\:bg\:blue\:20\%:hover {
+    /* art:hover:bg:blue:20% */
     background: rgb(var(--blue-rgb), 0.2);
 }
 
-.art\:hover\:bg\:borderlue\:30\%:hover {
-    /* art:hover:bg:borderlue:30% */
+.art\:hover\:bg\:blue\:30\%:hover {
+    /* art:hover:bg:blue:30% */
     background: rgb(var(--blue-rgb), 0.3);
 }
 
-.art\:hover\:bg\:borderlue\:40\%:hover {
-    /* art:hover:bg:borderlue:40% */
+.art\:hover\:bg\:blue\:40\%:hover {
+    /* art:hover:bg:blue:40% */
     background: rgb(var(--blue-rgb), 0.4);
 }
 
-.art\:hover\:bg\:borderlue\:50\%:hover {
-    /* art:hover:bg:borderlue:50% */
+.art\:hover\:bg\:blue\:50\%:hover {
+    /* art:hover:bg:blue:50% */
     background: rgb(var(--blue-rgb), 0.5);
 }
 

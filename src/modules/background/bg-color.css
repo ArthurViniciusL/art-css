@@ -236,48 +236,48 @@
 }
 
 /* Blue */
-.art\:bg\:borderlue-01 {
-    /* art:bg:borderlue-01 */
+.art\:bg\:blue-01 {
+    /* art:bg:blue-01 */
     background: var(--blue-01);
 }
 
-.art\:bg\:borderlue-02 {
-    /* art:bg:borderlue-02 */
+.art\:bg\:blue-02 {
+    /* art:bg:blue-02 */
     background: var(--blue-02);
 }
 
-.art\:bg\:borderlue-03 {
-    /* art:bg:borderlue-03 */
+.art\:bg\:blue-03 {
+    /* art:bg:blue-03 */
     background: var(--blue-03);
 }
 
-.art\:bg\:borderlue-04 {
-    /* art:bg:borderlue-04 */
+.art\:bg\:blue-04 {
+    /* art:bg:blue-04 */
     background: var(--blue-04);
 }
 
-.art\:bg\:borderlue\:10\% {
-    /* art:bg:borderlue:10% */
+.art\:bg\:blue\:10\% {
+    /* art:bg:blue:10% */
     background: rgb(var(--blue-rgb), 0.1);
 }
 
-.art\:bg\:borderlue\:20\% {
-    /* art:bg:borderlue:20% */
+.art\:bg\:blue\:20\% {
+    /* art:bg:blue:20% */
     background: rgb(var(--blue-rgb), 0.2);
 }
 
-.art\:bg\:borderlue\:30\% {
-    /* art:bg:borderlue:30% */
+.art\:bg\:blue\:30\% {
+    /* art:bg:blue:30% */
     background: rgb(var(--blue-rgb), 0.3);
 }
 
-.art\:bg\:borderlue\:40\% {
-    /* art:bg:borderlue:40% */
+.art\:bg\:blue\:40\% {
+    /* art:bg:blue:40% */
     background: rgb(var(--blue-rgb), 0.4);
 }
 
-.art\:bg\:borderlue\:50\% {
-    /* art:bg:borderlue:50% */
+.art\:bg\:blue\:50\% {
+    /* art:bg:blue:50% */
     background: rgb(var(--blue-rgb), 0.5);
 }
 
