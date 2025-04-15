@@ -1874,8 +1874,8 @@ a:hover {
     align-content: stretch;
 }
 
-.art\:align-content\:borderetween {
-    /* art:align-content:borderetween */
+.art\:align-content\:between {
+    /* art:align-content:blue */
     align-content: space-between;
 }
 
@@ -2059,8 +2059,8 @@ a:hover {
     justify-content: right;
 }
 
-.art\:justify-content\:borderetween {
-    /* art:justify-content:borderetween */
+.art\:justify-content\:between {
+    /* art:justify-content:blue */
     justify-content: space-between;
 }
 

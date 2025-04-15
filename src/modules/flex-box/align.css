@@ -20,8 +20,8 @@
     align-content: stretch;
 }
 
-.art\:align-content\:borderetween {
-    /* art:align-content:borderetween */
+.art\:align-content\:between {
+    /* art:align-content:blue */
     align-content: space-between;
 }
 
