@@ -15,7 +15,12 @@
     display: none;
 }
 
-.art\:borderlock {
-    /* art\:borderlock */
+.art\:block {
+    /* art\:block */
     display: block;
+}
+
+.art\:inline-block {
+    /* art\:inline-block */
+    display: inline-block;
 }
