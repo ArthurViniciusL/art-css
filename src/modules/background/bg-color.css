@@ -51,6 +51,26 @@
     background: rgb(var(--black-rgb), 0.5);
 }
 
+.art\:bg\:black\:60\% {
+    /* art:bg:black:60% */
+    background: rgba(var(--black-rgb), 0.6);
+}
+
+.art\:bg\:black\:70\% {
+    /* art:bg:black:70% */
+    background: rgba(var(--black-rgb), 0.7);
+}
+
+.art\:bg\:black\:80\% {
+    /* art:bg:black:80% */
+    background: rgba(var(--black-rgb), 0.8);
+}
+
+.art\:bg\:black\:90\% {
+    /* art:bg:black:90% */
+    background: rgba(var(--black-rgb), 0.9);
+}
+
 /* White */
 .art\:bg\:white-01 {
     /* art:bg:white-01 */
@@ -95,6 +115,26 @@
 .art\:bg\:white\:50\% {
     /* art:bg:white:50% */
     background: rgb(var(--white-rgb), 0.5);
+}
+
+.art\:bg\:white\:60\% {
+    /* art:bg:white:60% */
+    background: rgba(var(--white-rgb), 0.6);
+}
+
+.art\:bg\:white\:70\% {
+    /* art:bg:white:70% */
+    background: rgba(var(--white-rgb), 0.7);
+}
+
+.art\:bg\:white\:80\% {
+    /* art:bg:white:80% */
+    background: rgba(var(--white-rgb), 0.8);
+}
+
+.art\:bg\:white\:90\% {
+    /* art:bg:white:90% */
+    background: rgba(var(--white-rgb), 0.9);
 }
 
 /* Yellow */
@@ -143,6 +183,26 @@
     background: rgb(var(--yellow-rgb), 0.5);
 }
 
+.art\:bg\:yellow\:60\% {
+    /* art:bg:yellow:60% */
+    background: rgba(var(--yellow-rgb), 0.6);
+}
+
+.art\:bg\:yellow\:70\% {
+    /* art:bg:yellow:70% */
+    background: rgba(var(--yellow-rgb), 0.7);
+}
+
+.art\:bg\:yellow\:80\% {
+    /* art:bg:yellow:80% */
+    background: rgba(var(--yellow-rgb), 0.8);
+}
+
+.art\:bg\:yellow\:90\% {
+    /* art:bg:yellow:90% */
+    background: rgba(var(--yellow-rgb), 0.9);
+}
+
 /* Orange */
 .art\:bg\:orange-01 {
     /* art:bg:orange-01 */
@@ -187,6 +247,26 @@
 .art\:bg\:orange\:50\% {
     /* art:bg:orange:50% */
     background: rgb(var(--orange-rgb), 0.5);
+}
+
+.art\:bg\:orange\:60\% {
+    /* art:bg:orange:60% */
+    background: rgba(var(--orange-rgb), 0.6);
+}
+
+.art\:bg\:orange\:70\% {
+    /* art:bg:orange:70% */
+    background: rgba(var(--orange-rgb), 0.7);
+}
+
+.art\:bg\:orange\:80\% {
+    /* art:bg:orange:80% */
+    background: rgba(var(--orange-rgb), 0.8);
+}
+
+.art\:bg\:orange\:90\% {
+    /* art:bg:orange:90% */
+    background: rgba(var(--orange-rgb), 0.9);
 }
 
 /* Red */
@@ -235,6 +315,26 @@
     background: rgb(var(--red-rgb), 0.5);
 }
 
+.art\:bg\:red\:60\% {
+    /* art:bg:red:60% */
+    background: rgba(var(--red-rgb), 0.6);
+}
+
+.art\:bg\:red\:70\% {
+    /* art:bg:red:70% */
+    background: rgba(var(--red-rgb), 0.7);
+}
+
+.art\:bg\:red\:80\% {
+    /* art:bg:red:80% */
+    background: rgba(var(--red-rgb), 0.8);
+}
+
+.art\:bg\:red\:90\% {
+    /* art:bg:red:90% */
+    background: rgba(var(--red-rgb), 0.9);
+}
+
 /* Blue */
 .art\:bg\:blue-01 {
     /* art:bg:blue-01 */
@@ -279,6 +379,26 @@
 .art\:bg\:blue\:50\% {
     /* art:bg:blue:50% */
     background: rgb(var(--blue-rgb), 0.5);
+}
+
+.art\:bg\:blue\:60\% {
+    /* art:bg:blue:60% */
+    background: rgba(var(--blue-rgb), 0.6);
+}
+
+.art\:bg\:blue\:70\% {
+    /* art:bg:blue:70% */
+    background: rgba(var(--blue-rgb), 0.7);
+}
+
+.art\:bg\:blue\:80\% {
+    /* art:bg:blue:80% */
+    background: rgba(var(--blue-rgb), 0.8);
+}
+
+.art\:bg\:blue\:90\% {
+    /* art:bg:blue:90% */
+    background: rgba(var(--blue-rgb), 0.9);
 }
 
 /* Green */
@@ -327,6 +447,26 @@
     background: rgb(var(--green-rgb), 0.5);
 }
 
+.art\:bg\:green\:60\% {
+    /* art:bg:green:60% */
+    background: rgba(var(--green-rgb), 0.6);
+}
+
+.art\:bg\:green\:70\% {
+    /* art:bg:green:70% */
+    background: rgba(var(--green-rgb), 0.7);
+}
+
+.art\:bg\:green\:80\% {
+    /* art:bg:green:80% */
+    background: rgba(var(--green-rgb), 0.8);
+}
+
+.art\:bg\:green\:90\% {
+    /* art:bg:green:90% */
+    background: rgba(var(--green-rgb), 0.9);
+}
+
 /* Purple */
 .art\:bg\:purple-01 {
     /* art:bg:purple-01 */
@@ -371,4 +511,24 @@
 .art\:bg\:purple\:50\% {
     /* art:bg:purple:50% */
     background: rgb(var(--purple-rgb), 0.5);
+}
+
+.art\:bg\:purple\:60\% {
+    /* art:bg:purple:60% */
+    background: rgba(var(--purple-rgb), 0.6);
+}
+
+.art\:bg\:purple\:70\% {
+    /* art:bg:purple:70% */
+    background: rgba(var(--purple-rgb), 0.7);
+}
+
+.art\:bg\:purple\:80\% {
+    /* art:bg:purple:80% */
+    background: rgba(var(--purple-rgb), 0.8);
+}
+
+.art\:bg\:purple\:90\% {
+    /* art:bg:purple:90% */
+    background: rgba(var(--purple-rgb), 0.9);
 }
