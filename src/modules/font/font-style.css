@@ -1,5 +1,19 @@
 /* ------------------------------------- font style: ------------------------------------- */
 
+.art\:font\:thin {
+    /* art:font:thin */
+    font-weight: 100;
+}
+
+.art\:font\:light {
+    /* art:font:thin */
+    font-weight: 200;
+}
+
+.art\:font\:normal {
+    font-weight: normal;
+}
+
 .art\:font\:medium {
     /* art:font:medium */
     font-weight: 500;
@@ -10,9 +24,19 @@
     font-weight: 600;
 }
 
-.art\:font\:borderold {
-    /* art:font:borderold */
+.art\:font\:bold {
+    /* art:font:bold */
     font-weight: 700;
+}
+
+.art\:font\:extrabold {
+    /* art:font:extra */
+    font-weight: 800;
+}
+
+.art\:font\:black {
+    /* art:font:extra */
+    font-weight: 900;
 }
 
 .art\:font\:capitalize {
