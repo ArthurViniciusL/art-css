@@ -9,3 +9,7 @@
     /* art:scrollbar:thin  */
     scrollbar-width: thin;
 }
+
+.art\:scrollbar\:white-01 {
+    scrollbar-color: var(--white-01) var(--white-01);
+  }
