@@ -19,3 +19,9 @@
     /* art:cursor:help */
     cursor: help;
 }
+
+
+.art\:pointer\:none {
+    /* art:pointer:none */
+    pointer-events: none;
+}
