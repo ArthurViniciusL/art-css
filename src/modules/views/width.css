@@ -15,12 +15,12 @@
   width: fit-content;
 }
 
-.art\:max-w\:30 {
-  /* art:max-w:30 */
-  max-width: 30rem;
+.art\:w\:max-content {
+  /* art:w:max-content */
+  width: max-content;
 }
 
-.art\:max-w\:80 {
-  /* art:max-w:80 */
-  max-width: 80rem;
+.art\w\:min-content {
+  /* art:w:min-content */
+  width: min-content;
 }

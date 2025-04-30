@@ -15,10 +15,12 @@
     height: fit-content;
 }
 
-.art\:h\:03 {
-    height: 3rem;
+.art\:h\:max-content {
+    /* art:w:max-content */
+    height: max-content;
 }
 
-.art\:min-h\:08 {
-    min-height: 8rem;
+.art\h\:min-content {
+    /* art:w:min-content */
+    height: min-content;
 }
