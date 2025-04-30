@@ -1,0 +1,11 @@
+/* ------------------------------------- scrollbar ------------------------------------- */
+
+.art\:scrollbar\:none {
+    /* art:scrollbar:none  */
+    scrollbar-width: none;
+}
+
+.art\:scrollbar\:thin {
+    /* art:scrollbar:thin  */
+    scrollbar-width: thin;
+}

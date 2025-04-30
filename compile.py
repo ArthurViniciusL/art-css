@@ -34,7 +34,9 @@ views = [
 
 elements_html = [
     'src/modules/elements-html/button/button.css',
-    'src/modules/elements-html/button/link.css'
+    'src/modules/elements-html/input.css',
+    'src/modules/elements-html/link.css',
+    'src/modules/elements-html/scroll-bar.css',
 ]
 
 flex_box = [
