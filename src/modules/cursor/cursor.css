@@ -9,3 +9,13 @@
     /* art:cursor:alias */
     cursor: alias;
 }
+
+.art\:cursor\:default {
+    /* art:cursor:default */
+    cursor: default;
+}
+
+.art\:cursor\:help {
+    /* art:cursor:help */
+    cursor: help;
+}
