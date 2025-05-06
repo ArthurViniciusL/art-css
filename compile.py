@@ -4,8 +4,7 @@ import os
     # os.mkdir('bin');
 
 background = [
-    'src/modules/background/bg-color.css',
-    'src/modules/background/bg-hover.css'
+    'src/modules/background/bg.css',
 ]
 
 border = [

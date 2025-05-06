@@ -1,0 +1,54 @@
+@layer font-size {
+
+    :where([class*="art:font:"]),
+    [class*="art:font:"] {
+        --font-size: transparent;
+        font-size: var(--font-size);
+    }
+
+    .art\:font\:thin {
+        /* art:font:thin */
+        font-size: var(--thin);
+    }
+
+    .art\:font\:sm {
+        /* art:font:sm */
+        font-size: var(--sm);
+    }
+
+    .art\:font\:base {
+        /* art:font:base */
+        font-size: var(--base);
+    }
+
+    .art\:font\:lg {
+        /* art:font:lg */
+        font-size: var(--lg);
+    }
+
+    .art\:font\:xl {
+        /* art:font:xl */
+        font-size: var(--xl);
+    }
+
+    /* art:font:2xl */
+    .art\:font\:2xl {
+        font-size: var(--_2xl);
+    }
+
+    /* art:font:3xl */
+    .art\:font\:3xl {
+        font-size: var(--_3xl);
+    }
+
+    /* art:font:4xl */
+    .art\:font\:4xl {
+        font-size: var(--_4xl);
+    }
+
+    /* art:font:5xl */
+    .art\:font\:5xl {
+        font-size: var(--_5xl);
+    }
+
+}
