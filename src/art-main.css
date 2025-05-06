@@ -76,7 +76,7 @@
     --purple-04: #DDA6FF;
 
     --purple-rgb: 170, 33, 255;
-    
+
     --thin: 0.1rem;
     --sm: 0.5rem;
     --base: 1rem;
@@ -87,12 +87,13 @@
     --_4xl: 3.5rem;
     --_5xl: 4rem;
 
-
     --instant: 0.1s;
     --quick: 0.25s;
     --smooth: 0.4s;
     --relaxed: 0.6s;
-    --slow:1s;
+    --slow: 1s;
+
+    --bg-color: transparent;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -111,4 +112,9 @@
 
         --black-rgb: 255, 255, 255;
     }
+}
+
+:where([class*="art:bg:"],[class*="art:hover:bg:"]) {
+    /* --bg-color: transparent; */
+    background: var(--bg-color);
 }

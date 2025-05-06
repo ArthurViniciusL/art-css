@@ -24,11 +24,14 @@
 @import url('flex-box/gap.css');
 @import url('flex-box/justify.css');
 
-@import url('font/font-color.css');
+/* @import url('font/font-color.css');
 @import url('font/font-decoration.css');
 @import url('font/font-hover.css');
 @import url('font/font-size.css');
-@import url('font/font-style.css');
+@import url('font/font-style.css'); */
+
+@import url('typography/color.css');
+@import url('typography/font-size.css');
 
 @import url('margin/margin.css');
 
