@@ -1,0 +1,12 @@
+@layer font-decoration {
+
+    /* art:underline */
+    .art\:underline { --txt-decoration: underline; }
+}
+
+@layer font-decoration-hover {
+
+    /* art:hover:underline */
+    .art\:hover\:underline:hover { --txt-decoration: underline; }
+
+}

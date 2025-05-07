@@ -1,15 +1,5 @@
 @layer font-size {
 
-    :where([class*="art:font:"], [class*="art:hover:font:"]),
-    [class*="art:font:"],
-    [class*="art:hover:font:"] {
-        --font-size: var(--base);
-        --font-color: var(--black-01);
-
-        font-size: var(--font-size);
-        color: var(--font-color);
-    }
-
     /* art:font:thin */
     .art\:font\:thin {
         --font-size: var(--thin);

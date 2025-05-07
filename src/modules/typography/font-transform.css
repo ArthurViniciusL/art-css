@@ -1,0 +1,9 @@
+@layer font-transform {
+    /* art:font:capitalize  */
+    .art\:font\:capitalize { --txt-transform: capitalize; }
+}
+
+@layer font-transform-hover {
+    /* art:hover:font:capitalize  */
+    .art\:hover\:font\:capitalize { --txt-transform: capitalize; }
+}

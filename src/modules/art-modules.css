@@ -31,7 +31,10 @@
 @import url('font/font-style.css'); */
 
 @import url('typography/color.css');
+@import url('typography/font-decoration.css');
 @import url('typography/font-size.css');
+@import url('typography/font-transform.css');
+@import url('typography/font-weight.css');
 
 @import url('margin/margin.css');
 

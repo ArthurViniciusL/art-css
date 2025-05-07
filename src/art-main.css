@@ -94,6 +94,16 @@
     --slow: 1s;
 
     --bg-color: transparent;
+
+    --font-size: var(--base);
+    --font-color: var(--black-01);
+    --font-family: ;
+    --font-style: normal;
+    --font-weight: normal;
+    --line-height: normal;
+    --letter-spacing: normal;
+    --txt-transform: none;
+    --txt-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -114,7 +124,21 @@
     }
 }
 
-:where([class*="art:bg:"],[class*="art:hover:bg:"]) {
+:where([class*="art:bg:"], [class*="art:hover:bg:"]) {
     /* --bg-color: transparent; */
     background: var(--bg-color);
+}
+
+:where([class*="art:font:"], [class*="art:hover:font:"]),
+[class*="art:font:"],
+[class*="art:hover:font:"] {
+    font-size: var(--font-size);
+    color: var(--font-color);
+    font-family: var(--font-family);
+    font-weight: var(--font-weight);
+    font-style: var(--font-style);
+    line-height: var(--line-height);
+    letter-spacing: var(--letter-spacing);
+    text-transform: var(--txt-transform);
+    text-decoration: var(--txt-decoration);
 }
