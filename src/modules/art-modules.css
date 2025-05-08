@@ -1,7 +1,7 @@
 @import url('background/bg.css');
 
+@import url('border/border-color.css');
 @import url('border/b-size.css');
-@import url('border/b-color.css');
 @import url('border/b-hover.css');
 @import url('border/b-radius.css');
 @import url('border/b-style.css');

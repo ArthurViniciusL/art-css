@@ -1,8 +1,8 @@
-/* ------------------------------------- border style: ------------------------------------- */
+@layer  border-style {
 
 .art\:border\:solid {
     /* art:border:solid */
-    border-style: solid;
+    --border-style: solid;
 }
 
 .art\:border-t\:solid {
@@ -23,4 +23,5 @@
 .art\:border-r\:solid {
     /* art:border-r:solid */
     border-right-style: solid;
+}
 }

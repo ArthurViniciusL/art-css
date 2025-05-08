@@ -46,14 +46,6 @@ flex_box = [
     'src/modules/flex-box/justify.css'
 ]
 
-font = [
-    'src/modules/font/font-color.css',
-    'src/modules/font/font-decoration.css',
-    'src/modules/font/font-hover.css',
-    'src/modules/font/font-size.css',
-    'src/modules/font/font-style.css'
-]
-
 margin = [
     'src/modules/margin/margin.css'
 ]
@@ -84,8 +76,17 @@ transition = [
     'src/modules/transition/ease.css',
 ]
 
+typography = [
+    'src/modules/typography/color.css',
+    'src/modules/typography/font-decoration.css',
+    'src/modules/typography/font-size.css',
+    'src/modules/typography/font-transform.css',
+    'src/modules/typography/font-weight.css'
+]
 
-directories = ['src/art-main.css'] + background + border + cursor + direction + views + elements_html + flex_box + font + margin + no_dark + overflow + padding + position + transition
+modules = [background]
+
+directories = ['src/art-main.css'] + background + border + cursor + direction + views + elements_html + flex_box + typography + margin + no_dark + overflow + padding + position + transition
     
 file_content = [];
 
