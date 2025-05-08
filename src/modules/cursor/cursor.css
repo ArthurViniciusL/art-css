@@ -1,26 +1,18 @@
-/* ------------------------------------- cursor: ------------------------------------- */
+@layer cursor {
 
-.art\:cursor\:pointer {
     /* art:cursor:pointer */
-    cursor: pointer;
-}
+    .art\:cursor\:pointer { cursor: pointer; }
 
-.art\:cursor\:alias {
     /* art:cursor:alias */
-    cursor: alias;
-}
+    .art\:cursor\:alias { cursor: alias; }
 
-.art\:cursor\:default {
     /* art:cursor:default */
-    cursor: default;
-}
+    .art\:cursor\:default { cursor: default; }
 
-.art\:cursor\:help {
     /* art:cursor:help */
-    cursor: help;
-}
+    .art\:cursor\:help { cursor: help; }
 
-.art\:pointer\:none {
     /* art:pointer:none */
-    pointer-events: none;
+    .art\:pointer\:none { pointer-events: none; }
+
 }
