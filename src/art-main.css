@@ -106,14 +106,12 @@
     --txt-decoration: none;
 
     --border-width: none;
-    --border-style: none;
+    --border-top-style:none;
+    --border-left-style:none;
+    --border-right-style:none;
+    --border-bottom-style:none;
     --border-color: black;
     --border-radius: 0;
-    /*--border-image-source: none;*/
-    /*--border-image-slice: 100%;*/
-    /*--border-image-width: 1;*/
-    /*--border-image-outset: 0;*/
-    /*--border-image-repeat: stretch;*/
     --border-collapse-default: separate;
     --border-spacing-default: 0;
 }
@@ -156,8 +154,15 @@
 }
 
 :where([class*="art:border"], [class*="art:hover:border"]),[class*="art:border"], [class*="art:hover:border"] {
+
     border-width: var(--border-width);
+
     border-style: var(--border-style);
+    border-top-style: var(--border-top-style);
+    border-left-style: var(--border-left-style);
+    border-right-style: var(--border-right-style);
+    border-bottom-style: var(--border-bottom-style);
+
     border-color: var(--border-color);
 
     /*border: solid red 1px;*/

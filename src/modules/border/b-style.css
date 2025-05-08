@@ -1,27 +1,86 @@
 @layer  border-style {
 
-.art\:border\:solid {
     /* art:border:solid */
-    --border-style: solid;
-}
+    .art\:border\:solid {
+        --border-top-style: solid;
+        --border-bottom-style: solid;
+        --border-left-style: solid;
+        --border-right-style: solid;
+    }
 
-.art\:border-t\:solid {
     /* art:border-t:solid */
-    border-top-style: solid;
-}
+    .art\:border-t\:solid {
+        --border-top-style: solid;
+    }
 
-.art\:border-b\:solid {
     /* art:border-b:solid */
-    border-bottom-style: solid;
-}
+    .art\:border-b\:solid {
+        --border-bottom-style: solid;
+    }
 
-.art\:border-l\:solid {
     /* art:border-l:solid */
-    border-left-style: solid;
+    .art\:border-l\:solid {
+        --border-left-style: solid;
+    }
+
+    /* art:border-r:solid */
+    .art\:border-r\:solid {
+        --border-right-style: solid;
+    }
+
+    /* art:border-x:solid */
+    .art\:border-x\:solid {
+        --border-right-style: solid;
+        --border-left-style: solid;
+    }
+
+    /* art:border-y:solid */
+    .art\:border-y\:solid {
+        --border-top-style: solid;
+        --border-bottom-style: solid;
+    }
 }
 
-.art\:border-r\:solid {
-    /* art:border-r:solid */
-    border-right-style: solid;
-}
+@layer  border-style-hover {
+
+    /* .art:hover:border:solid */
+    .art\:hover\:border\:solid:hover {
+        --border-top-style: solid;
+        --border-bottom-style: solid;
+        --border-left-style: solid;
+        --border-right-style: solid;
+    }
+
+    /* .art:hover:border-t:solid */
+    .art\:hover\:border-t\:solid:hover {
+        --border-top-style: solid;
+    }
+
+    /* .art:hover:border-b:solid */
+    .art\:hover\:border-b\:solid:hover {
+        --border-bottom-style: solid;
+    }
+
+    /* .art:hover:border-l:solid */
+    .art\:hover\:border-l\:solid:hover {
+        --border-left-style: solid;
+    }
+
+    /* .art:hover:border-r:solid */
+    .art\:hover\:border-r\:solid:hover {
+        --border-right-style: solid;
+    }
+
+    /* .art:hover:border-x:solid */
+    .art\:hover\:border-x\:solid:hover {
+        --border-right-style: solid;
+        --border-left-style: solid;
+    }
+
+    /* .art:hover:border-y:solid */
+    .art\:hover\:border-y\:solid:hover {
+        --border-top-style: solid;
+        --border-bottom-style: solid;
+    }
+
 }
