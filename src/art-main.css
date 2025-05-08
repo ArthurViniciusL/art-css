@@ -97,7 +97,7 @@
 
     --font-size: var(--base);
     --font-color: var(--black-01);
-    --font-family: Open Sans, sans-serif;
+    /*--font-family: Open Sans, sans-serif;*/
     --font-style: normal;
     --font-weight: normal;
     --line-height: normal;
@@ -144,7 +144,7 @@
 [class*="art:hover:font:"] {
     font-size: var(--font-size);
     color: var(--font-color);
-    font-family: var(--font-family);
+    /*font-family: var(--font-family);*/
     font-weight: var(--font-weight);
     font-style: var(--font-style);
     line-height: var(--line-height);
