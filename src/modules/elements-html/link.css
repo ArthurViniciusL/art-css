@@ -1,11 +1,12 @@
-/* ------------------------------------- link ------------------------------------- */
+@layer link {
 
-a {
-    cursor: pointer;
-    color: var(--black-01);
-    text-decoration: none;
-}
+    a {
+        cursor: pointer;
+        color: var(--black-01);
+        text-decoration: none;
 
-a:hover {
-    text-decoration: underline;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
 }
