@@ -1,14 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-    font-family: 'Open Sans', sans-serif;
-}
-
 :root {
 
     --black-01: #000000;
@@ -93,6 +84,8 @@
     --relaxed: 0.6s;
     --slow: 1s;
 
+    --scrollbar-width: none;
+
     --bg-color: transparent;
 
     --font-size: var(--base);
@@ -133,6 +126,17 @@
         --black-rgb: 255, 255, 255;
     }
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    /*scrollbar-width: thin;*/
+    scroll-behavior: smooth;
+    font-family: 'Open Sans', sans-serif;
+}
+
 
 :where([class*="art:bg:"], [class*="art:hover:bg:"]) {
     /* --bg-color: transparent; */

@@ -1,6 +1,7 @@
-/* ------------------------------------- input ------------------------------------- */
+@layer input {
 
-input {
-    border: none;
-    outline: none;
+    input {
+        border: none;
+        outline: none;
+    }
 }
