@@ -203,6 +203,9 @@
     transition-property: var(--transition-property);
 }
 
-/*:where([class*="art:transition"], [class*="art:hover:transition"]), [class*="art:transition"], [class*="art:hover:transition"] {*/
-/*    transition: var(--transition-property) var(--transition-duration) var(--transition-timing-function);*/
-/*}*/
+/*
+:where([class*="art:transition"], [class*="art:hover:transition"]), [class*="art:transition"], [class*="art:hover:transition"] {
+    transition: var(--transition-property) var(--transition-duration) var(--transition-timing-function);
+}
+*/
+

@@ -1,16 +1,11 @@
-/* ------------------------------------- overflow ------------------------------------- */
+@layer overflow {
 
-.art\:overflow\:hidden {
     /* art:overflow:hidden */
-    overflow: hidden;
-}
+    .art\:overflow\:hidden { overflow: hidden; }
 
-.art\:overflow\:scroll {
     /* art:overflow:scroll */
-    overflow: scroll;
-}
+    .art\:overflow\:scroll { overflow: scroll; }
 
-.art\:overflow\:auto {
     /* art:overflow:auto */
-    overflow: auto;
+    .art\:overflow\:auto { overflow: auto; }
 }
