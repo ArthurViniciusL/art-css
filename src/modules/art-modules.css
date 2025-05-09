@@ -35,7 +35,7 @@
 @import url('typography/font-transform.css');
 @import url('typography/font-weight.css');
 
-@import url('margin/margin.css');
+@import url('spacing/margin.css');
 
 @import url('no-dark/bg-no-dark.css');
 @import url('no-dark/font-no-dark.css');
@@ -43,7 +43,7 @@
 
 @import url('overflow/overflow.css');
 
-@import url('padding/padding.css');
+@import url('spacing/padding.css');
 
 @import url('position/position.css');
 

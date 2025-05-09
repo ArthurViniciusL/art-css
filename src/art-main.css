@@ -168,9 +168,7 @@
     border-spacing: var(--border-spacing-default);
 }
 
-:where([class*="art:font:"], [class*="art:hover:font:"]),
-[class*="art:font:"],
-[class*="art:hover:font:"] {
+:where([class*="art:font:"], [class*="art:hover:font:"]), [class*="art:font:"], [class*="art:hover:font:"] {
     font-size: var(--font-size);
     color: var(--font-color);
     /*font-family: var(--font-family);*/
@@ -182,18 +180,14 @@
     text-decoration: var(--txt-decoration);
 }
 
-:where([class*="art:p:"], [class*="art:hover:p:"]),
-[class*="art:p:"],
-[class*="art:hover:p:"] {
+:where([class*="art:p"], [class*="art:hover:p"]), [class*="art:p"], [class*="art:hover:p"] {
     padding-top: var(--padding-top);
     padding-right: var(--padding-right);
     padding-left: var(--padding-left);
     padding-bottom: var(--padding-bottom);
 }
 
-:where([class*="art:m:"], [class*="art:hover:m:"]),
-[class*="art:m:"],
-[class*="art:hover:m:"] {
+:where([class*="art:m"], [class*="art:hover:m"]), [class*="art:m"], [class*="art:hover:m"] {
     margin-top: var(--margin-top);
     margin-right: var(--margin-right);
     margin-left: var(--margin-left);
