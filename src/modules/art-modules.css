@@ -47,10 +47,10 @@
 
 @import url('position/position.css');
 
-@import url('transition/ease-in-out.css');
-@import url('transition/ease-in.css');
-@import url('transition/ease-out.css');
-@import url('transition/ease.css');
+@import url('transition/ease/ease.css');
+@import url('transition/ease/ease-in-out.css');
+@import url('transition/ease/ease-in.css');
+@import url('transition/ease/ease-out.css');
 
 @import url('views/height.css');
 @import url('views/width.css');
