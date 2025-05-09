@@ -112,6 +112,12 @@
     --padding-right: 0;
     --padding-left: 0;
     --padding-bottom: 0;
+
+    --margin-top: 0;
+    --margin-right: 0;
+    --margin-left: 0;
+    --margin-bottom: 0;
+
 }
 
 @media (prefers-color-scheme: dark) {
@@ -183,4 +189,13 @@
     padding-right: var(--padding-right);
     padding-left: var(--padding-left);
     padding-bottom: var(--padding-bottom);
+}
+
+:where([class*="art:m:"], [class*="art:hover:m:"]),
+[class*="art:m:"],
+[class*="art:hover:m:"] {
+    margin-top: var(--margin-top);
+    margin-right: var(--margin-right);
+    margin-left: var(--margin-left);
+    margin-bottom: var(--margin-bottom);
 }
