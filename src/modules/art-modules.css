@@ -45,12 +45,12 @@
 
 @import url('spacing/padding.css');
 
-@import url('position/position.css');
+@import url('layout/position.css');
 
 @import url('transition/ease/ease.css');
 @import url('transition/ease/ease-in-out.css');
 @import url('transition/ease/ease-in.css');
 @import url('transition/ease/ease-out.css');
 
-@import url('views/height.css');
-@import url('views/width.css');
+@import url('sizes/height.css');
+@import url('sizes/width.css');

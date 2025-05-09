@@ -1,0 +1,83 @@
+@layer height {
+
+    /* art:h:device */
+    .art\:h\:device {
+        height: 100dvh;
+    }
+
+    /* art:h:full */
+    .art\:h\:full {
+        height: 100%;
+    }
+
+    /* art:h:fit */
+    .art\:h\:fit {
+        height: fit-content;
+    }
+
+    /* art:h:max-content */
+    .art\:h\:max-content {
+        height: max-content;
+    }
+
+    /* art:h:min-content */
+    .art\h\:min-content {
+        height: min-content;
+    }
+}
+
+@layer min-height {
+
+    /* art:min-h:device */
+    .art\:min-h\:device {
+        min-height: 100dvh;
+    }
+
+    /* art:min-h:full */
+    .art\:min-h\:full {
+        min-height: 100%;
+    }
+
+    /* art:min-h:fit */
+    .art\:min-h\:fit {
+        min-height: fit-content;
+    }
+
+    /* art:min-h:max-content */
+    .art\:min-h\:max-content {
+        min-height: max-content;
+    }
+
+    /* art:min-h:min-content */
+    .art\:min-h\:min-content {
+        min-height: min-content;
+    }
+}
+
+@layer max-height {
+
+    /* art:max-h:device */
+    .art\:max-h\:device {
+        max-height: 100dvh;
+    }
+
+    /* art:max-h:full */
+    .art\:max-h\:full {
+        max-height: 100%;
+    }
+
+    /* art:max-h:fit */
+    .art\:max-h\:fit {
+        max-height: fit-content;
+    }
+
+    /* art:max-h:max-content */
+    .art\:max-h\:max-content {
+        max-height: max-content;
+    }
+
+    /* art:max-h:min-content */
+    .art\:max-h\:min-content {
+        max-height: min-content;
+    }
+}
