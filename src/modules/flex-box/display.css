@@ -1,26 +1,26 @@
-/* ------------------------------------- display ------------------------------------- */
-
-.art\:flex {
+@layer dispaly {
     /* art\:flex */
-    display: flex;
-}
+    .art\:flex {
+        display: flex;
+    }
 
-.art\:grid {
     /* art\:grid */
-    display: grid;
-}
+    .art\:grid {
+        display: grid;
+    }
 
-.art\:none {
     /* art\:none */
-    display: none;
-}
+    .art\:none {
+        display: none;
+    }
 
-.art\:block {
     /* art\:block */
-    display: block;
-}
+    .art\:block {
+        display: block;
+    }
 
-.art\:inline-block {
     /* art\:inline-block */
-    display: inline-block;
+    .art\:inline-block {
+        display: inline-block;
+    }
 }
