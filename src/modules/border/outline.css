@@ -1,0 +1,6 @@
+@layer outline-style {
+    /* art:outline */
+    .art\:outline\:none {
+        outline: none;
+    }
+}
