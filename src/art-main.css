@@ -88,6 +88,16 @@
 
     --bg-color: transparent;
 
+    --border-width: none;
+    --border-top-style:none;
+    --border-left-style:none;
+    --border-right-style:none;
+    --border-bottom-style:none;
+    --border-color: black;
+    --border-radius: 0;
+    --border-collapse-default: separate;
+    --border-spacing-default: 0;
+
     --font-size: var(--base);
     --font-color: var(--black-01);
     /*--font-family: Open Sans, sans-serif;*/
@@ -98,15 +108,10 @@
     --txt-transform: none;
     --txt-decoration: none;
 
-    --border-width: none;
-    --border-top-style:none;
-    --border-left-style:none;
-    --border-right-style:none;
-    --border-bottom-style:none;
-    --border-color: black;
-    --border-radius: 0;
-    --border-collapse-default: separate;
-    --border-spacing-default: 0;
+    --padding-top: 0;
+    --padding-right: 0;
+    --padding-left: 0;
+    --padding-bottom: 0;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -143,6 +148,20 @@
     background: var(--bg-color);
 }
 
+:where([class*="art:border"], [class*="art:hover:border"]),[class*="art:border"], [class*="art:hover:border"] {
+
+    border-width: var(--border-width);
+
+    border-top-style: var(--border-top-style);
+    border-left-style: var(--border-left-style);
+    border-right-style: var(--border-right-style);
+    border-bottom-style: var(--border-bottom-style);
+    border-color: var(--border-color);
+
+    border-collapse: var(--border-collapse-default);
+    border-spacing: var(--border-spacing-default);
+}
+
 :where([class*="art:font:"], [class*="art:hover:font:"]),
 [class*="art:font:"],
 [class*="art:hover:font:"] {
@@ -157,62 +176,11 @@
     text-decoration: var(--txt-decoration);
 }
 
-:where([class*="art:border"], [class*="art:hover:border"]),[class*="art:border"], [class*="art:hover:border"] {
-
-    border-width: var(--border-width);
-
-    border-top-style: var(--border-top-style);
-    border-left-style: var(--border-left-style);
-    border-right-style: var(--border-right-style);
-    border-bottom-style: var(--border-bottom-style);
-
-    border-color: var(--border-color);
-
-    /*border: solid red 1px;*/
-
-    /* Shorthand */
-    /*border-top: var(--border-width) var(--border-style) var(--border-color);*/
-    /*border-right: var(--border-width) var(--border-style) var(--border-color);*/
-    /*border-bottom: var(--border-width) var(--border-style) var(--border-color);*/
-    /*border-left: var(--border-width) var(--border-style) var(--border-color);*/
-
-    /* Estilo da borda */
-    /*border-style: var(--border-style);*/
-    /*border-top-style: var(--border-style);*/
-    /*border-right-style: var(--border-style);*/
-    /*border-bottom-style: var(--border-style);*/
-    /*border-left-style: var(--border-style);*/
-
-    /* Largura da borda */
-    /*border-width: var(--border-width);*/
-    /*border-top-width: var(--border-width);*/
-    /*border-right-width: var(--border-width);*/
-    /*border-bottom-width: var(--border-width);*/
-    /*border-left-width: var(--border-width);*/
-
-    /* Cor da borda */
-    /*border-color: var(--border-color);*/
-    /*border-top-color: var(--border-color);*/
-    /*border-right-color: var(--border-color);*/
-    /*border-bottom-color: var(--border-color);*/
-    /*border-left-color: var(--border-color);*/
-
-    /* Borda arredondada */
-    /*border-radius: var(--border-radius);*/
-    /*border-top-left-radius: var(--border-radius);*/
-    /*border-top-right-radius: var(--border-radius);*/
-    /*border-bottom-right-radius: var(--border-radius);*/
-    /*border-bottom-left-radius: var(--border-radius);*/
-
-    /*!* Borda com imagem *!*/
-    /*border-image: var(--border-image-source) var(--border-image-slice) / var(--border-image-width) var(--border-image-outset) var(--border-image-repeat);*/
-    /*border-image-source: var(--border-image-source);*/
-    /*border-image-slice: var(--border-image-slice);*/
-    /*border-image-width: var(--border-image-width);*/
-    /*border-image-outset: var(--border-image-outset);*/
-    /*border-image-repeat: var(--border-image-repeat);*/
-
-    /* Propriedades para tabelas */
-    border-collapse: var(--border-collapse-default);
-    border-spacing: var(--border-spacing-default);
+:where([class*="art:p:"], [class*="art:hover:p:"]),
+[class*="art:p:"],
+[class*="art:hover:p:"] {
+    padding-top: var(--padding-top);
+    padding-right: var(--padding-right);
+    padding-left: var(--padding-left);
+    padding-bottom: var(--padding-bottom);
 }
