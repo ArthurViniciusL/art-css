@@ -478,7 +478,88 @@
     .art\:hover\:bg\:purple\:70\%:hover { --bg-color: rgba(var(--purple-rgb), 0.7); }
     .art\:hover\:bg\:purple\:80\%:hover { --bg-color: rgba(var(--purple-rgb), 0.8); }
     .art\:hover\:bg\:purple\:90\%:hover { --bg-color: rgba(var(--purple-rgb), 0.9); }
-}@layer border-width {
+}/* ------------------------------------- background colors no dark mode: ------------------------------------- */
+
+.art\:no-dark\:bg\:black-01 {
+    /* art:no-dark:bg:black-01 */
+    background: var(--fix-black-01);
+}
+
+.art\:no-dark\:bg\:black-02 {
+    /* art:no-dark:bg:black-02 */
+    background: var(--fix-black-02);
+}
+
+.art\:no-dark\:bg\:black-03 {
+    /* art:no-dark:bg:black-03 */
+    background: var(--fix-black-03);
+}
+
+.art\:no-dark\:bg\:black-04 {
+    /* art:no-dark:bg:black-04 */
+    background: var(--fix-black-04);
+}
+
+.art\:no-dark\:bg\:white-01 {
+    /* art:no-dark:bg:white-01 */
+    background: var(--fix-white-01);
+}
+
+.art\:no-dark\:bg\:white-02 {
+    /* art:no-dark:bg:white-02 */
+    background: var(--fix-white-02);
+}
+
+.art\:no-dark\:bg\:white-03 {
+    /* art:no-dark:bg:white-03 */
+    background: var(--fix-white-03);
+}
+
+.art\:no-dark\:bg\:white-04 {
+    /* art:no-dark:bg:white-04 */
+    background: var(--fix-white-04);
+}
+
+.art\:hover\:no-black\:bg\:black-01:hover {
+    /* art:hover:no-black:bg:black-01 */
+    background: var(--fix-black-01);
+}
+
+.art\:hover\:no-dark\:bg\:black-02:hover {
+    /* art:hover:no-dark:bg:black-02 */
+    background: var(--fix-black-02);
+}
+
+.art\:hover\:no-dark\:bg\:black-03:hover {
+    /* art:hover:no-dark:bg:black-03 */
+    background: var(--fix-black-03);
+}
+
+.art\:hover\:no-dark\:bg\:black-04:hover {
+    /* art:hover:no-dark:bg:black-04 */
+    background: var(--fix-black-04);
+}
+
+.art\:hover\:no-dark\:bg\:white-01:hover {
+    /* art:hover:no-dark:bg:white-01 */
+    background: var(--fix-white-01);
+}
+
+.art\:hover\:no-dark\:bg\:white-02:hover {
+    /* art:hover:no-dark:bg:white-02 */
+    background: var(--fix-white-02);
+}
+
+.art\:hover\:no-dark\:bg\:white-03:hover {
+    /* art:hover:no-dark:bg:white-03 */
+    background: var(--fix-white-03);
+}
+
+.art\:hover\:no-dark\:bg\:white-04:hover {
+    /* art:hover:no-dark:bg:white-04 */
+    background: var(--fix-white-04);
+}
+@layer border-width {
 
     .art\:border\:thin {
         /* art:border:thin */
@@ -1614,235 +1695,6 @@ button:hover {
         /* art:sticky */
         position: sticky;
     }
-}
-/* ------------------------------------- background colors no dark mode: ------------------------------------- */
-
-.art\:no-dark\:bg\:black-01 {
-    /* art:no-dark:bg:black-01 */
-    background: var(--fix-black-01);
-}
-
-.art\:no-dark\:bg\:black-02 {
-    /* art:no-dark:bg:black-02 */
-    background: var(--fix-black-02);
-}
-
-.art\:no-dark\:bg\:black-03 {
-    /* art:no-dark:bg:black-03 */
-    background: var(--fix-black-03);
-}
-
-.art\:no-dark\:bg\:black-04 {
-    /* art:no-dark:bg:black-04 */
-    background: var(--fix-black-04);
-}
-
-.art\:no-dark\:bg\:white-01 {
-    /* art:no-dark:bg:white-01 */
-    background: var(--fix-white-01);
-}
-
-.art\:no-dark\:bg\:white-02 {
-    /* art:no-dark:bg:white-02 */
-    background: var(--fix-white-02);
-}
-
-.art\:no-dark\:bg\:white-03 {
-    /* art:no-dark:bg:white-03 */
-    background: var(--fix-white-03);
-}
-
-.art\:no-dark\:bg\:white-04 {
-    /* art:no-dark:bg:white-04 */
-    background: var(--fix-white-04);
-}
-
-.art\:hover\:no-black\:bg\:black-01:hover {
-    /* art:hover:no-black:bg:black-01 */
-    background: var(--fix-black-01);
-}
-
-.art\:hover\:no-dark\:bg\:black-02:hover {
-    /* art:hover:no-dark:bg:black-02 */
-    background: var(--fix-black-02);
-}
-
-.art\:hover\:no-dark\:bg\:black-03:hover {
-    /* art:hover:no-dark:bg:black-03 */
-    background: var(--fix-black-03);
-}
-
-.art\:hover\:no-dark\:bg\:black-04:hover {
-    /* art:hover:no-dark:bg:black-04 */
-    background: var(--fix-black-04);
-}
-
-.art\:hover\:no-dark\:bg\:white-01:hover {
-    /* art:hover:no-dark:bg:white-01 */
-    background: var(--fix-white-01);
-}
-
-.art\:hover\:no-dark\:bg\:white-02:hover {
-    /* art:hover:no-dark:bg:white-02 */
-    background: var(--fix-white-02);
-}
-
-.art\:hover\:no-dark\:bg\:white-03:hover {
-    /* art:hover:no-dark:bg:white-03 */
-    background: var(--fix-white-03);
-}
-
-.art\:hover\:no-dark\:bg\:white-04:hover {
-    /* art:hover:no-dark:bg:white-04 */
-    background: var(--fix-white-04);
-}
-/* ------------------------------------- font colors no dark mode: ------------------------------------- */
-
-.art\:no-dark\:font\:black-01 {
-    /* art:no-dark:font:black-01 */
-    color: var(--fix-black-01);
-}
-
-.art\:no-dark\:font\:black-02 {
-    /* art:no-dark:font:black-02 */
-    color: var(--fix-black-02);
-}
-
-.art\:no-dark\:font\:black-03 {
-    /* art:no-dark:font:black-03 */
-    color: var(--fix-black-03);
-}
-
-.art\:no-dark\:font\:black-04 {
-    /* art:no-dark:font:black-04 */
-    color: var(--fix-black-04);
-}
-
-.art\:no-dark\:font\:white-01 {
-    /* art:no-dark:font:white-01 */
-    color: var(--fix-white-01);
-}
-
-.art\:no-dark\:font\:white-02 {
-    /* art:no-dark:font:white-02 */
-    color: var(--fix-white-02);
-}
-
-.art\:no-dark\:font\:white-03 {
-    /* art:no-dark:font:white-03 */
-    color: var(--fix-white-03);
-}
-
-.art\:no-dark\:font\:white-04 {
-    /* art:no-dark:font:white-04 */
-    color: var(--fix-white-04);
-}
-
-.art\:hover\:no-dark\:font\:black-01:hover {
-    /* art:hover:no-dark:font:black-01 */
-    color: var(--fix-black-01);
-}
-
-.art\:hover\:no-dark\:font\:black-02:hover {
-    /* art:hover:no-dark:font:black-02 */
-    color: var(--fix-black-02);
-}
-
-.art\:hover\:no-dark\:font\:black-03:hover {
-    /* art:hover:no-dark:font:black-03 */
-    color: var(--fix-black-03);
-}
-
-.art\:hover\:no-dark\:font\:black-04:hover {
-    /* art:hover:no-dark:font:black-04 */
-    color: var(--fix-black-04);
-}
-
-.art\:hover\:no-dark\:font\:white-01:hover {
-    /* art:hover:no-dark:font:white-01 */
-    color: var(--fix-white-01);
-}
-
-.art\:hover\:no-dark\:font\:white-02:hover {
-    /* art:hover:no-dark:font:white-02 */
-    color: var(--fix-white-02);
-}
-
-.art\:hover\:no-dark\:font\:white-03:hover {
-    /* art:hover:no-dark:font:white-03 */
-    color: var(--fix-white-03);
-}
-
-.art\:hover\:no-dark\:font\:white-04:hover {
-    /* art:hover:no-dark:font:white-04 */
-    color: var(--fix-white-04);
-}
-/* ------------------------------------- hover background colors no dark mode: ------------------------------------- */
-
-.art\:hover\:no-dark\:bg\:black-01:hover {
-    background: var(--fix-black-01);
-}
-
-.art\:hover\:no-dark\:bg\:black-02:hover {
-    background: var(--fix-black-02);
-}
-
-.art\:hover\:no-dark\:bg\:black-03:hover {
-    background: var(--fix-black-03);
-}
-
-.art\:hover\:no-dark\:bg\:black-04:hover {
-    background: var(--fix-black-04);
-}
-
-.art\:hover\:no-dark\:bg\:white-01:hover {
-    background: var(--fix-white-01);
-}
-
-.art\:hover\:no-dark\:bg\:white-02:hover {
-    background: var(--fix-white-02);
-}
-
-.art\:hover\:no-dark\:bg\:white-03:hover {
-    background: var(--fix-white-03);
-}
-
-.art\:hover\:no-dark\:bg\:white-04:hover {
-    background: var(--fix-white-04);
-}
-
-/* ------------------------------------- hover font colors no dark mode: ------------------------------------- */
-
-.art\:hover\:no-dark\:font\:black-01:hover {
-    color: var(--fix-black-01);
-}
-
-.art\:hover\:no-dark\:font\:black-02:hover {
-    color: var(--fix-black-02);
-}
-
-.art\:hover\:no-dark\:font\:black-03:hover {
-    color: var(--fix-black-03);
-}
-
-.art\:hover\:no-dark\:font\:black-04:hover {
-    color: var(--fix-black-04);
-}
-
-.art\:hover\:no-dark\:font\:white-01:hover {
-    color: var(--fix-white-01);
-}
-
-.art\:hover\:no-dark\:font\:white-02:hover {
-    color: var(--fix-white-02);
-}
-
-.art\:hover\:no-dark\:font\:white-03:hover {
-    color: var(--fix-white-03);
-}
-
-.art\:hover\:no-dark\:font\:white-04:hover {
-    color: var(--fix-white-04);
 }
 @layer overflow {
 
@@ -3315,6 +3167,87 @@ button:hover {
     
     /* art:hover:font:purple:50% */
     .art\:hover\:font\:purple\:50\%:hover { --font-color: rgb(var(--purple-rgb), 0.5); }
+}
+/* ------------------------------------- font colors no dark mode: ------------------------------------- */
+
+.art\:no-dark\:font\:black-01 {
+    /* art:no-dark:font:black-01 */
+    color: var(--fix-black-01);
+}
+
+.art\:no-dark\:font\:black-02 {
+    /* art:no-dark:font:black-02 */
+    color: var(--fix-black-02);
+}
+
+.art\:no-dark\:font\:black-03 {
+    /* art:no-dark:font:black-03 */
+    color: var(--fix-black-03);
+}
+
+.art\:no-dark\:font\:black-04 {
+    /* art:no-dark:font:black-04 */
+    color: var(--fix-black-04);
+}
+
+.art\:no-dark\:font\:white-01 {
+    /* art:no-dark:font:white-01 */
+    color: var(--fix-white-01);
+}
+
+.art\:no-dark\:font\:white-02 {
+    /* art:no-dark:font:white-02 */
+    color: var(--fix-white-02);
+}
+
+.art\:no-dark\:font\:white-03 {
+    /* art:no-dark:font:white-03 */
+    color: var(--fix-white-03);
+}
+
+.art\:no-dark\:font\:white-04 {
+    /* art:no-dark:font:white-04 */
+    color: var(--fix-white-04);
+}
+
+.art\:hover\:no-dark\:font\:black-01:hover {
+    /* art:hover:no-dark:font:black-01 */
+    color: var(--fix-black-01);
+}
+
+.art\:hover\:no-dark\:font\:black-02:hover {
+    /* art:hover:no-dark:font:black-02 */
+    color: var(--fix-black-02);
+}
+
+.art\:hover\:no-dark\:font\:black-03:hover {
+    /* art:hover:no-dark:font:black-03 */
+    color: var(--fix-black-03);
+}
+
+.art\:hover\:no-dark\:font\:black-04:hover {
+    /* art:hover:no-dark:font:black-04 */
+    color: var(--fix-black-04);
+}
+
+.art\:hover\:no-dark\:font\:white-01:hover {
+    /* art:hover:no-dark:font:white-01 */
+    color: var(--fix-white-01);
+}
+
+.art\:hover\:no-dark\:font\:white-02:hover {
+    /* art:hover:no-dark:font:white-02 */
+    color: var(--fix-white-02);
+}
+
+.art\:hover\:no-dark\:font\:white-03:hover {
+    /* art:hover:no-dark:font:white-03 */
+    color: var(--fix-white-03);
+}
+
+.art\:hover\:no-dark\:font\:white-04:hover {
+    /* art:hover:no-dark:font:white-04 */
+    color: var(--fix-white-04);
 }
 @layer font-decoration {
 

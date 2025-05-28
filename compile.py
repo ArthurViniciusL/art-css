@@ -5,6 +5,7 @@ import os
 
 background = [
     'src/modules/background/bg.css',
+    'src/modules/background/bg-no-dark.css',
 ]
 
 border = [
@@ -42,12 +43,6 @@ layout = [
    'src/modules/layout/position.css',
 ]
 
-no_dark = [
-    'src/modules/no-dark/bg-no-dark.css',
-    'src/modules/no-dark/font-no-dark.css',
-    'src/modules/no-dark/hover-no-dark.css'
-]
-
 overflow = [
     'src/modules/overflow/overflow.css'
 ]
@@ -71,15 +66,16 @@ transition = [
 
 typography = [
     'src/modules/typography/color.css',
+    'src/modules/typography/color-no-dark.css',
     'src/modules/typography/font-decoration.css',
     'src/modules/typography/font-size.css',
     'src/modules/typography/font-transform.css',
     'src/modules/typography/font-weight.css'
 ]
 
-modules = [background]
+#modules = [background, border, cursor]
 
-directories = ['src/art-main.css'] + background + border + cursor + elements_html + flex_box + layout + no_dark + overflow + sizes + spacing + transition + typography
+directories = ['src/art-main.css'] + background + border + cursor + elements_html + flex_box + layout + overflow + sizes + spacing + transition + typography
     
 file_content = [];
 

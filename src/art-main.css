@@ -152,7 +152,7 @@
 }
 
 
-:where([class*="art:bg:"], [class*="art:hover:bg:"]) {
+:where([class*="art:bg:"], [class*="art:bg::"],  [class*="art:bg:!"], [class*="art:bg::!"]) {
     /* --bg-color: transparent; */
     background: var(--bg-color);
 }
@@ -171,7 +171,7 @@
     border-spacing: var(--border-spacing-default);
 }
 
-:where([class*="art:font:"], [class*="art:hover:font:"]), [class*="art:font:"], [class*="art:hover:font:"] {
+:where([class*="art:font:"], [class*="art:font::"], [class*="art:no-dark:font:"]), [class*="art:font:"], [class*="art:hover:font:"], [class*="art:no-dark:font:"] {
     font-size: var(--font-size);
     color: var(--font-color);
     /*font-family: var(--font-family);*/
