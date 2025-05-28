@@ -1,7 +1,8 @@
 @layer border-color {
 
     /* art:border:none */
-    .art\:border\:none { --border-color: transparent; }
+    .art\:border\:none { --border-color: none; }
+    .art\:border\:transparent { --border-color: transparent; }
 
     /* art:border:black-01 */
     .art\:border\:black-01 { --border-color: var(--black-01); }
@@ -259,7 +260,10 @@
 @layer border-color-hover {
 
     /* art:hover:border:none */
-    .art\:hover\:border\:none:hover { --border-color: transparent; }
+    .art\:hover\:border\:none:hover { --border-color: none; }
+
+    /* art:hover:border:transparent */
+    .art\:hover\:border\:transparent:hover { --border-color: transparent; }
 
     /* art:hover:border:black-01 */
     .art\:hover\:border\:black-01:hover { --border-color: var(--black-01); }
