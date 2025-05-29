@@ -1,26 +1,26 @@
-@layer dispaly {
-    /* art\:flex */
-    .art\:flex {
-        display: flex;
-    }
+/* =============================================== display =============================================== */
 
-    /* art\:grid */
-    .art\:grid {
-        display: grid;
-    }
+/* art\:flex */
+.art\:flex {
+    display: flex;
+}
 
-    /* art\:none */
-    .art\:none {
-        display: none;
-    }
+/* art\:grid */
+.art\:grid {
+    display: grid;
+}
 
-    /* art\:block */
-    .art\:block {
-        display: block;
-    }
+/* art\:none */
+.art\:none {
+    display: none;
+}
 
-    /* art\:inline-block */
-    .art\:inline-block {
-        display: inline-block;
-    }
+/* art\:block */
+.art\:block {
+    display: block;
+}
+
+/* art\:inline-block */
+.art\:inline-block {
+    display: inline-block;
 }
