@@ -1,41 +1,41 @@
 /* ------------------------------------- flex ------------------------------------- */
 
+/* art:wrap */
 .art\:wrap {
-    /* art:wrap */
     flex-wrap: wrap;
 }
 
+/* art:nowrap */
 .art\:nowrap {
-    /* art:nowrap */
     flex-wrap: nowrap;
 }
 
+/* art:row */
 .art\:row {
-    /* art:row */
     flex-direction: row;
 }
 
+/* art:col */
 .art\:col {
-    /* art:col */
     flex-direction: column;
 }
 
+/* art:row-r */
 .art\:row-r {
-    /* art:row-r */
     flex-direction: row-reverse;
 }
 
+/* art:col-r */
 .art\:col-r {
-    /* art:col-r */
     flex-direction: column-reverse;
 }
 
+/* art:flw:row */
 .art\:flow\:row {
-    /* art:flw:row */
     flex-flow: row;
 }
 
+/* art:flw:col */
 .art\:flow\:col {
-    /* art:flw:col */
     flex-flow: column;
 }
