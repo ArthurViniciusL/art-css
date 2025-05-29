@@ -1,0 +1,83 @@
+@layer width {
+
+    /* art:w:device */
+    .art\:w\:device {
+        width: 100dvw;
+    }
+
+    /* art:w:full */
+    .art\:w\:full {
+        width: 100%;
+    }
+
+    /* art:w:fit */
+    .art\:w\:fit {
+        width: fit-content;
+    }
+
+    /* art:w:max-content */
+    .art\:w\:max-content {
+        width: max-content;
+    }
+
+    /* art:w:min-content */
+    .art\w\:min-content {
+        width: min-content;
+    }
+}
+
+@layer min-width {
+
+    /* art:min-w:device */
+    .art\:min-w\:device {
+        min-width: 100dvh;
+    }
+
+    /* art:min-w:full */
+    .art\:min-w\:full {
+        min-width: 100%;
+    }
+
+    /* art:min-w:fit */
+    .art\:min-w\:fit {
+        min-width: fit-content;
+    }
+
+    /* art:min-w:max-content */
+    .art\:min-w\:max-content {
+        min-width: max-content;
+    }
+
+    /* art:min-w:min-content */
+    .art\:min-w\:min-content {
+        min-width: min-content;
+    }
+}
+
+@layer max-width {
+
+    /* art:max-w:device */
+    .art\:max-w\:device {
+        max-width: 100dvh;
+    }
+
+    /* art:max-w:full */
+    .art\:max-w\:full {
+        max-width: 100%;
+    }
+
+    /* art:max-w:fit */
+    .art\:max-w\:fit {
+        max-width: fit-content;
+    }
+
+    /* art:max-w:max-content */
+    .art\:max-w\:max-content {
+        max-width: max-content;
+    }
+
+    /* art:max-w:min-content */
+    .art\:max-w\:min-content {
+        max-width: min-content;
+    }
+}

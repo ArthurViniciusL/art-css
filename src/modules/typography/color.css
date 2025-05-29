@@ -1,0 +1,436 @@
+@layer color {
+
+    /* art:font:black-01 */
+    .art\:font\:black-01 { --font-color: var(--black-01); }
+    
+    /* art:font:black-02 */
+    .art\:font\:black-02 { --font-color: var(--black-02); }
+    
+    /* art:font:black-03 */
+    .art\:font\:black-03 { --font-color: var(--black-03); }
+    
+    /* art:font:black-04 */
+    .art\:font\:black-04 { --font-color: var(--black-04); }
+    
+    /* art:font:black:10% */
+    .art\:font\:black\:10\% { --font-color: rgb(var(--black-rgb), 0.1); }
+    
+    /* art:font:black:20% */
+    .art\:font\:black\:20\% { --font-color: rgb(var(--black-rgb), 0.2); }
+    
+    /* art:font:black:30% */
+    .art\:font\:black\:30\% { --font-color: rgb(var(--black-rgb), 0.3); }
+    
+    /* art:font:black:40% */
+    .art\:font\:black\:40\% { --font-color: rgb(var(--black-rgb), 0.4); }
+    
+    /* art:font:black:50% */
+    .art\:font\:black\:50\% { --font-color: rgb(var(--black-rgb), 0.5); }
+
+    /* art:font:white-01 */
+    .art\:font\:white-01 { --font-color: var(--white-01); }
+    
+    /* art:font:white-02 */
+    .art\:font\:white-02 { --font-color: var(--white-02); }
+    
+    /* art:font:white-03 */
+    .art\:font\:white-03 { --font-color: var(--white-03); }
+    
+    /* art:font:white-04 */
+    .art\:font\:white-04 { --font-color: var(--white-04); }
+    
+    /* art:font:white:10% */
+    .art\:font\:white\:10\% { --font-color: rgb(var(--white-rgb), 0.1); }
+    
+    /* art:font:white:20% */
+    .art\:font\:white\:20\% { --font-color: rgb(var(--white-rgb), 0.2); }
+    
+    /* art:font:white:30% */
+    .art\:font\:white\:30\% { --font-color: rgb(var(--white-rgb), 0.3); }
+    
+    /* art:font:white:40% */
+    .art\:font\:white\:40\% { --font-color: rgb(var(--white-rgb), 0.4); }
+    
+    /* art:font:white:50% */
+    .art\:font\:white\:50\% { --font-color: rgb(var(--white-rgb), 0.5); }
+
+    /* art:font:yellow-01 */
+    .art\:font\:yellow-01 { --font-color: var(--yellow-01); }
+    
+    /* art:font:yellow-02 */
+    .art\:font\:yellow-02 { --font-color: var(--yellow-02); }
+    
+    /* art:font:yellow-03 */
+    .art\:font\:yellow-03 { --font-color: var(--yellow-03); }
+    
+    /* art:font:yellow-04 */
+    .art\:font\:yellow-04 { --font-color: var(--yellow-04); }
+    
+    /* art:font:yellow:10% */
+    .art\:font\:yellow\:10\% { --font-color: rgb(var(--yellow-rgb), 0.1); }
+    
+    /* art:font:yellow:20% */
+    .art\:font\:yellow\:20\% { --font-color: rgb(var(--yellow-rgb), 0.2); }
+    
+    /* art:font:yellow:30% */
+    .art\:font\:yellow\:30\% { --font-color: rgb(var(--yellow-rgb), 0.3); }
+    
+    /* art:font:yellow:40% */
+    .art\:font\:yellow\:40\% { --font-color: rgb(var(--yellow-rgb), 0.4); }
+    
+    /* art:font:yellow:50% */
+    .art\:font\:yellow\:50\% { --font-color: rgb(var(--yellow-rgb), 0.5); }
+
+    /* art:font:orange-01 */
+    .art\:font\:orange-01 { --font-color: var(--orange-01); }
+    
+    /* art:font:orange-02 */
+    .art\:font\:orange-02 { --font-color: var(--orange-02); }
+    
+    /* art:font:orange-03 */
+    .art\:font\:orange-03 { --font-color: var(--orange-03); }
+    
+    /* art:font:orange-04 */
+    .art\:font\:orange-04 { --font-color: var(--orange-04); }
+    
+    /* art:font:orange:10% */
+    .art\:font\:orange\:10\% { --font-color: rgb(var(--orange-rgb), 0.1); }
+    
+    /* art:font:orange:20% */
+    .art\:font\:orange\:20\% { --font-color: rgb(var(--orange-rgb), 0.2); }
+    
+    /* art:font:orange:30% */
+    .art\:font\:orange\:30\% { --font-color: rgb(var(--orange-rgb), 0.3); }
+    
+    /* art:font:orange:40% */
+    .art\:font\:orange\:40\% { --font-color: rgb(var(--orange-rgb), 0.4); }
+    
+    /* art:font:orange:50% */
+    .art\:font\:orange\:50\% { --font-color: rgb(var(--orange-rgb), 0.5); }
+
+    /* art:font:red-01 */
+    .art\:font\:red-01 { --font-color: var(--red-01); }
+    
+    /* art:font:red-02 */
+    .art\:font\:red-02 { --font-color: var(--red-02); }
+    
+    /* art:font:red-03 */
+    .art\:font\:red-03 { --font-color: var(--red-03); }
+    
+    /* art:font:red-04 */
+    .art\:font\:red-04 { --font-color: var(--red-04); }
+    
+    /* art:font:red:10% */
+    .art\:font\:red\:10\% { --font-color: rgb(var(--red-rgb), 0.1); }
+    
+    /* art:font:red:20% */
+    .art\:font\:red\:20\% { --font-color: rgb(var(--red-rgb), 0.2); }
+    
+    /* art:font:red:30% */
+    .art\:font\:red\:30\% { --font-color: rgb(var(--red-rgb), 0.3); }
+    
+    /* art:font:red:40% */
+    .art\:font\:red\:40\% { --font-color: rgb(var(--red-rgb), 0.4); }
+    
+    /* art:font:red:50% */
+    .art\:font\:red\:50\% { --font-color: rgb(var(--red-rgb), 0.5); }
+
+    /* art:font:blue-01 */
+    .art\:font\:blue-01 { --font-color: var(--blue-01); }
+    
+    /* art:font:blue-02 */
+    .art\:font\:blue-02 { --font-color: var(--blue-02); }
+    
+    /* art:font:blue-03 */
+    .art\:font\:blue-03 { --font-color: var(--blue-03); }
+    
+    /* art:font:blue-04 */
+    .art\:font\:blue-04 { --font-color: var(--blue-04); }
+    
+    /* art:font:blue:10% */
+    .art\:font\:blue\:10\% { --font-color: rgb(var(--blue-rgb), 0.1); }
+    
+    /* art:font:blue:20% */
+    .art\:font\:blue\:20\% { --font-color: rgb(var(--blue-rgb), 0.2); }
+    
+    /* art:font:blue:30% */
+    .art\:font\:blue\:30\% { --font-color: rgb(var(--blue-rgb), 0.3); }
+    
+    /* art:font:blue:40% */
+    .art\:font\:blue\:40\% { --font-color: rgb(var(--blue-rgb), 0.4); }
+    
+    /* art:font:blue:50% */
+    .art\:font\:blue\:50\% { --font-color: rgb(var(--blue-rgb), 0.5); }
+
+    /* art:font:green-01 */
+    .art\:font\:green-01 { --font-color: var(--green-01); }
+    
+    /* art:font:green-02 */
+    .art\:font\:green-02 { --font-color: var(--green-02); }
+    
+    /* art:font:green-03 */
+    .art\:font\:green-03 { --font-color: var(--green-03); }
+    
+    /* art:font:green-04 */
+    .art\:font\:green-04 { --font-color: var(--green-04); }
+    
+    /* art:font:green:10% */
+    .art\:font\:green\:10\% { --font-color: rgb(var(--green-rgb), 0.1); }
+    
+    /* art:font:green:20% */
+    .art\:font\:green\:20\% { --font-color: rgb(var(--green-rgb), 0.2); }
+    
+    /* art:font:green:30% */
+    .art\:font\:green\:30\% { --font-color: rgb(var(--green-rgb), 0.3); }
+    
+    /* art:font:green:40% */
+    .art\:font\:green\:40\% { --font-color: rgb(var(--green-rgb), 0.4); }
+    
+    /* art:font:green:50% */
+    .art\:font\:green\:50\% { --font-color: rgb(var(--green-rgb), 0.5); }
+
+    /* art:font:purple-01 */
+    .art\:font\:purple-01 { --font-color: var(--purple-01); }
+    
+    /* art:font:purple-02 */
+    .art\:font\:purple-02 { --font-color: var(--purple-02); }
+    
+    /* art:font:purple-03 */
+    .art\:font\:purple-03 { --font-color: var(--purple-03); }
+    
+    /* art:font:purple-04 */
+    .art\:font\:purple-04 { --font-color: var(--purple-04); }
+    
+    /* art:font:purple:10% */
+    .art\:font\:purple\:10\% { --font-color: rgb(var(--purple-rgb), 0.1); }
+    
+    /* art:font:purple:20% */
+    .art\:font\:purple\:20\% { --font-color: rgb(var(--purple-rgb), 0.2); }
+    
+    /* art:font:purple:30% */
+    .art\:font\:purple\:30\% { --font-color: rgb(var(--purple-rgb), 0.3); }
+    
+    /* art:font:purple:40% */
+    .art\:font\:purple\:40\% { --font-color: rgb(var(--purple-rgb), 0.4); }
+    
+    /* art:font:purple:50% */
+    .art\:font\:purple\:50\% { --font-color: rgb(var(--purple-rgb), 0.5); }
+}
+
+@layer color-hover {
+    /* art::font:black-01 */
+    .art\:\:font\:black-01:hover { --font-color: var(--black-01); }
+
+    /* art::font:black-02 */
+    .art\:\:font\:black-02:hover { --font-color: var(--black-02); }
+
+    /* art::font:black-03 */
+    .art\:\:font\:black-03:hover { --font-color: var(--black-03); }
+
+    /* art::font:black-04 */
+    .art\:\:font\:black-04:hover { --font-color: var(--black-04); }
+
+    /* art::font:black:10% */
+    .art\:\:font\:black\:10\%:hover { --font-color: rgb(var(--black-rgb), 0.1); }
+
+    /* art::font:black:20% */
+    .art\:\:font\:black\:20\%:hover { --font-color: rgb(var(--black-rgb), 0.2); }
+
+    /* art::font:black:30% */
+    .art\:\:font\:black\:30\%:hover { --font-color: rgb(var(--black-rgb), 0.3); }
+
+    /* art::font:black:40% */
+    .art\:\:font\:black\:40\%:hover { --font-color: rgb(var(--black-rgb), 0.4); }
+
+    /* art::font:black:50% */
+    .art\:\:font\:black\:50\%:hover { --font-color: rgb(var(--black-rgb), 0.5); }
+
+    /* art::font:white-01 */
+    .art\:\:font\:white-01:hover { --font-color: var(--white-01); }
+
+    /* art::font:white-02 */
+    .art\:\:font\:white-02:hover { --font-color: var(--white-02); }
+
+    /* art::font:white-03 */
+    .art\:\:font\:white-03:hover { --font-color: var(--white-03); }
+
+    /* art::font:white-04 */
+    .art\:\:font\:white-04:hover { --font-color: var(--white-04); }
+
+    /* art::font:white:10% */
+    .art\:\:font\:white\:10\%:hover { --font-color: rgb(var(--white-rgb), 0.1); }
+
+    /* art::font:white:20% */
+    .art\:\:font\:white\:20\%:hover { --font-color: rgb(var(--white-rgb), 0.2); }
+
+    /* art::font:white:30% */
+    .art\:\:font\:white\:30\%:hover { --font-color: rgb(var(--white-rgb), 0.3); }
+
+    /* art::font:white:40% */
+    .art\:\:font\:white\:40\%:hover { --font-color: rgb(var(--white-rgb), 0.4); }
+
+    /* art::font:white:50% */
+    .art\:\:font\:white\:50\%:hover { --font-color: rgb(var(--white-rgb), 0.5); }
+
+    /* art::font:yellow-01 */
+    .art\:\:font\:yellow-01:hover { --font-color: var(--yellow-01); }
+
+    /* art::font:yellow-02 */
+    .art\:\:font\:yellow-02:hover { --font-color: var(--yellow-02); }
+
+    /* art::font:yellow-03 */
+    .art\:\:font\:yellow-03:hover { --font-color: var(--yellow-03); }
+
+    /* art::font:yellow-04 */
+    .art\:\:font\:yellow-04:hover { --font-color: var(--yellow-04); }
+
+    /* art::font:yellow:10% */
+    .art\:\:font\:yellow\:10\%:hover { --font-color: rgb(var(--yellow-rgb), 0.1); }
+
+    /* art::font:yellow:20% */
+    .art\:\:font\:yellow\:20\%:hover { --font-color: rgb(var(--yellow-rgb), 0.2); }
+
+    /* art::font:yellow:30% */
+    .art\:\:font\:yellow\:30\%:hover { --font-color: rgb(var(--yellow-rgb), 0.3); }
+
+    /* art::font:yellow:40% */
+    .art\:\:font\:yellow\:40\%:hover { --font-color: rgb(var(--yellow-rgb), 0.4); }
+
+    /* art::font:yellow:50% */
+    .art\:\:font\:yellow\:50\%:hover { --font-color: rgb(var(--yellow-rgb), 0.5); }
+
+    /* art::font:orange-01 */
+    .art\:\:font\:orange-01:hover { --font-color: var(--orange-01); }
+
+    /* art::font:orange-02 */
+    .art\:\:font\:orange-02:hover { --font-color: var(--orange-02); }
+
+    /* art::font:orange-03 */
+    .art\:\:font\:orange-03:hover { --font-color: var(--orange-03); }
+
+    /* art::font:orange-04 */
+    .art\:\:font\:orange-04:hover { --font-color: var(--orange-04); }
+
+    /* art::font:orange:10% */
+    .art\:\:font\:orange\:10\%:hover { --font-color: rgb(var(--orange-rgb), 0.1); }
+
+    /* art::font:orange:20% */
+    .art\:\:font\:orange\:20\%:hover { --font-color: rgb(var(--orange-rgb), 0.2); }
+
+    /* art::font:orange:30% */
+    .art\:\:font\:orange\:30\%:hover { --font-color: rgb(var(--orange-rgb), 0.3); }
+
+    /* art::font:orange:40% */
+    .art\:\:font\:orange\:40\%:hover { --font-color: rgb(var(--orange-rgb), 0.4); }
+
+    /* art::font:orange:50% */
+    .art\:\:font\:orange\:50\%:hover { --font-color: rgb(var(--orange-rgb), 0.5); }
+
+    /* art::font:red-01 */
+    .art\:\:font\:red-01:hover { --font-color: var(--red-01); }
+
+    /* art::font:red-02 */
+    .art\:\:font\:red-02:hover { --font-color: var(--red-02); }
+
+    /* art::font:red-03 */
+    .art\:\:font\:red-03:hover { --font-color: var(--red-03); }
+
+    /* art::font:red-04 */
+    .art\:\:font\:red-04:hover { --font-color: var(--red-04); }
+
+    /* art::font:red:10% */
+    .art\:\:font\:red\:10\%:hover { --font-color: rgb(var(--red-rgb), 0.1); }
+
+    /* art::font:red:20% */
+    .art\:\:font\:red\:20\%:hover { --font-color: rgb(var(--red-rgb), 0.2); }
+
+    /* art::font:red:30% */
+    .art\:\:font\:red\:30\%:hover { --font-color: rgb(var(--red-rgb), 0.3); }
+
+    /* art::font:red:40% */
+    .art\:\:font\:red\:40\%:hover { --font-color: rgb(var(--red-rgb), 0.4); }
+
+    /* art::font:red:50% */
+    .art\:\:font\:red\:50\%:hover { --font-color: rgb(var(--red-rgb), 0.5); }
+
+    /* art::font:blue-01 */
+    .art\:\:font\:blue-01:hover { --font-color: var(--blue-01); }
+
+    /* art::font:blue-02 */
+    .art\:\:font\:blue-02:hover { --font-color: var(--blue-02); }
+
+    /* art::font:blue-03 */
+    .art\:\:font\:blue-03:hover { --font-color: var(--blue-03); }
+
+    /* art::font:blue-04 */
+    .art\:\:font\:blue-04:hover { --font-color: var(--blue-04); }
+
+    /* art::font:blue:10% */
+    .art\:\:font\:blue\:10\%:hover { --font-color: rgb(var(--blue-rgb), 0.1); }
+
+    /* art::font:blue:20% */
+    .art\:\:font\:blue\:20\%:hover { --font-color: rgb(var(--blue-rgb), 0.2); }
+
+    /* art::font:blue:30% */
+    .art\:\:font\:blue\:30\%:hover { --font-color: rgb(var(--blue-rgb), 0.3); }
+
+    /* art::font:blue:40% */
+    .art\:\:font\:blue\:40\%:hover { --font-color: rgb(var(--blue-rgb), 0.4); }
+
+    /* art::font:blue:50% */
+    .art\:\:font\:blue\:50\%:hover { --font-color: rgb(var(--blue-rgb), 0.5); }
+
+    /* art::font:green-01 */
+    .art\:\:font\:green-01:hover { --font-color: var(--green-01); }
+
+    /* art::font:green-02 */
+    .art\:\:font\:green-02:hover { --font-color: var(--green-02); }
+
+    /* art::font:green-03 */
+    .art\:\:font\:green-03:hover { --font-color: var(--green-03); }
+
+    /* art::font:green-04 */
+    .art\:\:font\:green-04:hover { --font-color: var(--green-04); }
+
+    /* art::font:green:10% */
+    .art\:\:font\:green\:10\%:hover { --font-color: rgb(var(--green-rgb), 0.1); }
+
+    /* art::font:green:20% */
+    .art\:\:font\:green\:20\%:hover { --font-color: rgb(var(--green-rgb), 0.2); }
+
+    /* art::font:green:30% */
+    .art\:\:font\:green\:30\%:hover { --font-color: rgb(var(--green-rgb), 0.3); }
+
+    /* art::font:green:40% */
+    .art\:\:font\:green\:40\%:hover { --font-color: rgb(var(--green-rgb), 0.4); }
+
+    /* art::font:green:50% */
+    .art\:\:font\:green\:50\%:hover { --font-color: rgb(var(--green-rgb), 0.5); }
+
+    /* art::font:purple-01 */
+    .art\:\:font\:purple-01:hover { --font-color: var(--purple-01); }
+
+    /* art::font:purple-02 */
+    .art\:\:font\:purple-02:hover { --font-color: var(--purple-02); }
+
+    /* art::font:purple-03 */
+    .art\:\:font\:purple-03:hover { --font-color: var(--purple-03); }
+
+    /* art::font:purple-04 */
+    .art\:\:font\:purple-04:hover { --font-color: var(--purple-04); }
+
+    /* art::font:purple:10% */
+    .art\:\:font\:purple\:10\%:hover { --font-color: rgb(var(--purple-rgb), 0.1); }
+
+    /* art::font:purple:20% */
+    .art\:\:font\:purple\:20\%:hover { --font-color: rgb(var(--purple-rgb), 0.2); }
+
+    /* art::font:purple:30% */
+    .art\:\:font\:purple\:30\%:hover { --font-color: rgb(var(--purple-rgb), 0.3); }
+
+    /* art::font:purple:40% */
+    .art\:\:font\:purple\:40\%:hover { --font-color: rgb(var(--purple-rgb), 0.4); }
+
+    /* art::font:purple:50% */
+    .art\:\:font\:purple\:50\%:hover { --font-color: rgb(var(--purple-rgb), 0.5); }
+}

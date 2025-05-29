@@ -1,0 +1,133 @@
+@layer  border-style {
+    
+    /* art:border:none */
+    .art\:border\:none {
+        --border-top-style: none;
+        --border-bottom-style: none;
+        --border-left-style: none;
+        --border-right-style: none;
+    }
+
+    /* art:border:solid */
+    .art\:border\:solid {
+        --border-top-style: solid;
+        --border-bottom-style: solid;
+        --border-left-style: solid;
+        --border-right-style: solid;
+    }
+
+    /* art:border-t:solid */
+    .art\:border-t\:solid {
+        --border-top-style: solid;
+        --border-bottom-style: none;
+        --border-left-style: none;
+        --border-right-style: none;
+    }
+
+    /* art:border-b:solid */
+    .art\:border-b\:solid {
+        --border-bottom-style: solid;
+        --border-left-style: none;
+        --border-right-style: none;
+        --border-top-style: none;
+    }
+
+    /* art:border-l:solid */
+    .art\:border-l\:solid {
+        --border-left-style: solid;
+        --border-right-style: none;
+        --border-top-style: none;
+        --border-bottom-style: none;
+    }
+
+    /* art:border-r:solid */
+    .art\:border-r\:solid {
+        --border-right-style: solid;
+        --border-left-style: none;
+        --border-top-style: none;
+        --border-bottom-style: none;
+    }
+
+    /* art:border-x:solid */
+    .art\:border-x\:solid {
+        --border-right-style: solid;
+        --border-left-style: solid;
+        --border-top-style: none;
+        --border-bottom-style: none;
+    }
+
+    /* art:border-y:solid */
+    .art\:border-y\:solid {
+        --border-top-style: solid;
+        --border-bottom-style: solid;
+        --border-left-style: none;
+        --border-right-style: none;
+    }
+}
+
+@layer  border-style-hover {
+
+    /* art::border:none */
+    .art\:border\:none:hover {
+        --border-top-style: none;
+        --border-bottom-style: none;
+        --border-left-style: none;
+        --border-right-style: none;
+    }
+
+    /* art::border:solid */
+    .art\:\:border\:solid:hover {
+        --border-top-style: solid;
+        --border-bottom-style: solid;
+        --border-left-style: solid;
+        --border-right-style: solid;
+    }
+
+    /* art:border-t::solid */
+    .art\:border-t\:\:\:solid:hover {
+        --border-top-style: solid;
+        --border-bottom-style: none;
+        --border-left-style: none;
+        --border-right-style: none;
+    }
+
+    /* art:border-b::solid */
+    .art\:border-b\:\:solid:hover {
+        --border-bottom-style: solid;
+        --border-left-style: none;
+        --border-right-style: none;
+        --border-top-style: none;
+    }
+
+    /* art:border-l::solid */
+    .art\:border-l\:\:solid:hover {
+        --border-left-style: solid;
+        --border-right-style: none;
+        --border-top-style: none;
+        --border-bottom-style: none;
+    }
+
+    /* art:border-r::solid */
+    .art\:border-r\:\:solid:hover {
+        --border-right-style: solid;
+        --border-left-style: none;
+        --border-top-style: none;
+        --border-bottom-style: none;
+    }
+
+    /* art:border-x::solid */
+    .art\:border-x\:\:solid:hover {
+        --border-right-style: solid;
+        --border-left-style: solid;
+        --border-top-style: none;
+        --border-bottom-style: none;
+    }
+
+    /* art:border-y::solid */
+    .art\:border-y\:\:solid:hover {
+        --border-top-style: solid;
+        --border-bottom-style: solid;
+        --border-left-style: none;
+        --border-right-style: none;
+    }
+}

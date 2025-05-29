@@ -1,0 +1,7 @@
+@layer input {
+
+    input {
+        border: none;
+        outline: none;
+    }
+}
