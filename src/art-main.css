@@ -157,7 +157,7 @@
     background: var(--bg-color);
 }
 
-:where([class*="art:border"], [class*="art:hover:border"]),[class*="art:border"], [class*="art:hover:border"] {
+:where([class*="art:border"], [class*="art:border-"]) { /*, [class*="art:border::"] */
 
     border-width: var(--border-width);
 
@@ -169,6 +169,8 @@
 
     border-collapse: var(--border-collapse-default);
     border-spacing: var(--border-spacing-default);
+
+    border-radius: var(--border-radius);
 }
 
 :where([class*="art:font:"], [class*="art:font::"], [class*="art:no-dark:font:"]), [class*="art:font:"], [class*="art:hover:font:"], [class*="art:no-dark:font:"] {
