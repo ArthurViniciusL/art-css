@@ -1,18 +1,21 @@
 # Ignorar arquivos e diretórios específicos // git rm --cached src/styles/art-css
 index.html
-compile.py
-art-css.css
+#compile.py
+#art-css.css
 
 # Ignorar todo o conteúdo da pasta src
-src/
+#/src/
 
 # Ignorar pastas e arquivos criados pelo VS Code
-.vscode/
+#.vscode/
 
 # Ignorar arquivos de compilação e dependências
-node_modules/
-dist/
+#node_modules/
+#dist/
 build/
+
+.idea
+src
 
 # Ignorar logs e arquivos temporários
 *.log
