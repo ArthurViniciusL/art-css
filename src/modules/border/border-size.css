@@ -1,97 +1,95 @@
-@layer border-width {
+/* =============================================== border-width =============================================== */
 
-    /* art:border:thin */
-    .art\:border\:thin {
-        --border-width: var(--thin);
-    }
-
-    /* art:border:sm */
-    .art\:border\:sm {
-        --border-width: var(--sm);
-    }
-
-    /* art:border:base */
-    .art\:border\:base {
-        --border-width: var(--base);
-    }
-
-    /* art:border:lg */
-    .art\:border\:lg {
-        --border-width: var(--lg) var(--lg) var(--lg) var(--lg);
-    }
-
-    /* art:border:xl */
-    .art\:border\:xl {
-        --border-width: var(--xl);
-    }
-
-    /* art:border:2xl */
-    .art\:border\:2xl {
-        --border-width: var(--_2xl);
-    }
-
-    /* art:border:3xl */
-    .art\:border\:3xl {
-        --border-width: var(--_3xl);
-    }
-
-    /* art:border:4xl */
-    .art\:border\:4xl {
-        --border-width: var(--_4xl);
-    }
-
-    /* art:border:5xl */
-    .art\:border\:5xl {
-        --border-width: var(--_5xl);
-    }
+/* art:border:thin */
+.art\:border\:thin {
+    --border-width: var(--thin);
 }
 
-@layer border-width-hover {
+/* art:border:sm */
+.art\:border\:sm {
+    --border-width: var(--sm);
+}
 
-    /* art::border:thin */
-    .art\:\:border\:thin:hover {
-        --border-width: var(--thin);
-    }
+/* art:border:base */
+.art\:border\:base {
+    --border-width: var(--base);
+}
 
-    /* art::border:sm */
-    .art\:\:border\:sm:hover {
-        --border-width: var(--sm);
-    }
+/* art:border:lg */
+.art\:border\:lg {
+    --border-width: var(--lg) var(--lg) var(--lg) var(--lg);
+}
 
-    /* art::border:base */
-    .art\:\:border\:base:hover {
+/* art:border:xl */
+.art\:border\:xl {
+    --border-width: var(--xl);
+}
 
-        --border-width: var(--base);
-    }
+/* art:border:2xl */
+.art\:border\:2xl {
+    --border-width: var(--_2xl);
+}
 
-    /* art::border:lg */
-    .art\:\:border\:lg:hover {
-        --border-width: var(--lg);
-    }
+/* art:border:3xl */
+.art\:border\:3xl {
+    --border-width: var(--_3xl);
+}
 
-    /* art::border:xl */
-    .art\:\:border\:xl:hover {
+/* art:border:4xl */
+.art\:border\:4xl {
+    --border-width: var(--_4xl);
+}
 
-        --border-width: var(--xl);
-    }
+/* art:border:5xl */
+.art\:border\:5xl {
+    --border-width: var(--_5xl);
+}
 
-    /* art::border:2xl */
-    .art\:\:border\:2xl:hover {
-        --border-width: var(--_2xl);
-    }
+/* =============================================== border-width-hover =============================================== */
 
-    /* art::border:3xl */
-    .art\:\:border\:3xl:hover {
-        --border-width: var(--_3xl);
-    }
+/* art::border:thin */
+.art\:\:border\:thin:hover {
+    --border-width: var(--thin);
+}
 
-    /* art::border:4xl */
-    .art\:\:border\:4xl:hover {
-        --border-width: var(--_4xl);
-    }
+/* art::border:sm */
+.art\:\:border\:sm:hover {
+    --border-width: var(--sm);
+}
 
-    /* art::border:5xl */
-    .art\:\:border\:5xl:hover {
-        --border-width: var(--_5xl);
-    }
+/* art::border:base */
+.art\:\:border\:base:hover {
+
+    --border-width: var(--base);
+}
+
+/* art::border:lg */
+.art\:\:border\:lg:hover {
+    --border-width: var(--lg);
+}
+
+/* art::border:xl */
+.art\:\:border\:xl:hover {
+
+    --border-width: var(--xl);
+}
+
+/* art::border:2xl */
+.art\:\:border\:2xl:hover {
+    --border-width: var(--_2xl);
+}
+
+/* art::border:3xl */
+.art\:\:border\:3xl:hover {
+    --border-width: var(--_3xl);
+}
+
+/* art::border:4xl */
+.art\:\:border\:4xl:hover {
+    --border-width: var(--_4xl);
+}
+
+/* art::border:5xl */
+.art\:\:border\:5xl:hover {
+    --border-width: var(--_5xl);
 }

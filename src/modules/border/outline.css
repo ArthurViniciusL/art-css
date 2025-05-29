@@ -1,11 +1,11 @@
-@layer outline-style {
-    /* art:outline */
-    .art\:outline\:none {
-        outline: none;
-    }
+/* =============================================== outline-style =============================================== */
 
-    /* art::outline */
-    .art\:\:outline\:none:hover {
-        outline: none;
-    }
+/* art:outline */
+.art\:outline\:none {
+    outline: none;
+}
+
+/* art::outline */
+.art\:\:outline\:none:hover {
+    outline: none;
 }
