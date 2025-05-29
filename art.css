@@ -2701,76 +2701,76 @@ a {
 .art\:gap\:5xl {
     gap: var(--_5xl);
 }
-/* =============================================== justifx =============================================== */
+/* =============================================== justify =============================================== */
 
 /* art:x-content:start */
 .art\:x-content\:start {
-    justifx-content: flex-start;
+    justify-content: flex-start;
 }
 
 /* art:x-content:end */
 .art\:x-content\:end {
-    justifx-content: flex-end;
+    justify-content: flex-end;
 }
 
 /* art:x-content:center */
 .art\:x-content\:center {
-    justifx-content: center;
+    justify-content: center;
 }
 
 /* art:x-content:left */
 .art\:x-content\:left {
-    justifx-content: left;
+    justify-content: left;
 }
 
 /* art:x-content:right */
 .art\:x-content\:right {
-    justifx-content: right;
+    justify-content: right;
 }
 
 /* art:x-content:between */
 .art\:x-content\:between {
-    justifx-content: space-between;
+    justify-content: space-between;
 }
 
 /* art:x-content:around */
 .art\:x-content\:around {
-    justifx-content: space-around;
+    justify-content: space-around;
 }
 
 /* art:x-content:evenly */
 .art\:x-content\:evenly {
-    justifx-content: space-evenly;
+    justify-content: space-evenly;
 }
 
 /* art:x-items:start */
 .art\:x-items\:start {
-    justifx-items: start;
+    justify-items: start;
 }
 
 /* art:x-items:end */
 .art\:x-items\:end {
-    justifx-items: end;
+    justify-items: end;
 }
 
 /* art:x-items:center */
 .art\:x-items\:center {
-    justifx-items: center;
+    justify-items: center;
 }
 
 /* art:x-items:stretch */
 .art\:x-items\:stretch {
-    justifx-items: stretch;
+    justify-items: stretch;
 }
 
 /* art:x-items:left */
 .art\:x-items\:left {
-    justifx-items: left;
+    justify-items: left;
 }
 
 /* art:x-items:right */
 .art\:x-items\:right {
-    justifx-items: right;
+    justify-items: right;
 }
 /* =============================================== position =============================================== */
 
