@@ -17,6 +17,10 @@ build/
 .idea
 src
 
+art-css.css
+compile.py
+index.html
+
 # Ignorar logs e arquivos temporários
 *.log
 *.tmp
