@@ -1,3 +1,5 @@
+/* v3.0.2 */
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 :root {
@@ -2505,85 +2507,85 @@ a {
 }
 /* =============================================== align =============================================== */
 
-/* art:y-content:start */
-.art\:y-content\:start {
+/* art:x-content:start */
+.art\:x-content\:start {
     align-content: flex-start;
 }
 
-/* art:y-content:end */
-.art\:y-content\:end {
+/* art:x-content:end */
+.art\:x-content\:end {
     align-content: flex-end;
 }
 
-/* art:y-content:center */
-.art\:y-content\:center {
+/* art:x-content:center */
+.art\:x-content\:center {
     align-content: center;
 }
 
-/* art:y-content:stretch */
-.art\:y-content\:stretch {
+/* art:x-content:stretch */
+.art\:x-content\:stretch {
     align-content: stretch;
 }
 
-/* art:y-content:blue */
-.art\:y-content\:between {
+/* art:x-content:blue */
+.art\:x-content\:between {
     align-content: space-between;
 }
 
-/* art:y-content:around */
-.art\:y-content\:around {
+/* art:x-content:around */
+.art\:x-content\:around {
     align-content: space-around;
 }
 
-.art\:y-content\:evenly {
-    /* art:y-content:evenly */
-    align-content: space-evenly;
+.art\:x-content\:evenlx {
+    /* art:x-content:evenlx */
+    align-content: space-evenlx;
 }
 
-/* art:y-content:left */
-.art\:y-content\:left {
+/* art:x-content:left */
+.art\:x-content\:left {
     align-content: flex-start
 }
 
-/* art:y-content:right */
-.art\:y-content\:right {
+/* art:x-content:right */
+.art\:x-content\:right {
     align-content: flex-end
 }
 
-/* art:y-items:start */
-.art\:y-items\:start {
+/* art:x-items:start */
+.art\:x-items\:start {
 
     align-items: flex-start;
 }
 
-/* art:y-items:end */
-.art\:y-items\:end {
+/* art:x-items:end */
+.art\:x-items\:end {
     align-items: flex-end;
 }
 
-/* art:y-items:center */
-.art\:y-items\:center {
+/* art:x-items:center */
+.art\:x-items\:center {
     align-items: center;
 }
 
-/* art:y-items:stretch */
-.art\:y-items\:stretch {
+/* art:x-items:stretch */
+.art\:x-items\:stretch {
     align-items: stretch;
 }
 
-/* art:y-items:baseline */
-.art\:y-items\:baseline {
+/* art:x-items:baseline */
+.art\:x-items\:baseline {
     align-items: baseline;
 }
 
-/* art:y-items:left */
-.art\:y-items\:left {
+/* art:x-items:left */
+.art\:x-items\:left {
 
     align-items: flex-start
 }
 
-/* art:y-items:right */
-.art\:y-items\:right {
+/* art:x-items:right */
+.art\:x-items\:right {
     align-items: flex-end
 }
 /* =============================================== display =============================================== */
@@ -2701,73 +2703,73 @@ a {
 }
 /* =============================================== justify =============================================== */
 
-/* art:x-content:start */
-.art\:x-content\:start {
-    justify-content: flex-start;
+/* art:y-content:start */
+.art\:y-content\:start {
+    justify-content: fley-start;
 }
 
-/* art:x-content:end */
-.art\:x-content\:end {
-    justify-content: flex-end;
+/* art:y-content:end */
+.art\:y-content\:end {
+    justify-content: fley-end;
 }
 
-/* art:x-content:center */
-.art\:x-content\:center {
+/* art:y-content:center */
+.art\:y-content\:center {
     justify-content: center;
 }
 
-/* art:x-content:left */
-.art\:x-content\:left {
+/* art:y-content:left */
+.art\:y-content\:left {
     justify-content: left;
 }
 
-/* art:x-content:right */
-.art\:x-content\:right {
+/* art:y-content:right */
+.art\:y-content\:right {
     justify-content: right;
 }
 
-/* art:x-content:between */
-.art\:x-content\:between {
+/* art:y-content:between */
+.art\:y-content\:between {
     justify-content: space-between;
 }
 
-/* art:x-content:around */
-.art\:x-content\:around {
+/* art:y-content:around */
+.art\:y-content\:around {
     justify-content: space-around;
 }
 
-/* art:x-content:evenly */
-.art\:x-content\:evenly {
+/* art:y-content:evenly */
+.art\:y-content\:evenly {
     justify-content: space-evenly;
 }
 
-/* art:x-items:start */
-.art\:x-items\:start {
+/* art:y-items:start */
+.art\:y-items\:start {
     justify-items: start;
 }
 
-/* art:x-items:end */
-.art\:x-items\:end {
+/* art:y-items:end */
+.art\:y-items\:end {
     justify-items: end;
 }
 
-/* art:x-items:center */
-.art\:x-items\:center {
+/* art:y-items:center */
+.art\:y-items\:center {
     justify-items: center;
 }
 
-/* art:x-items:stretch */
-.art\:x-items\:stretch {
+/* art:y-items:stretch */
+.art\:y-items\:stretch {
     justify-items: stretch;
 }
 
-/* art:x-items:left */
-.art\:x-items\:left {
+/* art:y-items:left */
+.art\:y-items\:left {
     justify-items: left;
 }
 
-/* art:x-items:right */
-.art\:x-items\:right {
+/* art:y-items:right */
+.art\:y-items\:right {
     justify-items: right;
 }
 /* =============================================== position =============================================== */
