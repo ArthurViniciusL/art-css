@@ -2395,7 +2395,7 @@ button:hover {
     height: fit-content;
     cursor: pointer;
     padding: var(--sm);
-    border-radius: var(--sm);
+    border-radius: var(--base);
     background: var(--white-02);
 
     &:hover {
