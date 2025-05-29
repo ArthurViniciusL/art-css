@@ -1,83 +1,83 @@
 /* =============================================== align =============================================== */
 
-/* art:x-content:start */
-.art\:x-content\:start {
+/* art:y-content:start */
+.art\:y-content\:start {
     align-content: flex-start;
 }
 
-/* art:x-content:end */
-.art\:x-content\:end {
+/* art:y-content:end */
+.art\:y-content\:end {
     align-content: flex-end;
 }
 
-/* art:x-content:center */
-.art\:x-content\:center {
+/* art:y-content:center */
+.art\:y-content\:center {
     align-content: center;
 }
 
-/* art:x-content:stretch */
-.art\:x-content\:stretch {
+/* art:y-content:stretch */
+.art\:y-content\:stretch {
     align-content: stretch;
 }
 
-/* art:x-content:blue */
-.art\:x-content\:between {
+/* art:y-content:blue */
+.art\:y-content\:between {
     align-content: space-between;
 }
 
-/* art:x-content:around */
-.art\:x-content\:around {
+/* art:y-content:around */
+.art\:y-content\:around {
     align-content: space-around;
 }
 
-.art\:x-content\:evenlx {
-    /* art:x-content:evenlx */
-    align-content: space-evenlx;
+.art\:y-content\:evenly {
+    /* art:y-content:evenly */
+    align-content: space-evenly;
 }
 
-/* art:x-content:left */
-.art\:x-content\:left {
+/* art:y-content:left */
+.art\:y-content\:left {
     align-content: flex-start
 }
 
-/* art:x-content:right */
-.art\:x-content\:right {
+/* art:y-content:right */
+.art\:y-content\:right {
     align-content: flex-end
 }
 
-/* art:x-items:start */
-.art\:x-items\:start {
+/* art:y-items:start */
+.art\:y-items\:start {
 
     align-items: flex-start;
 }
 
-/* art:x-items:end */
-.art\:x-items\:end {
+/* art:y-items:end */
+.art\:y-items\:end {
     align-items: flex-end;
 }
 
-/* art:x-items:center */
-.art\:x-items\:center {
+/* art:y-items:center */
+.art\:y-items\:center {
     align-items: center;
 }
 
-/* art:x-items:stretch */
-.art\:x-items\:stretch {
+/* art:y-items:stretch */
+.art\:y-items\:stretch {
     align-items: stretch;
 }
 
-/* art:x-items:baseline */
-.art\:x-items\:baseline {
+/* art:y-items:baseline */
+.art\:y-items\:baseline {
     align-items: baseline;
 }
 
-/* art:x-items:left */
-.art\:x-items\:left {
+/* art:y-items:left */
+.art\:y-items\:left {
 
-    align-items: flex-start
+    align-items: flex-start;
 }
 
-/* art:x-items:right */
-.art\:x-items\:right {
-    align-items: flex-end
+/* art:y-items:right */
+.art\:y-items\:right {
+    align-items: flex-end;
 }
