@@ -5,30 +5,18 @@ import os
 
 background = [
     'src/modules/background/bg.css',
+    'src/modules/background/bg-no-dark.css',
 ]
 
 border = [
-    'src/modules/border/b-size.css',
-    'src/modules/border/b-color.css',
-    'src/modules/border/b-hover.css',
-    'src/modules/border/b-radius.css',
-    'src/modules/border/b-style.css'
+    'src/modules/border/border-size.css',
+    'src/modules/border/border-color.css',
+    'src/modules/border/border-radius.css',
+    'src/modules/border/border-style.css'
 ]
 
 cursor = [
     'src/modules/cursor/cursor.css'
-]
-
-direction = [
-    'src/modules/direction/bottom.css',
-    'src/modules/direction/left.css',
-    'src/modules/direction/right.css',
-    'src/modules/direction/top.css',
-]
-
-views = [
-    'src/modules/views/height.css',
-    'src/modules/views/width.css',    
 ]
 
 elements_html = [
@@ -46,47 +34,48 @@ flex_box = [
     'src/modules/flex-box/justify.css'
 ]
 
-margin = [
-    'src/modules/margin/margin.css'
-]
 
-no_dark = [
-    'src/modules/no-dark/bg-no-dark.css',
-    'src/modules/no-dark/font-no-dark.css',
-    'src/modules/no-dark/hover-no-dark.css'
+layout = [
+   'src/modules/layout/sides/bottom.css',
+   'src/modules/layout/sides/left.css',
+   'src/modules/layout/sides/right.css',
+   'src/modules/layout/sides/top.css',
+   'src/modules/layout/position.css',
 ]
 
 overflow = [
     'src/modules/overflow/overflow.css'
 ]
 
-padding = [
-    'src/modules/padding/padding.css'
+sizes = [
+    'src/modules/sizes/height.css',
+    'src/modules/sizes/width.css',
 ]
 
-
-position = [
-    'src/modules/position/position.css'
+spacing = [
+    'src/modules/spacing/margin.css',
+    'src/modules/spacing/padding.css'
 ]
 
 transition = [
-    'src/modules/transition/ease-in-out.css',
-    'src/modules/transition/ease-in.css',
-    'src/modules/transition/ease-out.css',
-    'src/modules/transition/ease.css',
+    'src/modules/transition/ease/ease.css',
+    'src/modules/transition/ease/ease-in.css',
+    'src/modules/transition/ease/ease-in-out.css',
+    'src/modules/transition/ease/ease-out.css'
 ]
 
 typography = [
     'src/modules/typography/color.css',
+    'src/modules/typography/color-no-dark.css',
     'src/modules/typography/font-decoration.css',
     'src/modules/typography/font-size.css',
     'src/modules/typography/font-transform.css',
     'src/modules/typography/font-weight.css'
 ]
 
-modules = [background]
+#modules = [background, border, cursor]
 
-directories = ['src/art-main.css'] + background + border + cursor + direction + views + elements_html + flex_box + typography + margin + no_dark + overflow + padding + position + transition
+directories = ['src/art-main.css'] + background + border + cursor + elements_html + flex_box + layout + overflow + sizes + spacing + transition + typography
     
 file_content = [];
 

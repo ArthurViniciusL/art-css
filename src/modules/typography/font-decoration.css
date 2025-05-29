@@ -6,7 +6,7 @@
 
 @layer font-decoration-hover {
 
-    /* art:hover:underline */
-    .art\:hover\:underline:hover { --txt-decoration: underline; }
+    /* art::underline */
+    .art\:\:underline:hover { --txt-decoration: underline; }
 
 }

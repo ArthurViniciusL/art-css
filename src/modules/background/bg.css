@@ -136,135 +136,135 @@
     /* Base styles for all hover background classes */
 
     /* None/Transparent */
-    .art\:hover\:bg\:none:hover {
+    .art\:\:bg\:none:hover {
         --bg-color: transparent;
     }
 
     /* Black */
-    .art\:hover\:bg\:black-01:hover { --bg-color: var(--black-01); }
-    .art\:hover\:bg\:black-02:hover { --bg-color: var(--black-02); }
-    .art\:hover\:bg\:black-03:hover { --bg-color: var(--black-03); }
-    .art\:hover\:bg\:black-04:hover { --bg-color: var(--black-04); }
-    
-    .art\:hover\:bg\:black\:10\%:hover { --bg-color: rgb(var(--black-rgb), 0.1); }
-    .art\:hover\:bg\:black\:20\%:hover { --bg-color: rgb(var(--black-rgb), 0.2); }
-    .art\:hover\:bg\:black\:30\%:hover { --bg-color: rgb(var(--black-rgb), 0.3); }
-    .art\:hover\:bg\:black\:40\%:hover { --bg-color: rgb(var(--black-rgb), 0.4); }
-    .art\:hover\:bg\:black\:50\%:hover { --bg-color: rgb(var(--black-rgb), 0.5); }
-    .art\:hover\:bg\:black\:60\%:hover { --bg-color: rgba(var(--black-rgb), 0.6); }
-    .art\:hover\:bg\:black\:70\%:hover { --bg-color: rgba(var(--black-rgb), 0.7); }
-    .art\:hover\:bg\:black\:80\%:hover { --bg-color: rgba(var(--black-rgb), 0.8); }
-    .art\:hover\:bg\:black\:90\%:hover { --bg-color: rgba(var(--black-rgb), 0.9); }
+    .art\:\:bg\:black-01:hover { --bg-color: var(--black-01); }
+    .art\:\:bg\:black-02:hover { --bg-color: var(--black-02); }
+    .art\:\:bg\:black-03:hover { --bg-color: var(--black-03); }
+    .art\:\:bg\:black-04:hover { --bg-color: var(--black-04); }
+
+    .art\:\:bg\:black\:10\%:hover { --bg-color: rgb(var(--black-rgb), 0.1); }
+    .art\:\:bg\:black\:20\%:hover { --bg-color: rgb(var(--black-rgb), 0.2); }
+    .art\:\:bg\:black\:30\%:hover { --bg-color: rgb(var(--black-rgb), 0.3); }
+    .art\:\:bg\:black\:40\%:hover { --bg-color: rgb(var(--black-rgb), 0.4); }
+    .art\:\:bg\:black\:50\%:hover { --bg-color: rgb(var(--black-rgb), 0.5); }
+    .art\:\:bg\:black\:60\%:hover { --bg-color: rgba(var(--black-rgb), 0.6); }
+    .art\:\:bg\:black\:70\%:hover { --bg-color: rgba(var(--black-rgb), 0.7); }
+    .art\:\:bg\:black\:80\%:hover { --bg-color: rgba(var(--black-rgb), 0.8); }
+    .art\:\:bg\:black\:90\%:hover { --bg-color: rgba(var(--black-rgb), 0.9); }
 
     /* White */
-    .art\:hover\:bg\:white-01:hover { --bg-color: var(--white-01); }
-    .art\:hover\:bg\:white-02:hover { --bg-color: var(--white-02); }
-    .art\:hover\:bg\:white-03:hover { --bg-color: var(--white-03); }
-    .art\:hover\:bg\:white-04:hover { --bg-color: var(--white-04); }
-    
-    .art\:hover\:bg\:white\:10\%:hover { --bg-color: rgb(var(--white-rgb), 0.1); }
-    .art\:hover\:bg\:white\:20\%:hover { --bg-color: rgb(var(--white-rgb), 0.2); }
-    .art\:hover\:bg\:white\:30\%:hover { --bg-color: rgb(var(--white-rgb), 0.3); }
-    .art\:hover\:bg\:white\:40\%:hover { --bg-color: rgb(var(--white-rgb), 0.4); }
-    .art\:hover\:bg\:white\:50\%:hover { --bg-color: rgb(var(--white-rgb), 0.5); }
-    .art\:hover\:bg\:white\:60\%:hover { --bg-color: rgba(var(--white-rgb), 0.6); }
-    .art\:hover\:bg\:white\:70\%:hover { --bg-color: rgba(var(--white-rgb), 0.7); }
-    .art\:hover\:bg\:white\:80\%:hover { --bg-color: rgba(var(--white-rgb), 0.8); }
-    .art\:hover\:bg\:white\:90\%:hover { --bg-color: rgba(var(--white-rgb), 0.9); }
+    .art\:\:bg\:white-01:hover { --bg-color: var(--white-01); }
+    .art\:\:bg\:white-02:hover { --bg-color: var(--white-02); }
+    .art\:\:bg\:white-03:hover { --bg-color: var(--white-03); }
+    .art\:\:bg\:white-04:hover { --bg-color: var(--white-04); }
+
+    .art\:\:bg\:white\:10\%:hover { --bg-color: rgb(var(--white-rgb), 0.1); }
+    .art\:\:bg\:white\:20\%:hover { --bg-color: rgb(var(--white-rgb), 0.2); }
+    .art\:\:bg\:white\:30\%:hover { --bg-color: rgb(var(--white-rgb), 0.3); }
+    .art\:\:bg\:white\:40\%:hover { --bg-color: rgb(var(--white-rgb), 0.4); }
+    .art\:\:bg\:white\:50\%:hover { --bg-color: rgb(var(--white-rgb), 0.5); }
+    .art\:\:bg\:white\:60\%:hover { --bg-color: rgba(var(--white-rgb), 0.6); }
+    .art\:\:bg\:white\:70\%:hover { --bg-color: rgba(var(--white-rgb), 0.7); }
+    .art\:\:bg\:white\:80\%:hover { --bg-color: rgba(var(--white-rgb), 0.8); }
+    .art\:\:bg\:white\:90\%:hover { --bg-color: rgba(var(--white-rgb), 0.9); }
 
     /* Yellow */
-    .art\:hover\:bg\:yellow-01:hover { --bg-color: var(--yellow-01); }
-    .art\:hover\:bg\:yellow-02:hover { --bg-color: var(--yellow-02); }
-    .art\:hover\:bg\:yellow-03:hover { --bg-color: var(--yellow-03); }
-    .art\:hover\:bg\:yellow-04:hover { --bg-color: var(--yellow-04); }
-    
-    .art\:hover\:bg\:yellow\:10\%:hover { --bg-color: rgb(var(--yellow-rgb), 0.1); }
-    .art\:hover\:bg\:yellow\:20\%:hover { --bg-color: rgb(var(--yellow-rgb), 0.2); }
-    .art\:hover\:bg\:yellow\:30\%:hover { --bg-color: rgb(var(--yellow-rgb), 0.3); }
-    .art\:hover\:bg\:yellow\:40\%:hover { --bg-color: rgb(var(--yellow-rgb), 0.4); }
-    .art\:hover\:bg\:yellow\:50\%:hover { --bg-color: rgb(var(--yellow-rgb), 0.5); }
-    .art\:hover\:bg\:yellow\:60\%:hover { --bg-color: rgba(var(--yellow-rgb), 0.6); }
-    .art\:hover\:bg\:yellow\:70\%:hover { --bg-color: rgba(var(--yellow-rgb), 0.7); }
-    .art\:hover\:bg\:yellow\:80\%:hover { --bg-color: rgba(var(--yellow-rgb), 0.8); }
-    .art\:hover\:bg\:yellow\:90\%:hover { --bg-color: rgba(var(--yellow-rgb), 0.9); }
+    .art\:\:bg\:yellow-01:hover { --bg-color: var(--yellow-01); }
+    .art\:\:bg\:yellow-02:hover { --bg-color: var(--yellow-02); }
+    .art\:\:bg\:yellow-03:hover { --bg-color: var(--yellow-03); }
+    .art\:\:bg\:yellow-04:hover { --bg-color: var(--yellow-04); }
+
+    .art\:\:bg\:yellow\:10\%:hover { --bg-color: rgb(var(--yellow-rgb), 0.1); }
+    .art\:\:bg\:yellow\:20\%:hover { --bg-color: rgb(var(--yellow-rgb), 0.2); }
+    .art\:\:bg\:yellow\:30\%:hover { --bg-color: rgb(var(--yellow-rgb), 0.3); }
+    .art\:\:bg\:yellow\:40\%:hover { --bg-color: rgb(var(--yellow-rgb), 0.4); }
+    .art\:\:bg\:yellow\:50\%:hover { --bg-color: rgb(var(--yellow-rgb), 0.5); }
+    .art\:\:bg\:yellow\:60\%:hover { --bg-color: rgba(var(--yellow-rgb), 0.6); }
+    .art\:\:bg\:yellow\:70\%:hover { --bg-color: rgba(var(--yellow-rgb), 0.7); }
+    .art\:\:bg\:yellow\:80\%:hover { --bg-color: rgba(var(--yellow-rgb), 0.8); }
+    .art\:\:bg\:yellow\:90\%:hover { --bg-color: rgba(var(--yellow-rgb), 0.9); }
 
     /* Orange */
-    .art\:hover\:bg\:orange-01:hover { --bg-color: var(--orange-01); }
-    .art\:hover\:bg\:orange-02:hover { --bg-color: var(--orange-02); }
-    .art\:hover\:bg\:orange-03:hover { --bg-color: var(--orange-03); }
-    .art\:hover\:bg\:orange-04:hover { --bg-color: var(--orange-04); }
-    
-    .art\:hover\:bg\:orange\:10\%:hover { --bg-color: rgb(var(--orange-rgb), 0.1); }
-    .art\:hover\:bg\:orange\:20\%:hover { --bg-color: rgb(var(--orange-rgb), 0.2); }
-    .art\:hover\:bg\:orange\:30\%:hover { --bg-color: rgb(var(--orange-rgb), 0.3); }
-    .art\:hover\:bg\:orange\:40\%:hover { --bg-color: rgb(var(--orange-rgb), 0.4); }
-    .art\:hover\:bg\:orange\:50\%:hover { --bg-color: rgb(var(--orange-rgb), 0.5); }
-    .art\:hover\:bg\:orange\:60\%:hover { --bg-color: rgba(var(--orange-rgb), 0.6); }
-    .art\:hover\:bg\:orange\:70\%:hover { --bg-color: rgba(var(--orange-rgb), 0.7); }
-    .art\:hover\:bg\:orange\:80\%:hover { --bg-color: rgba(var(--orange-rgb), 0.8); }
-    .art\:hover\:bg\:orange\:90\%:hover { --bg-color: rgba(var(--orange-rgb), 0.9); }
+    .art\:\:bg\:orange-01:hover { --bg-color: var(--orange-01); }
+    .art\:\:bg\:orange-02:hover { --bg-color: var(--orange-02); }
+    .art\:\:bg\:orange-03:hover { --bg-color: var(--orange-03); }
+    .art\:\:bg\:orange-04:hover { --bg-color: var(--orange-04); }
+
+    .art\:\:bg\:orange\:10\%:hover { --bg-color: rgb(var(--orange-rgb), 0.1); }
+    .art\:\:bg\:orange\:20\%:hover { --bg-color: rgb(var(--orange-rgb), 0.2); }
+    .art\:\:bg\:orange\:30\%:hover { --bg-color: rgb(var(--orange-rgb), 0.3); }
+    .art\:\:bg\:orange\:40\%:hover { --bg-color: rgb(var(--orange-rgb), 0.4); }
+    .art\:\:bg\:orange\:50\%:hover { --bg-color: rgb(var(--orange-rgb), 0.5); }
+    .art\:\:bg\:orange\:60\%:hover { --bg-color: rgba(var(--orange-rgb), 0.6); }
+    .art\:\:bg\:orange\:70\%:hover { --bg-color: rgba(var(--orange-rgb), 0.7); }
+    .art\:\:bg\:orange\:80\%:hover { --bg-color: rgba(var(--orange-rgb), 0.8); }
+    .art\:\:bg\:orange\:90\%:hover { --bg-color: rgba(var(--orange-rgb), 0.9); }
 
     /* Red */
-    .art\:hover\:bg\:red-01:hover { --bg-color: var(--red-01); }
-    .art\:hover\:bg\:red-02:hover { --bg-color: var(--red-02); }
-    .art\:hover\:bg\:red-03:hover { --bg-color: var(--red-03); }
-    .art\:hover\:bg\:red-04:hover { --bg-color: var(--red-04); }
-    
-    .art\:hover\:bg\:red\:10\%:hover { --bg-color: rgb(var(--red-rgb), 0.1); }
-    .art\:hover\:bg\:red\:20\%:hover { --bg-color: rgb(var(--red-rgb), 0.2); }
-    .art\:hover\:bg\:red\:30\%:hover { --bg-color: rgb(var(--red-rgb), 0.3); }
-    .art\:hover\:bg\:red\:40\%:hover { --bg-color: rgb(var(--red-rgb), 0.4); }
-    .art\:hover\:bg\:red\:50\%:hover { --bg-color: rgb(var(--red-rgb), 0.5); }
-    .art\:hover\:bg\:red\:60\%:hover { --bg-color: rgba(var(--red-rgb), 0.6); }
-    .art\:hover\:bg\:red\:70\%:hover { --bg-color: rgba(var(--red-rgb), 0.7); }
-    .art\:hover\:bg\:red\:80\%:hover { --bg-color: rgba(var(--red-rgb), 0.8); }
-    .art\:hover\:bg\:red\:90\%:hover { --bg-color: rgba(var(--red-rgb), 0.9); }
+    .art\:\:bg\:red-01:hover { --bg-color: var(--red-01); }
+    .art\:\:bg\:red-02:hover { --bg-color: var(--red-02); }
+    .art\:\:bg\:red-03:hover { --bg-color: var(--red-03); }
+    .art\:\:bg\:red-04:hover { --bg-color: var(--red-04); }
+
+    .art\:\:bg\:red\:10\%:hover { --bg-color: rgb(var(--red-rgb), 0.1); }
+    .art\:\:bg\:red\:20\%:hover { --bg-color: rgb(var(--red-rgb), 0.2); }
+    .art\:\:bg\:red\:30\%:hover { --bg-color: rgb(var(--red-rgb), 0.3); }
+    .art\:\:bg\:red\:40\%:hover { --bg-color: rgb(var(--red-rgb), 0.4); }
+    .art\:\:bg\:red\:50\%:hover { --bg-color: rgb(var(--red-rgb), 0.5); }
+    .art\:\:bg\:red\:60\%:hover { --bg-color: rgba(var(--red-rgb), 0.6); }
+    .art\:\:bg\:red\:70\%:hover { --bg-color: rgba(var(--red-rgb), 0.7); }
+    .art\:\:bg\:red\:80\%:hover { --bg-color: rgba(var(--red-rgb), 0.8); }
+    .art\:\:bg\:red\:90\%:hover { --bg-color: rgba(var(--red-rgb), 0.9); }
 
     /* Blue */
-    .art\:hover\:bg\:blue-01:hover { --bg-color: var(--blue-01); }
-    .art\:hover\:bg\:blue-02:hover { --bg-color: var(--blue-02); }
-    .art\:hover\:bg\:blue-03:hover { --bg-color: var(--blue-03); }
-    .art\:hover\:bg\:blue-04:hover { --bg-color: var(--blue-04); }
-    
-    .art\:hover\:bg\:blue\:10\%:hover { --bg-color: rgb(var(--blue-rgb), 0.1); }
-    .art\:hover\:bg\:blue\:20\%:hover { --bg-color: rgb(var(--blue-rgb), 0.2); }
-    .art\:hover\:bg\:blue\:30\%:hover { --bg-color: rgb(var(--blue-rgb), 0.3); }
-    .art\:hover\:bg\:blue\:40\%:hover { --bg-color: rgb(var(--blue-rgb), 0.4); }
-    .art\:hover\:bg\:blue\:50\%:hover { --bg-color: rgb(var(--blue-rgb), 0.5); }
-    .art\:hover\:bg\:blue\:60\%:hover { --bg-color: rgba(var(--blue-rgb), 0.6); }
-    .art\:hover\:bg\:blue\:70\%:hover { --bg-color: rgba(var(--blue-rgb), 0.7); }
-    .art\:hover\:bg\:blue\:80\%:hover { --bg-color: rgba(var(--blue-rgb), 0.8); }
-    .art\:hover\:bg\:blue\:90\%:hover { --bg-color: rgba(var(--blue-rgb), 0.9); }
+    .art\:\:bg\:blue-01:hover { --bg-color: var(--blue-01); }
+    .art\:\:bg\:blue-02:hover { --bg-color: var(--blue-02); }
+    .art\:\:bg\:blue-03:hover { --bg-color: var(--blue-03); }
+    .art\:\:bg\:blue-04:hover { --bg-color: var(--blue-04); }
+
+    .art\:\:bg\:blue\:10\%:hover { --bg-color: rgb(var(--blue-rgb), 0.1); }
+    .art\:\:bg\:blue\:20\%:hover { --bg-color: rgb(var(--blue-rgb), 0.2); }
+    .art\:\:bg\:blue\:30\%:hover { --bg-color: rgb(var(--blue-rgb), 0.3); }
+    .art\:\:bg\:blue\:40\%:hover { --bg-color: rgb(var(--blue-rgb), 0.4); }
+    .art\:\:bg\:blue\:50\%:hover { --bg-color: rgb(var(--blue-rgb), 0.5); }
+    .art\:\:bg\:blue\:60\%:hover { --bg-color: rgba(var(--blue-rgb), 0.6); }
+    .art\:\:bg\:blue\:70\%:hover { --bg-color: rgba(var(--blue-rgb), 0.7); }
+    .art\:\:bg\:blue\:80\%:hover { --bg-color: rgba(var(--blue-rgb), 0.8); }
+    .art\:\:bg\:blue\:90\%:hover { --bg-color: rgba(var(--blue-rgb), 0.9); }
 
     /* Green */
-    .art\:hover\:bg\:green-01:hover { --bg-color: var(--green-01); }
-    .art\:hover\:bg\:green-02:hover { --bg-color: var(--green-02); }
-    .art\:hover\:bg\:green-03:hover { --bg-color: var(--green-03); }
-    .art\:hover\:bg\:green-04:hover { --bg-color: var(--green-04); }
-    
-    .art\:hover\:bg\:green\:10\%:hover { --bg-color: rgb(var(--green-rgb), 0.1); }
-    .art\:hover\:bg\:green\:20\%:hover { --bg-color: rgb(var(--green-rgb), 0.2); }
-    .art\:hover\:bg\:green\:30\%:hover { --bg-color: rgb(var(--green-rgb), 0.3); }
-    .art\:hover\:bg\:green\:40\%:hover { --bg-color: rgb(var(--green-rgb), 0.4); }
-    .art\:hover\:bg\:green\:50\%:hover { --bg-color: rgb(var(--green-rgb), 0.5); }
-    .art\:hover\:bg\:green\:60\%:hover { --bg-color: rgba(var(--green-rgb), 0.6); }
-    .art\:hover\:bg\:green\:70\%:hover { --bg-color: rgba(var(--green-rgb), 0.7); }
-    .art\:hover\:bg\:green\:80\%:hover { --bg-color: rgba(var(--green-rgb), 0.8); }
-    .art\:hover\:bg\:green\:90\%:hover { --bg-color: rgba(var(--green-rgb), 0.9); }
+    .art\:\:bg\:green-01:hover { --bg-color: var(--green-01); }
+    .art\:\:bg\:green-02:hover { --bg-color: var(--green-02); }
+    .art\:\:bg\:green-03:hover { --bg-color: var(--green-03); }
+    .art\:\:bg\:green-04:hover { --bg-color: var(--green-04); }
+
+    .art\:\:bg\:green\:10\%:hover { --bg-color: rgb(var(--green-rgb), 0.1); }
+    .art\:\:bg\:green\:20\%:hover { --bg-color: rgb(var(--green-rgb), 0.2); }
+    .art\:\:bg\:green\:30\%:hover { --bg-color: rgb(var(--green-rgb), 0.3); }
+    .art\:\:bg\:green\:40\%:hover { --bg-color: rgb(var(--green-rgb), 0.4); }
+    .art\:\:bg\:green\:50\%:hover { --bg-color: rgb(var(--green-rgb), 0.5); }
+    .art\:\:bg\:green\:60\%:hover { --bg-color: rgba(var(--green-rgb), 0.6); }
+    .art\:\:bg\:green\:70\%:hover { --bg-color: rgba(var(--green-rgb), 0.7); }
+    .art\:\:bg\:green\:80\%:hover { --bg-color: rgba(var(--green-rgb), 0.8); }
+    .art\:\:bg\:green\:90\%:hover { --bg-color: rgba(var(--green-rgb), 0.9); }
 
     /* Purple */
-    .art\:hover\:bg\:purple-01:hover { --bg-color: var(--purple-01); }
-    .art\:hover\:bg\:purple-02:hover { --bg-color: var(--purple-02); }
-    .art\:hover\:bg\:purple-03:hover { --bg-color: var(--purple-03); }
-    .art\:hover\:bg\:purple-04:hover { --bg-color: var(--purple-04); }
-    
-    .art\:hover\:bg\:purple\:10\%:hover { --bg-color: rgb(var(--purple-rgb), 0.1); }
-    .art\:hover\:bg\:purple\:20\%:hover { --bg-color: rgb(var(--purple-rgb), 0.2); }
-    .art\:hover\:bg\:purple\:30\%:hover { --bg-color: rgb(var(--purple-rgb), 0.3); }
-    .art\:hover\:bg\:purple\:40\%:hover { --bg-color: rgb(var(--purple-rgb), 0.4); }
-    .art\:hover\:bg\:purple\:50\%:hover { --bg-color: rgb(var(--purple-rgb), 0.5); }
-    .art\:hover\:bg\:purple\:60\%:hover { --bg-color: rgba(var(--purple-rgb), 0.6); }
-    .art\:hover\:bg\:purple\:70\%:hover { --bg-color: rgba(var(--purple-rgb), 0.7); }
-    .art\:hover\:bg\:purple\:80\%:hover { --bg-color: rgba(var(--purple-rgb), 0.8); }
-    .art\:hover\:bg\:purple\:90\%:hover { --bg-color: rgba(var(--purple-rgb), 0.9); }
+    .art\:\:bg\:purple-01:hover { --bg-color: var(--purple-01); }
+    .art\:\:bg\:purple-02:hover { --bg-color: var(--purple-02); }
+    .art\:\:bg\:purple-03:hover { --bg-color: var(--purple-03); }
+    .art\:\:bg\:purple-04:hover { --bg-color: var(--purple-04); }
+
+    .art\:\:bg\:purple\:10\%:hover { --bg-color: rgb(var(--purple-rgb), 0.1); }
+    .art\:\:bg\:purple\:20\%:hover { --bg-color: rgb(var(--purple-rgb), 0.2); }
+    .art\:\:bg\:purple\:30\%:hover { --bg-color: rgb(var(--purple-rgb), 0.3); }
+    .art\:\:bg\:purple\:40\%:hover { --bg-color: rgb(var(--purple-rgb), 0.4); }
+    .art\:\:bg\:purple\:50\%:hover { --bg-color: rgb(var(--purple-rgb), 0.5); }
+    .art\:\:bg\:purple\:60\%:hover { --bg-color: rgba(var(--purple-rgb), 0.6); }
+    .art\:\:bg\:purple\:70\%:hover { --bg-color: rgba(var(--purple-rgb), 0.7); }
+    .art\:\:bg\:purple\:80\%:hover { --bg-color: rgba(var(--purple-rgb), 0.8); }
+    .art\:\:bg\:purple\:90\%:hover { --bg-color: rgba(var(--purple-rgb), 0.9); }
 }

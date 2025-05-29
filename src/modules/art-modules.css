@@ -7,11 +7,6 @@
 
 @import url('cursor/cursor.css');
 
-@import url('direction/bottom.css');
-@import url('direction/left.css');
-@import url('direction/right.css');
-@import url('direction/top.css');
-
 @import url('elements-html/button/button.css');
 @import url('elements-html/input.css');
 @import url('elements-html/link.css');
@@ -23,34 +18,27 @@
 @import url('flex-box/gap.css');
 @import url('flex-box/justify.css');
 
-/* @import url('font/font-color.css');
-@import url('font/font-decoration.css');
-@import url('font/font-hover.css');
-@import url('font/font-size.css');
-@import url('font/font-style.css'); */
+@import url('layout/sides');
+@import url('layout/position.css');
 
-@import url('typography/color.css');
-@import url('typography/font-decoration.css');
-@import url('typography/font-size.css');
-@import url('typography/font-transform.css');
-@import url('typography/font-weight.css');
-
-@import url('spacing/margin.css');
-
-@import url('no-dark/bg-no-dark.css');
-@import url('no-dark/font-no-dark.css');
-@import url('no-dark/hover-no-dark.css');
+@import url('background/bg-no-dark.css');
+@import url('typography/color-no-dark.css');
 
 @import url('overflow/overflow.css');
 
-@import url('spacing/padding.css');
+@import url('sizes/height.css');
+@import url('sizes/width.css');
 
-@import url('layout/position.css');
+@import url('spacing/margin.css');
+@import url('spacing/padding.css');
 
 @import url('transition/ease/ease.css');
 @import url('transition/ease/ease-in-out.css');
 @import url('transition/ease/ease-in.css');
 @import url('transition/ease/ease-out.css');
 
-@import url('sizes/height.css');
-@import url('sizes/width.css');
+@import url('typography/color.css');
+@import url('typography/font-decoration.css');
+@import url('typography/font-size.css');
+@import url('typography/font-transform.css');
+@import url('typography/font-weight.css');

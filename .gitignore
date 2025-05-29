@@ -13,7 +13,6 @@ index.html
 #node_modules/
 #dist/
 build/
-.idea/
 
 # Ignorar logs e arquivos temporários
 *.log

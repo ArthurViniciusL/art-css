@@ -48,48 +48,48 @@
 
 @layer font-size-hover {
 
-    /* art:hover:font:thin */
-    .art\:hover\:font\:thin:hover {
+    /* art:font::thin */
+    .art\:font\:\:thin:hover {
         --font-size: var(--thin);
     }
 
-    /* art:hover:font:sm */
-    .art\:hover\:font\:sm:hover {
+    /* art:font::sm */
+    .art\:font\:\:sm:hover {
         --font-size: var(--sm);
     }
 
-    /* art:hover:font:base */
-    .art\:hover\:font\:base:hover {
+    /* art:font::base */
+    .art\:font\:\:base:hover {
         --font-size: var(--base);
     }
 
-    /* art:hover:font:lg */
-    .art\:hover\:font\:lg:hover {
+    /* art:font::lg */
+    .art\:font\:\:lg:hover {
         --font-size: var(--lg);
     }
 
-    /* art:hover:font:xl */
-    .art\:hover\:font\:xl:hover {
+    /* art:font::xl */
+    .art\:font\:\:xl:hover {
         --font-size: var(--xl);
     }
 
-    /* art:hover:font:2xl */
-    .art\:hover\:font\:2xl:hover {
+    /* art:font::2xl */
+    .art\:font\:\:2xl:hover {
         --font-size: var(--_2xl);
     }
 
-    /* art:hover:font:3xl */
-    .art\:hover\:font\:3xl:hover {
+    /* art:font::3xl */
+    .art\:font\:\:3xl:hover {
         --font-size: var(--_3xl);
     }
 
-    /* art:hover:font:4xl */
-    .art\:hover\:font\:4xl:hover {
+    /* art:font::4xl */
+    .art\:font\:\:4xl:hover {
         --font-size: var(--_4xl);
     }
 
-    /* art:hover:font:5xl */
-    .art\:hover\:font\:5xl:hover {
+    /* art:font::5xl */
+    .art\:font\:\:5xl:hover {
         --font-size: var(--_5xl);
     }
 }

@@ -3,4 +3,9 @@
     .art\:outline\:none {
         outline: none;
     }
+
+    /* art::outline */
+    .art\:\:outline\:none:hover {
+        outline: none;
+    }
 }

@@ -1,71 +1,71 @@
 /* ------------------------------------- justify ------------------------------------- */
 
-.art\:justify-content\:start {
-    /* art:justify-content:start */
+/* art:x-content:start */
+.art\:x-content\:start {
     justify-content: flex-start;
 }
 
-.art\:justify-content\:end {
-    /* art:justify-content:end */
+/* art:x-content:end */
+.art\:x-content\:end {
     justify-content: flex-end;
 }
 
-.art\:justify-content\:center {
-    /* art:justify-content:center */
+/* art:x-content:center */
+.art\:x-content\:center {
     justify-content: center;
 }
 
-.art\:justify-content\:left {
-    /* art:justify-content:left */
+/* art:x-content:left */
+.art\:x-content\:left {
     justify-content: left;
 }
 
-.art\:justify-content\:right {
-    /* art:justify-content:right */
+/* art:x-content:right */
+.art\:x-content\:right {
     justify-content: right;
 }
 
-.art\:justify-content\:between {
-    /* art:justify-content:blue */
+/* art:x-content:between */
+.art\:x-content\:between {
     justify-content: space-between;
 }
 
-.art\:justify-content\:around {
-    /* art:justify-content:around */
+/* art:x-content:around */
+.art\:x-content\:around {
     justify-content: space-around;
 }
 
-.art\:justify-content\:evenly {
-    /* art:justify-content:evenly */
+/* art:x-content:evenly */
+.art\:x-content\:evenly {
     justify-content: space-evenly;
 }
 
-.art\:justify-items\:start {
-    /* art:justify-items:start */
+/* art:x-items:start */
+.art\:x-items\:start {
     justify-items: start;
 }
 
-.art\:justify-items\:end {
-    /* art:justify-items:end */
+/* art:x-items:end */
+.art\:x-items\:end {
     justify-items: end;
 }
 
-.art\:justify-items\:center {
-    /* art:justify-items:center */
+/* art:x-items:center */
+.art\:x-items\:center {
     justify-items: center;
 }
 
-.art\:justify-items\:stretch {
-    /* art:justify-items:stretch */
+/* art:x-items:stretch */
+.art\:x-items\:stretch {
     justify-items: stretch;
 }
 
-.art\:justify-items\:left {
-    /* art:justify-items:left */
+/* art:x-items:left */
+.art\:x-items\:left {
     justify-items: left;
 }
 
-.art\:justify-items\:right {
-    /* art:justify-items:right */
+/* art:x-items:right */
+.art\:x-items\:right {
     justify-items: right;
 }

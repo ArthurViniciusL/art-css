@@ -1,38 +1,95 @@
-/* ------------------------------------- border radius: ------------------------------------- */
+@layer border-radius {
 
-.art\:border-rd\:thin {
     /* art:border-rd:thin */
-    border-radius: var(--thin) var(--thin) var(--thin) var(--thin);
+    .art\:border-rd\:thin {
+        --border-radius: var(--thin) var(--thin) var(--thin) var(--thin);
+    }
+
+    /* art:border-rd:sm */
+    .art\:border-rd\:sm {
+        --border-radius: var(--sm) var(--sm) var(--sm) var(--sm);
+    }
+
+    /* art:border-rd:base */
+    .art\:border-rd\:base {
+        --border-radius: var(--base) var(--base) var(--base) var(--base);
+    }
+
+    /* art:border-rd:lg */
+    .art\:border-rd\:lg {
+        --border-radius: var(--lg) var(--lg) var(--lg) var(--lg);
+    }
+
+    /* art:border-rd:xl */
+    .art\:border-rd\:xl {
+        --border-radius: var(--xl) var(--xl) var(--xl) var(--xl);
+    }
+
+    /* art:border-rd:2xl */
+    .art\:border-rd\:2xl {
+        --border-radius: var(--_2xl) var(--_2xl) var(--_2xl) var(--_2xl);
+    }
+
+    /* art:border-rd:3xl */
+    .art\:border-rd\:3xl {
+        --border-radius: var(--_3xl) var(--_3xl) var(--_3xl) var(--_3xl);
+    }
+
+    /* art:border-rd:4xl */
+    .art\:border-rd\:4xl {
+        --border-radius: var(--_4xl) var(--_4xl) var(--_4xl) var(--_4xl);
+    }
+
+    /* art:border-rd:5xl */
+    .art\:border-rd\:5xl {
+        --border-radius: var(--_5xl) var(--_5xl) var(--_5xl) var(--_5xl);
+    }
 }
 
-.art\:border-rd\:sm {
-    border-radius: var(--sm) var(--sm) var(--sm) var(--sm);
-}
+@layer border-radius-hover {
 
-.art\:border-rd\:base {
-    border-radius: var(--base) var(--base) var(--base) var(--base);
-}
+    /* art:border-rd:thin */
+    .art\:\:border-rd\:thin:hover {
+        --border-radius: var(--thin) var(--thin) var(--thin) var(--thin);
+    }
 
-.art\:border-rd\:lg {
-    border-radius: var(--lg) var(--lg) var(--lg) var(--lg);
-}
+    /* art:border-rd:sm */
+    .art\:\:border-rd\:sm:hover {
+        --border-radius: var(--sm) var(--sm) var(--sm) var(--sm);
+    }
 
-.art\:border-rd\:xl {
-    border-radius: var(--xl) var(--xl) var(--xl) var(--xl);
-}
+    /* art:border-rd:base */
+    .art\:\:border-rd\:base:hover {
+        --border-radius: var(--base) var(--base) var(--base) var(--base);
+    }
 
-.art\:border-rd\:2xl {
-    border-radius: var(--_2xl) var(--_2xl) var(--_2xl) var(--_2xl);
-}
+    /* art:border-rd:lg */
+    .art\:\:border-rd\:lg:hover {
+        --border-radius: var(--lg) var(--lg) var(--lg) var(--lg);
+    }
 
-.art\:border-rd\:3xl {
-    border-radius: var(--_3xl) var(--_3xl) var(--_3xl) var(--_3xl);
-}
+    /* art:border-rd:xl */
+    .art\:\:border-rd\:xl:hover {
+        --border-radius: var(--xl) var(--xl) var(--xl) var(--xl);
+    }
 
-.art\:border-rd\:4xl {
-    border-radius: var(--_4xl) var(--_4xl) var(--_4xl) var(--_4xl);
-}
+    /* art:border-rd:2xl */
+    .art\:\:border-rd\:2xl:hover {
+        --border-radius: var(--_2xl) var(--_2xl) var(--_2xl) var(--_2xl);
+    }
 
-.art\:border-rd\:5xl {
-    border-radius: var(--_5xl) var(--_5xl) var(--_5xl) var(--_5xl);
+    /* art:border-rd:3xl */
+    .art\:\:border-rd\:3xl:hover {
+        --border-radius: var(--_3xl) var(--_3xl) var(--_3xl) var(--_3xl);
+    }
+
+    /* art:border-rd:4xl */
+    .art\:\:border-rd\:4xl:hover {
+        --border-radius: var(--_4xl) var(--_4xl) var(--_4xl) var(--_4xl);
+    }
+
+    /* art:border-rd:5xl */
+    .art\:\:border-rd\:5xl:hover {
+        --border-radius: var(--_5xl) var(--_5xl) var(--_5xl) var(--_5xl);
+    }
 }

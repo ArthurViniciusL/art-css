@@ -1,27 +1,28 @@
-@layer  position {
+@layer position {
 
+    /* art:fixed */
     .art\:fixed {
-        /* art:fixed */
         position: fixed;
     }
 
+    /* art:absolute */
     .art\:absolute {
-        /* art:absolute */
         position: absolute;
     }
 
+    /* art:relative */
     .art\:relative {
-        /* art:relative */
         position: relative;
     }
 
+    /* art:static */
     .art\:static {
-        /* art:static */
         position: static;
     }
 
+    /* art:sticky */
     .art\:sticky {
-        /* art:sticky */
         position: sticky;
     }
 }
+
