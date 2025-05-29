@@ -12,6 +12,9 @@ index.html
 # Ignorar arquivos de compilação e dependências
 #node_modules/
 #dist/
+
+.idea
+
 build/
 
 # Ignorar logs e arquivos temporários
