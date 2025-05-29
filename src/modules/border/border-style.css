@@ -1,4 +1,12 @@
 @layer  border-style {
+    
+    /* art:border:none */
+    .art\:border\:none {
+        --border-top-style: none;
+        --border-bottom-style: none;
+        --border-left-style: none;
+        --border-right-style: none;
+    }
 
     /* art:border:solid */
     .art\:border\:solid {
@@ -59,8 +67,16 @@
 
 @layer  border-style-hover {
 
-    /* art:border::solid */
-    .art\:border\:\:solid:hover {
+    /* art::border:none */
+    .art\:border\:none:hover {
+        --border-top-style: none;
+        --border-bottom-style: none;
+        --border-left-style: none;
+        --border-right-style: none;
+    }
+
+    /* art::border:solid */
+    .art\:\:border\:solid:hover {
         --border-top-style: solid;
         --border-bottom-style: solid;
         --border-left-style: solid;

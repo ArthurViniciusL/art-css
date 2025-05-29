@@ -5,5 +5,5 @@
 
 @layer font-transform-hover {
     /* art:hover:font:capitalize  */
-    .art\:hover\:font\:capitalize { --txt-transform: capitalize; }
+    .art\:\:capitalize { --txt-transform: capitalize; }
 }
