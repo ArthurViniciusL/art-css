@@ -36,11 +36,11 @@ flex_box = [
 
 
 layout = [
-   'src/modules/layout/sides/bottom.css',
-   'src/modules/layout/sides/left.css',
-   'src/modules/layout/sides/right.css',
-   'src/modules/layout/sides/top.css',
-   'src/modules/layout/position.css',
+   'src/modules/layout/position.css'
+#   'src/modules/layout/sides/bottom.css',
+#   'src/modules/layout/sides/left.css',
+#   'src/modules/layout/sides/right.css',
+#   'src/modules/layout/sides/top.css',
 ]
 
 overflow = [

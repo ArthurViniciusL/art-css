@@ -1,6 +1,6 @@
-@layer position {
+/* =============================================== position =============================================== */
 
-    /* art:fixed */
+/* art:fixed */
     .art\:fixed {
         position: fixed;
     }
@@ -24,5 +24,3 @@
     .art\:sticky {
         position: sticky;
     }
-}
-

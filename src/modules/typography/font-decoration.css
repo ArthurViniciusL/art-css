@@ -1,12 +1,13 @@
-@layer font-decoration {
+/* =============================================== font-decoration =============================================== */
 
-    /* art:underline */
-    .art\:underline { --txt-decoration: underline; }
+/* art:underline */
+.art\:underline {
+    --txt-decoration: underline;
 }
 
-@layer font-decoration-hover {
+/* =============================================== font-decoration-hover =============================================== */
 
-    /* art::underline */
-    .art\:\:underline:hover { --txt-decoration: underline; }
-
+/* art::underline */
+.art\:\:underline:hover {
+    --txt-decoration: underline;
 }
