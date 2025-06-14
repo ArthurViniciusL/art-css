@@ -21,6 +21,10 @@ Essa abordagem proporciona flexibilidade e praticidade, alinhadas ao meu estilo 
 ```
 git submodule add https://github.com/ArthurViniciusL/art-css.git art-css
 ```
+```
+git add .
+git commit -m "Add art css under src/styles"
+```
 - Recomendo que você adicione dentro da sua pasta de estilos ou na propria raiz do projeto.
 
 ## 2. Importe o modulo dentro do seu arquivo css global.
