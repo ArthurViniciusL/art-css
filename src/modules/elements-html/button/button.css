@@ -14,10 +14,15 @@ button:hover {
 .art\:btn {
     width: fit-content;
     height: fit-content;
+
     cursor: pointer;
     padding: var(--sm);
     border-radius: var(--sm);
     background: var(--white-02);
+
+    display: flex;
+    gap: var(--sm);
+    justify-content: space-between;
 
     &:hover {
         color: var(--white-01);
@@ -30,10 +35,15 @@ button:hover {
 .art\:btn\:base {
     width: 30%;
     max-width: 10rem;
+
     cursor: pointer;
     padding: var(--sm);
     border-radius: var(--sm);
     background: var(--white-02);
+
+    display: flex;
+    gap: var(--sm);
+    justify-content: space-between;
 
     &:hover {
         color: var(--white-01);
@@ -46,10 +56,15 @@ button:hover {
 .art\:btn\:lg {
     width: 50%;
     max-width: 20rem;
-    cursor: pointer;
+
+   cursor: pointer;
     padding: var(--sm);
     border-radius: var(--sm);
     background: var(--white-02);
+
+    display: flex;
+    gap: var(--sm);
+    justify-content: space-between;
 
     &:hover {
         color: var(--white-01);
@@ -62,10 +77,15 @@ button:hover {
 .art\:btn\:xl {
     width: 70%;
     max-width: 30rem;
+
     cursor: pointer;
     padding: var(--sm);
     border-radius: var(--sm);
     background: var(--white-02);
+
+    display: flex;
+    gap: var(--sm);
+    justify-content: space-between;
 
     &:hover {
         color: var(--white-01);
@@ -77,10 +97,15 @@ button:hover {
 /* art:btn:full */
 .art\:btn\:full {
     width: 100%;
+
     cursor: pointer;
     padding: var(--sm);
     border-radius: var(--sm);
     background: var(--white-02);
+
+    display: flex;
+    gap: var(--sm);
+    justify-content: space-between;
 
     &:hover {
         color: var(--white-01);
